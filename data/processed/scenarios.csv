@@ -1,0 +1,33 @@
+scenario,mode,dept,cost,on_time_est,peak_crews
+demand x0.8,replanned,PWDx,6203238.67,0.983,50
+demand x0.8,base_kept,PWDx,7160833.33,1.0,60
+demand x0.8,replanned,BTDT,2229861.33,0.992,21
+demand x0.8,base_kept,BTDT,2759166.67,1.0,26
+demand x0.8,replanned,PARK,1540384.0,0.986,18
+demand x0.8,base_kept,PARK,1824000.0,1.0,22
+demand x0.8,replanned,ISD,2396594.67,0.984,18
+demand x0.8,base_kept,ISD,2916666.67,1.0,22
+demand x1.2,replanned,PWDx,8441770.67,0.971,71
+demand x1.2,base_kept,PWDx,9604633.33,0.438,60
+demand x1.2,replanned,BTDT,3407093.33,0.971,31
+demand x1.2,base_kept,BTDT,6334050.67,0.206,26
+demand x1.2,replanned,PARK,2167336.0,0.974,27
+demand x1.2,base_kept,PARK,2746512.0,0.411,22
+demand x1.2,replanned,ISD,3658648.0,0.959,26
+demand x1.2,base_kept,ISD,3564186.67,0.267,22
+snowstorm,replanned,PWDx,7790818.33,0.953,60
+snowstorm,base_kept,PWDx,7541501.33,0.875,60
+snowstorm,replanned,BTDT,2794466.67,0.98,26
+snowstorm,base_kept,BTDT,2794466.67,0.98,26
+snowstorm,replanned,PARK,1830360.0,0.984,22
+snowstorm,base_kept,PARK,1830360.0,0.984,22
+snowstorm,replanned,ISD,2930506.67,0.964,22
+snowstorm,base_kept,ISD,2930506.67,0.964,22
+heat wave,replanned,PWDx,7271793.33,0.984,60
+heat wave,base_kept,PWDx,7295515.33,0.954,60
+heat wave,replanned,BTDT,2794466.67,0.98,26
+heat wave,base_kept,BTDT,2794466.67,0.98,26
+heat wave,replanned,PARK,1944756.0,0.991,30
+heat wave,base_kept,PARK,1950828.0,0.699,22
+heat wave,replanned,ISD,2930506.67,0.964,22
+heat wave,base_kept,ISD,2930506.67,0.964,22
