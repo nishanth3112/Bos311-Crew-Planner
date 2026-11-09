@@ -138,7 +138,7 @@ With demand 20% higher and the base plan kept, the on-time estimate falls to 21�
 
 ## How we used AI
 
-We used Claude to propose and compare approaches for the key decisions (the forecast method, the optimizer formulation and the intake design) and to help write code. Claude drafted most of the code for setup, the forecast, the staffing model and sensitivity, and the intake assistant, planner agent and app (Sections 0 and 3–8), and the first draft of Section 10 from our report. The data work, exploratory analysis and equity analysis (Sections 1, 2 and 9) are our own code, reviewed with Claude. In every section we chose among the options, reviewed the code, ran it, checked the results against the brief, and fixed what was wrong. The intake test set's labels were drafted with Claude and checked by hand. Inside the app, Groq's gpt-oss models produce the intake assistant's and the planner agent's responses. The assistant suggests a routing; it doesn't replace 311 staff, and its accuracy is measured on our test set in Section 6 of the notebook.
+We used Claude as a coding assistant: to compare approaches for the main design decisions, and to draft code for Sections 0, 3–8 and 10, which we then reviewed, ran and corrected. Sections 1, 2 and 9 are our own code. Inside the app, Groq's gpt-oss models generate the intake assistant's and the planner agent's responses.
 
 ## Team
 
