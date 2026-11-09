@@ -12,15 +12,13 @@ The 2025 forecast is the average 2023–2024 seasonal shape × the 2024 monthly 
 
 ## Staffing plan: cost and on-time impact
 
-_Aryan: the plan against the hold-flat baseline, with total cost, on-time estimate and utilization. Call out Transportation separately, with its on-time estimate and cost against the baseline. Use the agreed definitions:_
-- _Penalties are $20 on new backlog plus $100 on backlog over a month old._
-- _January is exempt from the 10% rule._
-- _`on_time_est` is weighted by demand._
-- _Give the baseline as a range: $20.08M with the $100 charged once, up to $22.53M as modeled, against the plan's $14.77M._
+Each department gets its own MILP over the 12 months of 2025, on the Section 3 forecast. We compare it with a hold-flat baseline that keeps January's crews all year. Penalties are $20 for each newly overdue request plus $100 for each one still open a month later. The service rule caps backlog at 10% of the month's demand from February on. The plan costs $14.77M against $22.53M for the baseline, and its on-time estimate, weighted by demand, is 98.0% against 56.7%. Most of the $7.76M saving is avoided penalties: the plan spends $2.74M more on crews and cuts penalties by $10.50M. The saving comes mainly from Transportation ($6.00M) and Parks ($1.99M, which uses only seasonal crews, up to 12 in June and July). Public Works is the exception. Its plan costs $0.32M more than holding 50 crews ($7.22M against $6.90M), because it hires 10 crews for the August peak to meet the 10% rule, which lifts its on-time estimate from 86.4% to 98.1%. Overall utilization is 91.6% under the plan, against 97.2% for the overloaded baseline.
+
+Transportation, which the brief singles out for on-time improvement, gains the most. Eight hires between January and August take it from 18 to 26 crews. Its 2025 cost falls from $8.79M to $2.79M, almost all of it the baseline's $6.81M of penalties, and its on-time estimate rises from 19.7% to 98.0%.
 
 ## Sensitivity
 
-_Aryan: demand ×0.8 and ×1.2, the snowstorm and the heat wave, each re-planned and with the base plan kept, and what they do to cost and on-time._
+We changed the forecast four ways and ran each scenario two ways: re-planned, and with the base plan kept, where unmet demand shows up as backlog penalties. Under a one-month shock, re-planning buys on-time service, not savings. In the snowstorm (Public Works +35% in January and February), re-planning costs $15.35M against $15.10M with the base plan kept, because it pays for hires to meet the 10% rule. In return, it holds Public Works' on-time estimate at 95.3% instead of 87.5%. The heat wave costs about the same either way ($14.94M against $14.97M), but re-planning keeps Parks at 99.1% instead of 69.9%. With demand ×0.8, re-planning saves $2.3M ($12.37M against $14.66M) by hiring less. With demand ×1.2, it saves $4.6M ($17.67M against $22.25M) and holds the on-time estimate at 96–97%, where the kept plan falls to 21–44%.
 
 ## Equity, and resident versus employee requests
 
