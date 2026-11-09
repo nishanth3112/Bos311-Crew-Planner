@@ -29,12 +29,24 @@ Public 311 service requests from [Analyze Boston](https://data.boston.gov/datase
 
 ## Setup
 
-Full instructions are coming. The project uses [uv](https://docs.astral.sh/uv/).
+1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/).
+2. Install the dependencies (Python 3.12 is fetched automatically):
+   ```bash
+   uv sync
+   ```
+3. Copy the environment file and add your [Groq](https://console.groq.com/keys) API key to `.env`:
+   ```bash
+   cp .env.example .env
+   ```
+4. Start Jupyter and open `notebooks/boston311_crew_planner.ipynb`:
+   ```bash
+   uv run jupyter lab
+   ```
 
 ## Team
 
-| Member | GitHub | Contributions |
-|---|---|---|
-| Nishanth Manoharan | [@nishanth3112](https://github.com/nishanth3112) | to be added |
-| Ramgopal Reddy Alumalla | [@ramg-0903](https://github.com/ramg-0903) | to be added |
-| Aryan Patil | [@Aryan16d](https://github.com/Aryan16d) | to be added |
+| Member | Notebook | Repo | Report | Video |
+|---|---|---|---|---|
+| Nishanth Manoharan ([@nishanth3112](https://github.com/nishanth3112)) | Setup (Section 0), intake assistant, planner agent and Gradio app (Sections 6–8), analysis and limitations (Section 10), final run | uv project, notebook skeleton, setup steps; reviewed the staffing and README PRs | Intake assistant paragraph and the "How we used AI" section | Architecture walkthrough: diagram, intake assistant, agent tools, optimizer |
+| Ramgopal Reddy Alumalla ([@ramg-0903](https://github.com/ramg-0903)) | Data, exploratory analysis, 2025 forecast and backtest (Sections 1–3), neighborhood equity and resident versus employee requests (Section 9) | Shared CSVs (`request_types`, `monthly_demand`, `forecast_2025`, `neighborhood_stats`), the hand-labeled `intake_test_set.csv`; reviewed the setup and GenAI app PRs | Compiled `report.md`; wrote the data, forecast and equity paragraphs | The problem |
+| Aryan Patil ([@Aryan16d](https://github.com/Aryan16d)) | Staffing plan (MILP) and hold-flat baseline (Section 4), sensitivity scenarios (Section 5) | `plan_2025.csv`, `scenarios.csv`, README with the Mermaid architecture diagram; reviewed the data, report and final-run PRs | Staffing plan and sensitivity paragraphs, with Transportation called out | Product demo: the plan, a sensitivity result and the Gradio app |
