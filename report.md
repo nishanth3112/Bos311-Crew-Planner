@@ -28,7 +28,7 @@ We counted Employee Generated and City Worker App requests as employee requests,
 
 ## Intake assistant
 
-The assistant routes a resident's message to one of the 170 request types used in 2024. It retrieves the 5 closest types, each embedded as its name and category with `bge-small-en-v1.5`, then makes one strict structured-output call to Groq's gpt-oss. That call can only choose one of those 5 or `OUT_OF_SCOPE`, and it can ask a follow-up question. The department and queue come from `request_types.csv`, never from the model. On Ram's 30 test messages (18 clear, 5 ambiguous, 4 multi, 3 out of scope), it chose the right type for 24 (80%) and the right department for 29 (97%). All six type misses were retrieval misses: the right type wasn't among the 5 retrieved. In five of them, the model still chose a type in the right department. For example, dumped tires became Construction Debris instead of Illegal Dumping, and a clogged storm drain became Roadway Flooding instead of Catchbasin. The only department miss was "something is wrong with the road on my street", sent to Transportation instead of Public Works. All three non-311 questions went to `OUT_OF_SCOPE`. The assistant suggests a routing; it doesn't replace 311 staff.
+The assistant routes a resident's message to one of the 170 request types used in 2024. It retrieves the 5 closest types, each embedded as its name and category with `bge-small-en-v1.5`, then makes one strict structured-output call to Groq's gpt-oss. That call can only choose one of those 5 or `OUT_OF_SCOPE`, and it can ask a follow-up question. The department and queue come from `request_types.csv`, never from the model. With `gpt-oss-20b`, on Ram's 30 test messages (18 clear, 5 ambiguous, 4 multi, 3 out of scope), it chose the right type for 24 (80%) and the right department for 29 (97%). All six type misses were retrieval misses: the right type wasn't among the 5 retrieved. In five of them, the model still chose a type in the right department. For example, dumped tires became Construction Debris instead of Illegal Dumping, and a clogged storm drain became Roadway Flooding instead of Catchbasin. The only department miss was "something is wrong with the road on my street", sent to Transportation instead of Public Works. All three non-311 questions went to `OUT_OF_SCOPE`. The assistant suggests a routing; it doesn't replace 311 staff.
 
 ## Limitations
 
@@ -37,7 +37,7 @@ The assistant routes a resident's message to one of the 170 request types used i
 - The forecast carries Public Works' 2023→2024 drop into 2025. If 2023 was an unusual year, it understates 2025 demand.
 - On-time rates count requests with no target date as on time, which flatters Public Works.
 - The intake assistant sees only each type's name and category, so retrieval misses types whose names don't match how residents describe the problem; that caused all six type misses. On vague messages it usually picks a likely type rather than asking a follow-up, and whether it asks varies between runs, even at temperature 0.
-- The test set is 30 hand-labeled messages, so one message moves accuracy by 3.3 points.
+- The test set is 30 labeled messages, so one message moves accuracy by 3.3 points.
 - The planner agent is told to quote only numbers its tools return, and the tools return the comparisons it needs. An LLM can still misstate or compute a number, so its answers should be checked against the CSVs.
 - _Aryan: add the limitations of the optimizer._
 
