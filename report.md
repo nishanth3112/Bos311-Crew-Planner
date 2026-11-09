@@ -12,7 +12,7 @@ The 2025 forecast is the average 2023–2024 seasonal shape × the 2024 monthly 
 
 ## Staffing plan: cost and on-time impact
 
-Each department gets its own MILP over the 12 months of 2025, on the Section 3 forecast. We compare it with a hold-flat baseline that keeps January's crews all year. Penalties are $20 for each newly overdue request plus $100 for each one still open a month later. The service rule caps backlog at 10% of the month's demand from February on. The plan costs $14.77M against $22.53M for the baseline, and its on-time estimate, weighted by demand, is 98.0% against 56.7%. Most of the $7.76M saving is avoided penalties: the plan spends $2.74M more on crews and cuts penalties by $10.50M. The saving comes mainly from Transportation ($6.00M) and Parks ($1.99M, which uses only seasonal crews, up to 12 in June and July). Public Works is the exception. Its plan costs $0.32M more than holding 50 crews ($7.22M against $6.90M), because it hires 10 crews for the August peak to meet the 10% rule, which lifts its on-time estimate from 86.4% to 98.1%. Overall utilization is 91.6% under the plan, against 97.2% for the overloaded baseline.
+Each department gets its own MILP over the 12 months of 2025, on the Section 3 forecast. We compare it with a hold-flat baseline that keeps January's crews all year. Penalties are $20 for each newly overdue request plus $100 for each month a request stays open more than a month. The service rule caps backlog at 10% of the month's demand from February on. The plan costs $14.77M against $22.53M for the baseline, and its on-time estimate, weighted by demand, is 98.0% against 56.7%. Most of the $7.76M saving is avoided penalties: the plan spends $2.74M more on crews and cuts penalties by $10.50M. The saving comes mainly from Transportation ($6.00M) and Parks ($1.99M, which uses only seasonal crews, up to 12 in June and July). Public Works is the exception. Its plan costs $0.32M more than holding 50 crews ($7.22M against $6.90M), because it hires 10 crews for the August peak to meet the 10% rule, which lifts its on-time estimate from 86.4% to 98.1%. Overall utilization is 91.6% under the plan, against 97.2% for the overloaded baseline.
 
 Transportation, which the brief singles out for on-time improvement, gains the most. Eight hires between January and August take it from 18 to 26 crews. Its 2025 cost falls from $8.79M to $2.79M, almost all of it the baseline's $6.81M of penalties, and its on-time estimate rises from 19.7% to 98.0%.
 
@@ -39,7 +39,6 @@ The assistant routes a resident's message to one of the 170 request types used i
 - The intake assistant sees only each type's name and category, so retrieval misses types whose names don't match how residents describe the problem; that caused all six type misses. On vague messages it usually picks a likely type rather than asking a follow-up, and whether it asks varies between runs, even at temperature 0.
 - The test set is 30 labeled messages, so one message moves accuracy by 3.3 points.
 - The planner agent is told to quote only numbers its tools return, and the tools return the comparisons it needs. An LLM can still misstate or compute a number, so its answers should be checked against the CSVs.
-- _Aryan: add the limitations of the optimizer._
 
 ## How we used AI
 
