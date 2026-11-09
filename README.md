@@ -9,7 +9,7 @@ IE 5374 Hackathon, Northeastern University. Team of 3.
 ## What's in the repo
 
 - `notebooks/boston311_crew_planner.ipynb`: the whole project, run top to bottom
-- `report.md`: a one-page analysis of our decisions, assumptions and sensitivity results (added in BOS-6)
+- `report.md`: a short analysis of our decisions, assumptions and sensitivity results (added in BOS-6)
 - `data/processed/`: small CSVs the notebook writes and later sections read
   - `request_types.csv`: every 2024 request type with its department and queue
   - `monthly_demand.csv`: requests per department per month, 2023–2024
@@ -17,7 +17,7 @@ IE 5374 Hackathon, Northeastern University. Team of 3.
   - `plan_2025.csv`: the staffing plan per department per month, 2025
   - `scenarios.csv`: cost, on-time estimate and peak crews for each sensitivity scenario
   - `neighborhood_stats.csv`: 2024 requests, on-time rate and median days by department, type and neighborhood
-- `data/intake_test_set.csv`: 30 hand-labeled messages for measuring the intake assistant
+- `data/intake_test_set.csv`: 30 labeled messages for measuring the intake assistant
 - `pyproject.toml`, `uv.lock`: the Python environment
 
 ## Departments in scope
@@ -60,7 +60,7 @@ Public 311 service requests from [Analyze Boston](https://data.boston.gov/datase
 ## Architecture
 
 ```mermaid
-flowchart LR
+flowchart TB
     subgraph plan["Staffing plan"]
         A["Analyze Boston 311 CSVs<br/>2023 and 2024"] --> B["DuckDB cleaning<br/>and data checks"]
         B --> C["monthly_demand.csv"]
