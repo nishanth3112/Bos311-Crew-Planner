@@ -4,7 +4,7 @@ A month-by-month 2025 staffing plan for four City of Boston departments, built f
 
 IE 5374 Hackathon, Northeastern University. Team of 3.
 
-> **Status:** in progress.
+> **Status:** complete. The notebook was run top to bottom with `openai/gpt-oss-120b`, and every output is saved.
 
 ## What's in the repo
 
@@ -113,7 +113,7 @@ From the notebook's Sections 4 and 5 (2025, all four departments):
 
 **Transportation**, which the brief singles out for on-time improvement, goes from 18 to 26 crews. Its cost falls from $8,789,560 to $2,794,467, and its on-time estimate rises from 19.7% to 98.0%.
 
-The on-time estimate is a model estimate (1 − backlog / demand), not the city's real on-time rate. The baseline's penalty is an upper bound, because with no hires its backlog keeps growing all year and is charged every month.
+The on-time estimate is a model estimate (1 − backlog / demand), not the city's real on-time rate. The baseline's penalty is an upper bound, because with no hires its backlog keeps growing all year and the $100 late penalty is charged every month. Charged once, the baseline is $20,081,780 (Section 4 prints both), so the plan saves $5.31M to $7.76M.
 
 **Sensitivity**, total 2025 cost ($M):
 
@@ -126,32 +126,24 @@ The on-time estimate is a model estimate (1 − backlog / demand), not the city'
 
 With demand 20% higher and the base plan kept, the on-time estimate falls to 21–44% across departments; re-planning holds it at 96–97%.
 
-**Intake assistant accuracy:** _TODO (BOS-7): type and department accuracy on `data/intake_test_set.csv`, with counts._
+**Intake assistant accuracy** (Section 6, `gpt-oss-120b`, the 30 messages in `data/intake_test_set.csv`): the right request type for **23/30 (77%)** and the right department for **30/30 (100%)**. Six of the seven type misses were retrieval misses, where the right type wasn't among the 5 retrieved. All 3 non-311 messages went to `OUT_OF_SCOPE`.
 
-**Planner agent examples:** _TODO (BOS-7): two or three example questions and the agent's answers._
+**Planner agent examples** (Section 7):
+
+| Question | Tools called | Answer |
+|---|---|---|
+| How many crews does Transportation have in August 2025, and how much does its plan cost for the year? | `get_plan` twice | 25 crews; $2,794,467 for the year |
+| If demand is 20% higher, how do Parks' cost and on-time estimate compare between re-planning and keeping the base plan? | `what_if` | Re-planned $2,167,336 and 0.974; base plan kept $2,746,512 and 0.411 |
+| Which neighborhood has the lowest on-time rate for Transportation, and what is that rate? | `neighborhood_stats` | West Roxbury, 0.365 |
 
 ## How we used AI
 
-We used Claude to propose and compare approaches for the key decisions (the forecast method, the optimizer formulation and the intake design) and to draft code. We chose among the options, reviewed the code, ran it, checked the results against the brief, and iterated where they were wrong. Inside the app, Groq's gpt-oss models produce the intake assistant's and the planner agent's responses. The assistant suggests a routing; it doesn't replace 311 staff, and its accuracy is measured on our test set.
-
-| Section | AI involvement |
-|---|---|
-| 0. Setup | _to be filled by the owner_ |
-| 1. Data | _to be filled by the owner_ |
-| 2. Exploratory analysis | _to be filled by the owner_ |
-| 3. 2025 demand forecast and backtest | _to be filled by the owner_ |
-| 4. Staffing plan (MILP) and the hold-flat baseline | AI-drafted, reviewed and tested by us |
-| 5. Sensitivity: demand ±20%, snowstorm, heat wave | AI-drafted, reviewed and tested by us |
-| 6. 311 intake assistant and its accuracy | _to be filled by the owner_ |
-| 7. Planner agent with 5 tools | _to be filled by the owner_ |
-| 8. Gradio app | _to be filled by the owner_ |
-| 9. Other considerations: neighborhood equity, resident versus employee requests | _to be filled by the owner_ |
-| 10. Analysis and limitations | _to be filled by the owner_ |
+We used Claude to propose and compare approaches for the key decisions (the forecast method, the optimizer formulation and the intake design) and to help write code. Claude drafted most of the code for setup, the forecast, the staffing model and sensitivity, and the intake assistant, planner agent and app (Sections 0 and 3–8), and the first draft of Section 10 from our report. The data work, exploratory analysis and equity analysis (Sections 1, 2 and 9) are our own code, reviewed with Claude. In every section we chose among the options, reviewed the code, ran it, checked the results against the brief, and fixed what was wrong. The intake test set's labels were drafted with Claude and checked by hand. Inside the app, Groq's gpt-oss models produce the intake assistant's and the planner agent's responses. The assistant suggests a routing; it doesn't replace 311 staff, and its accuracy is measured on our test set in Section 6 of the notebook.
 
 ## Team
 
 | Member | Notebook | Repo | Report | Video |
 |---|---|---|---|---|
-| Nishanth Manoharan ([@nishanth3112](https://github.com/nishanth3112)) | Setup (Section 0), intake assistant, planner agent and Gradio app (Sections 6–8), analysis and limitations (Section 10), final run | uv project, notebook skeleton, setup steps; reviewed the staffing and README PRs | Intake assistant paragraph and the "How we used AI" section | Architecture walkthrough: diagram, intake assistant, agent tools, optimizer |
+| Nishanth Manoharan ([@nishanth3112](https://github.com/nishanth3112)) | Setup (Section 0), intake assistant, planner agent and Gradio app (Sections 6–8), analysis and limitations (Section 10), final run | uv project, notebook skeleton, setup steps; reviewed the staffing and README PRs | Intake assistant paragraph and its limitations | Architecture walkthrough: diagram, intake assistant, agent tools, optimizer |
 | Ramgopal Reddy Alumalla ([@ramg-0903](https://github.com/ramg-0903)) | Data download and checks against the brief, four exploratory charts, the 2025 forecast with a 2024 backtest (Sections 1–3), on-time rates by neighborhood and resident versus employee requests (Section 9) | Shared CSVs (`request_types`, `monthly_demand`, `forecast_2025`, `neighborhood_stats`) and the 30-message `intake_test_set.csv`, labeled from `request_types.csv`; reviewed the setup and GenAI app PRs | Compiled `report.md`; wrote the data, forecast and equity paragraphs | The problem |
 | Aryan Patil ([@Aryan16d](https://github.com/Aryan16d)) | Staffing plan MILP and hold-flat baseline (Section 4), sensitivity scenarios (Section 5) | `plan_2025.csv` and `scenarios.csv`; HiGHS solver fix; README with the Mermaid architecture diagram; reviewed the BOS-2 (data and forecast) and BOS-6/BOS-7 (report and final run) PRs | Staffing plan and sensitivity paragraphs, with Transportation called out | Drives the product demo: the plan, a sensitivity result and the Gradio app |
