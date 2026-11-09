@@ -12,7 +12,11 @@ The 2025 forecast is the average 2023–2024 seasonal shape × the 2024 monthly 
 
 ## Staffing plan: cost and on-time impact
 
-_Aryan: the plan against the hold-flat baseline, with total cost, on-time estimate and utilization. Call out Transportation separately, with its on-time estimate and cost against the baseline._
+_Aryan: the plan against the hold-flat baseline, with total cost, on-time estimate and utilization. Call out Transportation separately, with its on-time estimate and cost against the baseline. Use the agreed definitions:_
+- _Penalties are $20 on new backlog plus $100 on backlog over a month old._
+- _January is exempt from the 10% rule._
+- _`on_time_est` is weighted by demand._
+- _Give the baseline as a range: $20.08M with the $100 charged once, up to $22.53M as modeled, against the plan's $14.77M._
 
 ## Sensitivity
 
@@ -26,11 +30,11 @@ We counted Employee Generated and City Worker App requests as employee requests,
 
 ## Intake assistant
 
-_Nishanth: type and department accuracy on the 30-message test set (18 clear, 5 ambiguous, 4 multi, 3 out of scope), with counts and the misrouted messages._
+_Nishanth: type and department accuracy on the 30-message test set (18 clear, 5 ambiguous, 4 multi, 3 out of scope), with counts and the misrouted messages. The gpt-oss-20b run gave 24/30 for type and 29/30 for department, with all six type misses being retrieval misses; use the BOS-7 run's numbers._
 
 ## Limitations
 
-- The staffing model tracks backlog month by month, so it only approximates which requests become overdue, and how late.
+- The staffing model tracks backlog month by month, so it only approximates which requests become overdue, and how late. It charges the $100 late penalty for every month a request stays over a month old, not just once, so the baseline cost is a range: $20.08M to $22.53M.
 - The backtest has no growth term, so it tests the seasonal shape and level, not the full forecast method.
 - The forecast carries Public Works' 2023→2024 drop into 2025. If 2023 was an unusual year, it understates 2025 demand.
 - On-time rates count requests with no target date as on time, which flatters Public Works.
