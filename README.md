@@ -29,7 +29,19 @@ Public 311 service requests from [Analyze Boston](https://data.boston.gov/datase
 
 ## Setup
 
-Full instructions are coming. The project uses [uv](https://docs.astral.sh/uv/).
+1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/).
+2. Install the dependencies (Python 3.12 is fetched automatically):
+   ```bash
+   uv sync
+   ```
+3. Copy the environment file and add your [Groq](https://console.groq.com/keys) API key to `.env`:
+   ```bash
+   cp .env.example .env
+   ```
+4. Start Jupyter and open `notebooks/boston311_crew_planner.ipynb`:
+   ```bash
+   uv run jupyter lab
+   ```
 
 ## Team
 
