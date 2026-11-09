@@ -1,0 +1,27 @@
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Data and caches
+data/raw/
+data/cache/
+
+# Personal drafts
+scratch/
+
+# Claude Code and AI-tool files (local only)
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
+.handoff/
+.impeccable/
+PRODUCT.md
+DESIGN.md
+
+# macOS
+.DS_Store

@@ -1,0 +1,40 @@
+# Boston 311 Crew Planner
+
+A month-by-month 2025 staffing plan for four City of Boston departments, built from real 311 service request data, with a GenAI intake assistant and a planner agent.
+
+IE 5374 Hackathon, Northeastern University. Team of 3.
+
+> **Status:** in progress.
+
+## What's in the repo
+
+- `notebooks/boston311_crew_planner.ipynb`: the whole project, run top to bottom
+- `report.md`: a one-page analysis of our decisions, assumptions and sensitivity results
+- `data/processed/`: small CSVs the notebook writes
+
+## Departments in scope
+
+| Department | Code | 2024 requests | On time, 2024 | Requests per crew per day | Annual cost per crew | Crews, Jan 2025 |
+|---|---|---|---|---|---|---|
+| Public Works | PWDx | 157,610 | 90% | 12 | $130,000 | 50 |
+| Transportation | BTDT | 81,447 | 50% | 15 | $110,000 | 18 |
+| Parks & Recreation | PARK | 18,736 | 93% | 6 | $120,000 | 10 |
+| Inspectional Services | ISD | 18,624 | 72% | 4 | $140,000 | 16 |
+
+Request counts and on-time rates come from the real data. Capacities, costs and starting crews are planning assumptions from the hackathon brief.
+
+## Data
+
+Public 311 service requests from [Analyze Boston](https://data.boston.gov/dataset/311-service-requests), the 2023 and 2024 files. The raw CSVs are too large for GitHub and are not committed; the notebook downloads them.
+
+## Setup
+
+Full instructions are coming. The project uses [uv](https://docs.astral.sh/uv/).
+
+## Team
+
+| Member | GitHub | Contributions |
+|---|---|---|
+| Nishanth Manoharan | [@nishanth3112](https://github.com/nishanth3112) | to be added |
+| Ramgopal Reddy Alumalla | [@ramg-0903](https://github.com/ramg-0903) | to be added |
+| Aryan Patil | [@Aryan16d](https://github.com/Aryan16d) | to be added |
