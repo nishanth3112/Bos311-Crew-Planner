@@ -23,9 +23,9 @@ my neighbor's building looks unsafe,Unsafe Dangerous Conditions,ISD,ambiguous
 Someone has been parked across my driveway all day and also the no parking sign on our block is missing,Parking Enforcement,BTDT,multi
 There are mice in my apartment and the landlord still hasn't fixed the leaking pipe under the sink,Mice Infestation - Residential,ISD,multi
 Dead tree by the tennis courts in the park looks like it's about to fall and the trash cans there are overflowing,Tree Emergencies,PARK,multi
-Found a used needle on the sidewalk near the playground on Mass Ave,Needle Pickup,GEN,out_of_scope
-Someone spray painted graffiti all over the wall of the community center on Blue Hill Ave,Graffiti Removal,PROP,out_of_scope
-The storm drain at the corner of my street is clogged and water is flooding the road,Catchbasin,BWSC,out_of_scope
+Found a used needle on the sidewalk near the playground on Mass Ave,Needle Pickup,GEN,clear
+Someone spray painted graffiti all over the wall of the community center on Blue Hill Ave,Graffiti Removal,PROP,clear
+The storm drain at the corner of my street is clogged and water is flooding the road,Catchbasin,BWSC,clear
 What time does the Red Line stop running on Saturdays?,OUT_OF_SCOPE,,out_of_scope
 Can you recommend a good pizza place in the North End?,OUT_OF_SCOPE,,out_of_scope
 How do I renew my driver's license?,OUT_OF_SCOPE,,out_of_scope
