@@ -1,0 +1,31 @@
+message,type,dept,kind
+"There's a huge pothole on Centre St near the Stop & Shop, my tire almost blew out",Request for Pothole Repair,PWDx,clear
+"streetlight out in front of 42 Adams st in dorchester, been dark for a week",Street Light Outages,PWDx,clear
+"my trash wasn't picked up today. the whole street got theirs but mine is still at the curb",Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,clear
+Need to schedule a pickup for an old couch and a dresser,Schedule a Bulk Item Pickup,PWDx,clear
+Someone dumped a pile of tires and construction junk in the alley behind Hancock St,Illegal Dumping,PWDx,clear
+Car parked in the handicap spot with no placard outside the library on Boylston,Parking Enforcement,BTDT,clear
+the stop sign at Walnut and Elm got knocked over and is lying in the grass,Sign Repair,BTDT,clear
+"A white van with no plates has been sitting on our street for over a month, hasn't moved once",Abandoned Vehicles,BTDT,clear
+"Bike locked to the rack outside our building for months, both tires gone and it's all rusted",Abandoned Bicycle,BTDT,clear
+"The tree in front of my house needs trimming, branches are hanging over the sidewalk and hitting people",Tree Maintenance Requests,PARK,clear
+A tree came down in the storm and is blocking the whole road on Washington St,Tree Emergencies,PARK,clear
+"The swings at the playground in Ringer Park are broken, one of the chains snapped",Equipment Repair,PARK,clear
+I see rats running around the dumpsters behind my building every night,Rodent Activity,ISD,clear
+My landlord hasn't turned the heat on and it's 50 degrees in my apartment,Heat - Excessive  Insufficient,ISD,clear
+There's black mold all over the bathroom ceiling in my rental and the landlord won't do anything,Chronic Dampness/Mold,ISD,clear
+something is wrong with the road on my street,Request for Pothole Repair,PWDx,ambiguous
+the light isn't working,Street Light Outages,PWDx,ambiguous
+there's so much trash around here,Requests for Street Cleaning,PWDx,ambiguous
+the park near me is in really bad shape,Ground Maintenance,PARK,ambiguous
+my neighbor's building looks unsafe,Unsafe Dangerous Conditions,ISD,ambiguous
+"Pothole on Dot Ave by the T stop, and the streetlight right next to it is out too",Request for Pothole Repair,PWDx,multi
+Someone has been parked across my driveway all day and also the no parking sign on our block is missing,Parking Enforcement,BTDT,multi
+There are mice in my apartment and the landlord still hasn't fixed the leaking pipe under the sink,Mice Infestation - Residential,ISD,multi
+Dead tree by the tennis courts in the park looks like it's about to fall and the trash cans there are overflowing,Tree Emergencies,PARK,multi
+Found a used needle on the sidewalk near the playground on Mass Ave,Needle Pickup,GEN,clear
+Someone spray painted graffiti all over the wall of the community center on Blue Hill Ave,Graffiti Removal,PROP,clear
+The storm drain at the corner of my street is clogged and water is flooding the road,Catchbasin,BWSC,clear
+What time does the Red Line stop running on Saturdays?,OUT_OF_SCOPE,,out_of_scope
+Can you recommend a good pizza place in the North End?,OUT_OF_SCOPE,,out_of_scope
+How do I renew my driver's license?,OUT_OF_SCOPE,,out_of_scope

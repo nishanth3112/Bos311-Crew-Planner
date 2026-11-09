@@ -1,0 +1,2948 @@
+dept,type,neighborhood,requests,on_time_rate,median_days
+BTDT,Abandoned Bicycle,Allston / Brighton,96,1.0,3.06
+BTDT,Abandoned Bicycle,Back Bay,86,1.0,3.41
+BTDT,Abandoned Bicycle,Beacon Hill,49,1.0,2.78
+BTDT,Abandoned Bicycle,Boston,69,1.0,3.33
+BTDT,Abandoned Bicycle,Charlestown,17,1.0,12.68
+BTDT,Abandoned Bicycle,Dorchester,74,1.0,3.71
+BTDT,Abandoned Bicycle,Downtown / Financial District,91,1.0,2.67
+BTDT,Abandoned Bicycle,East Boston,21,1.0,1.91
+BTDT,Abandoned Bicycle,Fenway / Kenmore / Audubon Circle / Longwood,52,1.0,1.93
+BTDT,Abandoned Bicycle,Greater Mattapan,21,1.0,4.13
+BTDT,Abandoned Bicycle,Hyde Park,16,1.0,3.19
+BTDT,Abandoned Bicycle,Jamaica Plain,54,1.0,2.08
+BTDT,Abandoned Bicycle,Mission Hill,9,1.0,2.81
+BTDT,Abandoned Bicycle,Roslindale,17,1.0,2.0
+BTDT,Abandoned Bicycle,Roxbury,58,1.0,3.85
+BTDT,Abandoned Bicycle,South Boston / South Boston Waterfront,85,1.0,2.57
+BTDT,Abandoned Bicycle,South End,77,1.0,3.06
+BTDT,Abandoned Bicycle,West Roxbury,9,1.0,1.13
+BTDT,Abandoned Vehicles,Allston / Brighton,430,0.214,37.26
+BTDT,Abandoned Vehicles,Back Bay,51,0.235,31.95
+BTDT,Abandoned Vehicles,Beacon Hill,38,0.605,13.15
+BTDT,Abandoned Vehicles,Boston,41,0.585,5.89
+BTDT,Abandoned Vehicles,Charlestown,88,0.17,110.12
+BTDT,Abandoned Vehicles,Dorchester,1133,0.247,40.45
+BTDT,Abandoned Vehicles,Downtown / Financial District,66,0.424,31.23
+BTDT,Abandoned Vehicles,East Boston,232,0.224,34.81
+BTDT,Abandoned Vehicles,Fenway / Kenmore / Audubon Circle / Longwood,32,0.656,10.81
+BTDT,Abandoned Vehicles,Greater Mattapan,345,0.148,43.39
+BTDT,Abandoned Vehicles,Hyde Park,411,0.221,33.87
+BTDT,Abandoned Vehicles,Jamaica Plain,426,0.169,69.91
+BTDT,Abandoned Vehicles,Mission Hill,53,0.17,56.63
+BTDT,Abandoned Vehicles,Roslindale,365,0.17,61.25
+BTDT,Abandoned Vehicles,Roxbury,550,0.195,47.79
+BTDT,Abandoned Vehicles,South Boston / South Boston Waterfront,221,0.321,37.71
+BTDT,Abandoned Vehicles,South End,83,0.361,21.19
+BTDT,Abandoned Vehicles,West Roxbury,169,0.213,63.84
+BTDT,Bicycle Issues,Allston / Brighton,1,0.0,
+BTDT,Bicycle Issues,Back Bay,3,0.0,
+BTDT,Bicycle Issues,Boston,4,0.5,0.45
+BTDT,Bicycle Issues,Charlestown,2,0.0,
+BTDT,Bicycle Issues,Dorchester,6,0.167,0.0
+BTDT,Bicycle Issues,Downtown / Financial District,3,0.0,
+BTDT,Bicycle Issues,East Boston,4,0.25,8.3
+BTDT,Bicycle Issues,Fenway / Kenmore / Audubon Circle / Longwood,2,0.0,
+BTDT,Bicycle Issues,Greater Mattapan,1,0.0,
+BTDT,Bicycle Issues,Hyde Park,2,0.0,
+BTDT,Bicycle Issues,Mission Hill,1,0.0,
+BTDT,Bicycle Issues,Roxbury,2,0.5,2.79
+BTDT,Bicycle Issues,South Boston / South Boston Waterfront,2,0.0,
+BTDT,Bicycle Issues,South End,3,0.0,
+BTDT,Building Inspection Request,East Boston,1,0.0,504.15
+BTDT,CE Collection,Back Bay,1,0.0,
+BTDT,CE Collection,Boston,1,0.0,1.37
+BTDT,CE Collection,Dorchester,3,0.333,57.04
+BTDT,CE Collection,Downtown / Financial District,2,0.0,
+BTDT,CE Collection,East Boston,1,0.0,346.41
+BTDT,CE Collection,Mission Hill,1,0.0,
+BTDT,CE Collection,Roxbury,2,0.5,1.95
+BTDT,CE Collection,South Boston / South Boston Waterfront,1,0.0,284.06
+BTDT,Construction Debris,Allston / Brighton,1,0.0,
+BTDT,Construction Debris,Roxbury,1,0.0,
+BTDT,Construction Debris,South Boston / South Boston Waterfront,2,0.0,6.41
+BTDT,Contractor Complaints,Back Bay,3,0.0,
+BTDT,Contractor Complaints,Beacon Hill,1,0.0,
+BTDT,Contractor Complaints,Dorchester,2,0.5,130.44
+BTDT,Contractor Complaints,Downtown / Financial District,1,0.0,
+BTDT,Contractor Complaints,Fenway / Kenmore / Audubon Circle / Longwood,2,0.0,29.43
+BTDT,Contractor Complaints,Greater Mattapan,3,0.333,26.14
+BTDT,Contractor Complaints,Hyde Park,2,0.0,211.11
+BTDT,Contractor Complaints,Jamaica Plain,2,0.0,167.24
+BTDT,Contractor Complaints,Roxbury,3,0.0,258.94
+BTDT,Contractor Complaints,South Boston / South Boston Waterfront,3,0.0,
+BTDT,Contractor Complaints,South End,2,0.0,180.85
+BTDT,Contractors Complaint,Beacon Hill,1,1.0,259.13
+BTDT,Contractors Complaint,Charlestown,1,1.0,334.75
+BTDT,Contractors Complaint,Downtown / Financial District,3,1.0,7.97
+BTDT,Contractors Complaint,East Boston,3,1.0,411.12
+BTDT,Contractors Complaint,Jamaica Plain,1,1.0,54.08
+BTDT,Contractors Complaint,Roslindale,1,1.0,296.15
+BTDT,Contractors Complaint,South Boston / South Boston Waterfront,4,1.0,144.88
+BTDT,Contractors Complaint,South End,3,1.0,49.03
+BTDT,Egress,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.89
+BTDT,Egress,Hyde Park,1,1.0,7.91
+BTDT,Equipment Repair,Allston / Brighton,1,1.0,2.7
+BTDT,Equipment Repair,Back Bay,1,0.0,
+BTDT,Equipment Repair,Charlestown,1,0.0,376.61
+BTDT,Equipment Repair,Dorchester,2,0.0,
+BTDT,Equipment Repair,Downtown / Financial District,4,0.0,433.05
+BTDT,Equipment Repair,East Boston,2,0.0,
+BTDT,Equipment Repair,Fenway / Kenmore / Audubon Circle / Longwood,2,0.0,227.41
+BTDT,Equipment Repair,Jamaica Plain,1,0.0,428.73
+BTDT,Equipment Repair,Roslindale,1,0.0,292.41
+BTDT,Equipment Repair,Roxbury,4,0.5,12.36
+BTDT,Equipment Repair,South Boston / South Boston Waterfront,2,0.5,1.13
+BTDT,Equipment Repair,South End,2,0.0,299.15
+BTDT,Equipment Repair,West Roxbury,2,0.0,89.94
+BTDT,Exceeding Terms of Permit,Downtown / Financial District,2,0.5,13.01
+BTDT,General Comments For An Employee,Allston / Brighton,2,1.0,153.24
+BTDT,General Comments For An Employee,Back Bay,3,1.0,98.01
+BTDT,General Comments For An Employee,Beacon Hill,2,1.0,223.79
+BTDT,General Comments For An Employee,Boston,3,1.0,178.41
+BTDT,General Comments For An Employee,Charlestown,1,1.0,435.96
+BTDT,General Comments For An Employee,Dorchester,3,1.0,226.21
+BTDT,General Comments For An Employee,East Boston,2,1.0,115.67
+BTDT,General Comments For An Employee,Greater Mattapan,1,1.0,192.27
+BTDT,General Comments For An Employee,Hyde Park,1,1.0,214.17
+BTDT,General Comments For An Employee,Jamaica Plain,2,1.0,286.49
+BTDT,General Comments For An Employee,Mission Hill,1,1.0,232.08
+BTDT,General Comments For An Employee,Roslindale,4,1.0,154.12
+BTDT,General Comments For An Employee,Roxbury,4,1.0,377.16
+BTDT,General Comments For An Employee,South Boston / South Boston Waterfront,2,1.0,54.82
+BTDT,General Comments For An Employee,South End,2,1.0,343.59
+BTDT,General Comments For An Employee,West Roxbury,1,1.0,14.06
+BTDT,General Comments For a Program or Policy,Back Bay,2,0.0,88.13
+BTDT,General Comments For a Program or Policy,Boston,1,0.0,31.73
+BTDT,General Comments For a Program or Policy,Dorchester,3,0.333,0.03
+BTDT,General Comments For a Program or Policy,Downtown / Financial District,1,0.0,
+BTDT,General Comments For a Program or Policy,Greater Mattapan,1,0.0,216.08
+BTDT,General Comments For a Program or Policy,Hyde Park,1,0.0,
+BTDT,General Comments For a Program or Policy,Jamaica Plain,3,0.333,1.83
+BTDT,General Comments For a Program or Policy,Mission Hill,1,0.0,
+BTDT,General Comments For a Program or Policy,Roxbury,1,0.0,
+BTDT,General Lighting Request,Boston,1,0.0,70.03
+BTDT,General Lighting Request,Dorchester,1,1.0,1.4
+BTDT,General Lighting Request,Greater Mattapan,1,1.0,2.75
+BTDT,General Lighting Request,Roxbury,1,1.0,0.65
+BTDT,General Lighting Request,South Boston / South Boston Waterfront,1,1.0,1.55
+BTDT,General Traffic Engineering Request,Allston / Brighton,15,0.6,21.93
+BTDT,General Traffic Engineering Request,Back Bay,5,0.0,225.63
+BTDT,General Traffic Engineering Request,Boston,1,1.0,0.27
+BTDT,General Traffic Engineering Request,Charlestown,2,0.0,160.09
+BTDT,General Traffic Engineering Request,Dorchester,21,0.476,70.96
+BTDT,General Traffic Engineering Request,Downtown / Financial District,4,0.5,36.6
+BTDT,General Traffic Engineering Request,East Boston,5,0.6,20.95
+BTDT,General Traffic Engineering Request,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,3.03
+BTDT,General Traffic Engineering Request,Greater Mattapan,21,0.476,52.17
+BTDT,General Traffic Engineering Request,Hyde Park,11,0.455,49.1
+BTDT,General Traffic Engineering Request,Jamaica Plain,13,0.615,6.08
+BTDT,General Traffic Engineering Request,Mission Hill,1,0.0,147.03
+BTDT,General Traffic Engineering Request,Roslindale,5,0.6,0.95
+BTDT,General Traffic Engineering Request,Roxbury,17,0.529,11.45
+BTDT,General Traffic Engineering Request,South Boston / South Boston Waterfront,7,0.714,3.56
+BTDT,General Traffic Engineering Request,South End,3,0.333,173.19
+BTDT,General Traffic Engineering Request,West Roxbury,10,0.3,257.93
+BTDT,Ground Maintenance,Allston / Brighton,1,0.0,17.12
+BTDT,Ground Maintenance,Back Bay,1,0.0,14.59
+BTDT,Ground Maintenance,Dorchester,2,0.0,9.05
+BTDT,Ground Maintenance,Downtown / Financial District,2,0.0,25.6
+BTDT,Ground Maintenance,East Boston,5,0.2,7.21
+BTDT,Ground Maintenance,Hyde Park,1,0.0,180.75
+BTDT,Ground Maintenance,Jamaica Plain,2,1.0,2.13
+BTDT,Ground Maintenance,Roslindale,1,1.0,2.82
+BTDT,Ground Maintenance,Roxbury,1,0.0,
+BTDT,Ground Maintenance,South Boston / South Boston Waterfront,1,0.0,
+BTDT,Illegal Auto Body Shop,Allston / Brighton,1,0.0,9.06
+BTDT,Illegal Auto Body Shop,Dorchester,2,0.0,424.32
+BTDT,Illegal Auto Body Shop,Greater Mattapan,1,0.0,446.97
+BTDT,Illegal Auto Body Shop,Roxbury,1,0.0,537.15
+BTDT,Illegal Dumping,Dorchester,1,0.0,
+BTDT,Illegal Dumping,Greater Mattapan,2,0.0,
+BTDT,Illegal Dumping,Hyde Park,1,1.0,0.11
+BTDT,Illegal Dumping,West Roxbury,1,1.0,0.78
+BTDT,Illegal Posting of Signs,Beacon Hill,1,1.0,0.07
+BTDT,Illegal Posting of Signs,Downtown / Financial District,2,0.0,23.51
+BTDT,Illegal Posting of Signs,East Boston,1,0.0,42.9
+BTDT,Illegal Posting of Signs,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.1
+BTDT,Illegal Posting of Signs,Greater Mattapan,1,0.0,3.85
+BTDT,Illegal Posting of Signs,Roslindale,2,0.5,1.95
+BTDT,Illegal Posting of Signs,South Boston / South Boston Waterfront,2,0.0,103.78
+BTDT,Illegal Vending,Dorchester,1,0.0,
+BTDT,Improper Storage of Trash (Barrels),Allston / Brighton,3,0.333,2.64
+BTDT,Improper Storage of Trash (Barrels),Dorchester,6,0.333,6.51
+BTDT,Improper Storage of Trash (Barrels),Downtown / Financial District,1,0.0,
+BTDT,Improper Storage of Trash (Barrels),East Boston,1,1.0,0.3
+BTDT,Improper Storage of Trash (Barrels),Fenway / Kenmore / Audubon Circle / Longwood,1,0.0,
+BTDT,Improper Storage of Trash (Barrels),Hyde Park,2,0.0,48.72
+BTDT,Improper Storage of Trash (Barrels),Jamaica Plain,1,0.0,126.0
+BTDT,Improper Storage of Trash (Barrels),Roxbury,2,0.0,
+BTDT,Knockdown Replacement,Allston / Brighton,1,0.0,
+BTDT,Knockdown Replacement,Boston,1,1.0,5.62
+BTDT,Knockdown Replacement,Downtown / Financial District,2,0.0,99.82
+BTDT,Knockdown Replacement,Greater Mattapan,1,0.0,67.74
+BTDT,Knockdown Replacement,Hyde Park,2,1.0,9.11
+BTDT,Knockdown Replacement,West Roxbury,1,1.0,2.12
+BTDT,Missing Sign,Allston / Brighton,29,0.586,8.08
+BTDT,Missing Sign,Back Bay,8,0.625,5.75
+BTDT,Missing Sign,Beacon Hill,7,0.714,6.99
+BTDT,Missing Sign,Boston,8,0.5,11.2
+BTDT,Missing Sign,Charlestown,7,0.714,11.89
+BTDT,Missing Sign,Dorchester,49,0.653,5.91
+BTDT,Missing Sign,Downtown / Financial District,17,0.647,9.82
+BTDT,Missing Sign,East Boston,14,0.5,9.39
+BTDT,Missing Sign,Fenway / Kenmore / Audubon Circle / Longwood,3,0.0,143.98
+BTDT,Missing Sign,Greater Mattapan,14,0.571,13.44
+BTDT,Missing Sign,Hyde Park,18,0.556,6.8
+BTDT,Missing Sign,Jamaica Plain,18,0.444,13.32
+BTDT,Missing Sign,Mission Hill,7,0.571,6.69
+BTDT,Missing Sign,Roslindale,11,0.455,9.25
+BTDT,Missing Sign,Roxbury,23,0.696,3.13
+BTDT,Missing Sign,South Boston / South Boston Waterfront,17,0.882,2.81
+BTDT,Missing Sign,South End,3,0.667,10.06
+BTDT,Missing Sign,West Roxbury,24,0.5,8.09
+BTDT,Municipal Parking Lot Complaints,Allston / Brighton,2,1.0,4.46
+BTDT,Municipal Parking Lot Complaints,East Boston,1,0.0,12.95
+BTDT,Municipal Parking Lot Complaints,Hyde Park,4,0.75,1.39
+BTDT,Municipal Parking Lot Complaints,Jamaica Plain,3,0.333,14.98
+BTDT,Municipal Parking Lot Complaints,Roxbury,4,1.0,1.16
+BTDT,New Sign  Crosswalk or Pavement Marking,Allston / Brighton,104,0.538,20.15
+BTDT,New Sign  Crosswalk or Pavement Marking,Back Bay,24,0.292,129.4
+BTDT,New Sign  Crosswalk or Pavement Marking,Beacon Hill,3,0.333,87.53
+BTDT,New Sign  Crosswalk or Pavement Marking,Boston,14,0.429,72.16
+BTDT,New Sign  Crosswalk or Pavement Marking,Charlestown,34,0.353,94.08
+BTDT,New Sign  Crosswalk or Pavement Marking,Dorchester,144,0.597,11.54
+BTDT,New Sign  Crosswalk or Pavement Marking,Downtown / Financial District,41,0.512,13.74
+BTDT,New Sign  Crosswalk or Pavement Marking,East Boston,48,0.583,10.06
+BTDT,New Sign  Crosswalk or Pavement Marking,Fenway / Kenmore / Audubon Circle / Longwood,16,0.562,10.03
+BTDT,New Sign  Crosswalk or Pavement Marking,Greater Mattapan,63,0.698,5.01
+BTDT,New Sign  Crosswalk or Pavement Marking,Hyde Park,56,0.589,13.21
+BTDT,New Sign  Crosswalk or Pavement Marking,Jamaica Plain,90,0.489,22.04
+BTDT,New Sign  Crosswalk or Pavement Marking,Mission Hill,9,0.222,133.82
+BTDT,New Sign  Crosswalk or Pavement Marking,Roslindale,62,0.516,20.85
+BTDT,New Sign  Crosswalk or Pavement Marking,Roxbury,110,0.464,42.89
+BTDT,New Sign  Crosswalk or Pavement Marking,South Boston / South Boston Waterfront,40,0.575,25.75
+BTDT,New Sign  Crosswalk or Pavement Marking,South End,22,0.364,104.89
+BTDT,New Sign  Crosswalk or Pavement Marking,West Roxbury,49,0.531,21.56
+BTDT,No-Tow Complaint Confirmation,Allston / Brighton,1,0.0,303.97
+BTDT,No-Tow Complaint Confirmation,Charlestown,3,0.0,333.92
+BTDT,No-Tow Complaint Confirmation,Dorchester,1,0.0,42.59
+BTDT,No-Tow Complaint Confirmation,Downtown / Financial District,3,0.0,348.88
+BTDT,No-Tow Complaint Confirmation,East Boston,1,1.0,1.6
+BTDT,No-Tow Complaint Confirmation,Jamaica Plain,5,0.0,179.85
+BTDT,No-Tow Complaint Confirmation,Mission Hill,2,0.5,27.43
+BTDT,No-Tow Complaint Confirmation,Roxbury,1,0.0,462.92
+BTDT,No-Tow Complaint Confirmation,South Boston / South Boston Waterfront,1,0.0,326.06
+BTDT,No-Tow Complaint Confirmation,South End,1,0.0,
+BTDT,PWD Graffiti,Allston / Brighton,16,0.625,4.42
+BTDT,PWD Graffiti,Back Bay,37,0.297,160.45
+BTDT,PWD Graffiti,Beacon Hill,3,0.0,314.89
+BTDT,PWD Graffiti,Boston,13,0.231,42.36
+BTDT,PWD Graffiti,Dorchester,5,0.2,6.74
+BTDT,PWD Graffiti,Downtown / Financial District,5,0.4,6.52
+BTDT,PWD Graffiti,Fenway / Kenmore / Audubon Circle / Longwood,23,0.522,3.57
+BTDT,PWD Graffiti,Hyde Park,5,0.8,0.61
+BTDT,PWD Graffiti,Jamaica Plain,11,0.273,9.29
+BTDT,PWD Graffiti,Roslindale,5,1.0,0.7
+BTDT,PWD Graffiti,Roxbury,4,0.25,11.92
+BTDT,PWD Graffiti,South Boston / South Boston Waterfront,5,0.0,42.83
+BTDT,PWD Graffiti,South End,15,0.333,71.86
+BTDT,PWD Graffiti,West Roxbury,2,0.0,42.06
+BTDT,Parking Enforcement,Allston / Brighton,5582,0.536,0.44
+BTDT,Parking Enforcement,Back Bay,2278,0.481,0.63
+BTDT,Parking Enforcement,Beacon Hill,934,0.449,0.85
+BTDT,Parking Enforcement,Boston,4063,0.569,0.38
+BTDT,Parking Enforcement,Charlestown,3027,0.408,1.05
+BTDT,Parking Enforcement,Dorchester,6840,0.472,0.81
+BTDT,Parking Enforcement,Downtown / Financial District,3755,0.472,0.75
+BTDT,Parking Enforcement,East Boston,5518,0.437,0.99
+BTDT,Parking Enforcement,Fenway / Kenmore / Audubon Circle / Longwood,1519,0.468,0.79
+BTDT,Parking Enforcement,Greater Mattapan,1211,0.438,0.92
+BTDT,Parking Enforcement,Hyde Park,1107,0.313,1.96
+BTDT,Parking Enforcement,Jamaica Plain,3966,0.339,1.86
+BTDT,Parking Enforcement,Mission Hill,883,0.451,0.78
+BTDT,Parking Enforcement,Roslindale,1685,0.361,1.69
+BTDT,Parking Enforcement,Roxbury,3560,0.399,1.02
+BTDT,Parking Enforcement,South Boston / South Boston Waterfront,12271,0.618,0.33
+BTDT,Parking Enforcement,South End,3813,0.449,0.79
+BTDT,Parking Enforcement,West Roxbury,927,0.274,3.04
+BTDT,Parking Meter Repairs,Back Bay,6,0.0,
+BTDT,Parking Meter Repairs,Boston,9,0.0,
+BTDT,Parking Meter Repairs,Downtown / Financial District,5,0.2,0.01
+BTDT,Parking Meter Repairs,Fenway / Kenmore / Audubon Circle / Longwood,4,0.25,3.92
+BTDT,Parking Meter Repairs,Roxbury,1,1.0,0.88
+BTDT,Parking Meter Repairs,South End,3,0.0,
+BTDT,Parking on Front/Back Yards (Illegal Parking),Allston / Brighton,4,0.25,30.05
+BTDT,Parking on Front/Back Yards (Illegal Parking),Back Bay,1,0.0,
+BTDT,Parking on Front/Back Yards (Illegal Parking),Boston,1,0.0,394.13
+BTDT,Parking on Front/Back Yards (Illegal Parking),Charlestown,2,0.5,156.83
+BTDT,Parking on Front/Back Yards (Illegal Parking),Dorchester,6,0.5,1.99
+BTDT,Parking on Front/Back Yards (Illegal Parking),Downtown / Financial District,2,0.5,195.42
+BTDT,Parking on Front/Back Yards (Illegal Parking),East Boston,4,0.25,3.09
+BTDT,Parking on Front/Back Yards (Illegal Parking),Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.9
+BTDT,Parking on Front/Back Yards (Illegal Parking),Greater Mattapan,4,0.5,3.9
+BTDT,Parking on Front/Back Yards (Illegal Parking),Hyde Park,4,0.25,12.0
+BTDT,Parking on Front/Back Yards (Illegal Parking),Jamaica Plain,3,0.667,3.35
+BTDT,Parking on Front/Back Yards (Illegal Parking),Roslindale,4,0.5,0.83
+BTDT,Parking on Front/Back Yards (Illegal Parking),Roxbury,9,0.0,14.93
+BTDT,Parking on Front/Back Yards (Illegal Parking),South Boston / South Boston Waterfront,3,0.0,38.11
+BTDT,Parking on Front/Back Yards (Illegal Parking),South End,1,0.0,252.81
+BTDT,Parking on Front/Back Yards (Illegal Parking),West Roxbury,3,0.0,244.57
+BTDT,Parks Lighting/Electrical Issues,Dorchester,1,1.0,0.81
+BTDT,Parks Lighting/Electrical Issues,Downtown / Financial District,1,1.0,5.96
+BTDT,Parks Lighting/Electrical Issues,East Boston,1,0.0,
+BTDT,Parks Lighting/Electrical Issues,Jamaica Plain,1,0.0,536.43
+BTDT,Parks Lighting/Electrical Issues,Roslindale,1,0.0,
+BTDT,Parks Lighting/Electrical Issues,West Roxbury,1,0.0,231.24
+BTDT,Pavement Marking Inspection,Allston / Brighton,15,0.4,58.94
+BTDT,Pavement Marking Inspection,Back Bay,9,0.444,1.28
+BTDT,Pavement Marking Inspection,Boston,6,0.333,138.37
+BTDT,Pavement Marking Inspection,Charlestown,7,0.286,275.28
+BTDT,Pavement Marking Inspection,Dorchester,9,0.222,58.81
+BTDT,Pavement Marking Inspection,Downtown / Financial District,8,0.125,333.53
+BTDT,Pavement Marking Inspection,East Boston,3,0.0,111.9
+BTDT,Pavement Marking Inspection,Fenway / Kenmore / Audubon Circle / Longwood,4,0.25,61.63
+BTDT,Pavement Marking Inspection,Greater Mattapan,7,0.143,75.95
+BTDT,Pavement Marking Inspection,Hyde Park,4,0.25,251.76
+BTDT,Pavement Marking Inspection,Jamaica Plain,17,0.118,132.57
+BTDT,Pavement Marking Inspection,Mission Hill,4,0.25,94.76
+BTDT,Pavement Marking Inspection,Roslindale,10,0.4,185.74
+BTDT,Pavement Marking Inspection,Roxbury,12,0.25,113.62
+BTDT,Pavement Marking Inspection,South Boston / South Boston Waterfront,6,0.333,139.44
+BTDT,Pavement Marking Inspection,South End,2,0.5,0.92
+BTDT,Pavement Marking Inspection,West Roxbury,7,0.143,184.07
+BTDT,Pavement Marking Maintenance,Hyde Park,1,0.0,447.08
+BTDT,Phone Bank Service Inquiry,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,2.67
+BTDT,Pick up Dead Animal,Boston,1,0.0,4.76
+BTDT,Pick up Dead Animal,East Boston,1,0.0,9.76
+BTDT,Pick up Dead Animal,South Boston / South Boston Waterfront,1,0.0,55.07
+BTDT,Poor Conditions of Property,Dorchester,2,0.0,
+BTDT,Poor Conditions of Property,Downtown / Financial District,4,0.0,7.02
+BTDT,Poor Conditions of Property,Roslindale,3,0.333,32.41
+BTDT,Poor Conditions of Property,South Boston / South Boston Waterfront,4,0.5,1.65
+BTDT,Poor Conditions of Property,South End,1,0.0,55.1
+BTDT,Private Parking Lot Complaints,Boston,1,0.0,
+BTDT,Private Parking Lot Complaints,Dorchester,1,1.0,2.03
+BTDT,Private Parking Lot Complaints,Hyde Park,1,0.0,
+BTDT,Private Parking Lot Complaints,Roslindale,1,0.0,
+BTDT,Private Parking Lot Complaints,West Roxbury,1,0.0,
+BTDT,Public Works General Request,Allston / Brighton,2,1.0,384.8
+BTDT,Public Works General Request,Back Bay,1,1.0,
+BTDT,Public Works General Request,Boston,1,1.0,
+BTDT,Public Works General Request,East Boston,2,1.0,57.06
+BTDT,Public Works General Request,Fenway / Kenmore / Audubon Circle / Longwood,2,1.0,1.65
+BTDT,Public Works General Request,Greater Mattapan,2,1.0,324.72
+BTDT,Public Works General Request,Hyde Park,2,1.0,121.65
+BTDT,Public Works General Request,Jamaica Plain,1,1.0,0.92
+BTDT,Public Works General Request,Roslindale,1,1.0,
+BTDT,Public Works General Request,Roxbury,3,1.0,44.94
+BTDT,Public Works General Request,South Boston / South Boston Waterfront,2,1.0,106.59
+BTDT,Public Works General Request,South End,1,1.0,
+BTDT,Public Works General Request,West Roxbury,2,1.0,50.42
+BTDT,Request for Pothole Repair,Allston / Brighton,3,0.0,236.8
+BTDT,Request for Pothole Repair,Back Bay,1,0.0,249.75
+BTDT,Request for Pothole Repair,Boston,2,0.0,366.31
+BTDT,Request for Pothole Repair,Charlestown,4,0.0,341.12
+BTDT,Request for Pothole Repair,Dorchester,4,0.0,370.37
+BTDT,Request for Pothole Repair,Downtown / Financial District,10,0.0,409.92
+BTDT,Request for Pothole Repair,East Boston,1,1.0,1.39
+BTDT,Request for Pothole Repair,Fenway / Kenmore / Audubon Circle / Longwood,1,0.0,3.94
+BTDT,Request for Pothole Repair,Greater Mattapan,2,0.5,251.42
+BTDT,Request for Pothole Repair,Jamaica Plain,2,0.0,44.51
+BTDT,Request for Pothole Repair,Roxbury,3,0.0,72.53
+BTDT,Request for Pothole Repair,South Boston / South Boston Waterfront,2,0.0,416.82
+BTDT,Request for Pothole Repair,South End,4,0.0,366.18
+BTDT,Request for Snow Plowing,Roxbury,1,1.0,1.66
+BTDT,Requests for Directional or Roadway Changes,Allston / Brighton,1,1.0,1.17
+BTDT,Requests for Directional or Roadway Changes,Back Bay,1,1.0,1.99
+BTDT,Requests for Directional or Roadway Changes,Jamaica Plain,1,1.0,377.88
+BTDT,Requests for Directional or Roadway Changes,Roslindale,1,1.0,0.94
+BTDT,Requests for Directional or Roadway Changes,Roxbury,1,1.0,0.0
+BTDT,Requests for Street Cleaning,Allston / Brighton,9,0.0,10.53
+BTDT,Requests for Street Cleaning,Back Bay,4,0.0,6.14
+BTDT,Requests for Street Cleaning,Beacon Hill,8,0.0,207.37
+BTDT,Requests for Street Cleaning,Boston,4,0.25,0.89
+BTDT,Requests for Street Cleaning,Charlestown,2,0.0,3.97
+BTDT,Requests for Street Cleaning,Dorchester,29,0.172,3.12
+BTDT,Requests for Street Cleaning,Downtown / Financial District,11,0.091,315.62
+BTDT,Requests for Street Cleaning,East Boston,5,0.4,2.92
+BTDT,Requests for Street Cleaning,Fenway / Kenmore / Audubon Circle / Longwood,2,0.0,4.79
+BTDT,Requests for Street Cleaning,Greater Mattapan,3,0.0,73.7
+BTDT,Requests for Street Cleaning,Hyde Park,2,0.0,364.08
+BTDT,Requests for Street Cleaning,Jamaica Plain,3,0.0,193.34
+BTDT,Requests for Street Cleaning,Mission Hill,1,0.0,3.11
+BTDT,Requests for Street Cleaning,Roslindale,3,0.0,385.03
+BTDT,Requests for Street Cleaning,Roxbury,12,0.083,1.67
+BTDT,Requests for Street Cleaning,South Boston / South Boston Waterfront,13,0.0,9.81
+BTDT,Requests for Street Cleaning,South End,8,0.0,381.33
+BTDT,Requests for Traffic Signal Studies or Reviews,Allston / Brighton,52,0.654,6.95
+BTDT,Requests for Traffic Signal Studies or Reviews,Back Bay,65,0.523,10.81
+BTDT,Requests for Traffic Signal Studies or Reviews,Beacon Hill,13,0.538,17.76
+BTDT,Requests for Traffic Signal Studies or Reviews,Boston,12,0.583,4.96
+BTDT,Requests for Traffic Signal Studies or Reviews,Charlestown,23,0.826,7.01
+BTDT,Requests for Traffic Signal Studies or Reviews,Dorchester,54,0.667,2.76
+BTDT,Requests for Traffic Signal Studies or Reviews,Downtown / Financial District,55,0.636,9.9
+BTDT,Requests for Traffic Signal Studies or Reviews,East Boston,14,0.571,11.4
+BTDT,Requests for Traffic Signal Studies or Reviews,Fenway / Kenmore / Audubon Circle / Longwood,18,0.833,7.38
+BTDT,Requests for Traffic Signal Studies or Reviews,Greater Mattapan,49,0.612,13.72
+BTDT,Requests for Traffic Signal Studies or Reviews,Hyde Park,21,0.667,16.01
+BTDT,Requests for Traffic Signal Studies or Reviews,Jamaica Plain,69,0.565,17.59
+BTDT,Requests for Traffic Signal Studies or Reviews,Mission Hill,11,0.545,15.8
+BTDT,Requests for Traffic Signal Studies or Reviews,Roslindale,43,0.628,3.06
+BTDT,Requests for Traffic Signal Studies or Reviews,Roxbury,67,0.552,15.98
+BTDT,Requests for Traffic Signal Studies or Reviews,South Boston / South Boston Waterfront,51,0.588,1.11
+BTDT,Requests for Traffic Signal Studies or Reviews,South End,15,0.467,19.27
+BTDT,Requests for Traffic Signal Studies or Reviews,West Roxbury,39,0.513,21.13
+BTDT,Rodent Activity,Boston,1,0.0,
+BTDT,Rodent Activity,Dorchester,1,1.0,0.62
+BTDT,Rodent Activity,Jamaica Plain,1,1.0,9.89
+BTDT,Rodent Activity,Mission Hill,1,1.0,1.07
+BTDT,Rodent Activity,South Boston / South Boston Waterfront,1,1.0,1.37
+BTDT,Short Term Rental,Dorchester,1,1.0,24.4
+BTDT,Sidewalk Cover / Manhole,Charlestown,1,1.0,92.11
+BTDT,Sidewalk Cover / Manhole,Downtown / Financial District,1,1.0,6.89
+BTDT,Sidewalk Repair (Make Safe),Allston / Brighton,15,0.067,13.6
+BTDT,Sidewalk Repair (Make Safe),Back Bay,9,0.0,53.94
+BTDT,Sidewalk Repair (Make Safe),Beacon Hill,2,0.0,152.88
+BTDT,Sidewalk Repair (Make Safe),Boston,6,0.167,83.14
+BTDT,Sidewalk Repair (Make Safe),Charlestown,8,0.0,312.1
+BTDT,Sidewalk Repair (Make Safe),Dorchester,10,0.5,1.16
+BTDT,Sidewalk Repair (Make Safe),Downtown / Financial District,6,0.0,308.72
+BTDT,Sidewalk Repair (Make Safe),East Boston,7,0.429,96.34
+BTDT,Sidewalk Repair (Make Safe),Fenway / Kenmore / Audubon Circle / Longwood,4,0.0,298.16
+BTDT,Sidewalk Repair (Make Safe),Greater Mattapan,1,0.0,69.76
+BTDT,Sidewalk Repair (Make Safe),Jamaica Plain,1,0.0,
+BTDT,Sidewalk Repair (Make Safe),Roslindale,4,0.0,4.94
+BTDT,Sidewalk Repair (Make Safe),Roxbury,7,0.714,1.14
+BTDT,Sidewalk Repair (Make Safe),South Boston / South Boston Waterfront,15,0.0,253.54
+BTDT,Sidewalk Repair (Make Safe),South End,3,0.0,286.62
+BTDT,Sidewalk Repair (Make Safe),West Roxbury,4,0.0,213.4
+BTDT,Sign Repair,Allston / Brighton,694,0.709,6.67
+BTDT,Sign Repair,Back Bay,179,0.542,10.24
+BTDT,Sign Repair,Beacon Hill,146,0.555,7.13
+BTDT,Sign Repair,Boston,169,0.598,7.04
+BTDT,Sign Repair,Charlestown,188,0.622,9.37
+BTDT,Sign Repair,Dorchester,538,0.771,4.71
+BTDT,Sign Repair,Downtown / Financial District,299,0.518,10.98
+BTDT,Sign Repair,East Boston,281,0.765,5.08
+BTDT,Sign Repair,Fenway / Kenmore / Audubon Circle / Longwood,110,0.745,4.99
+BTDT,Sign Repair,Greater Mattapan,139,0.64,6.86
+BTDT,Sign Repair,Hyde Park,219,0.731,4.67
+BTDT,Sign Repair,Jamaica Plain,460,0.652,5.59
+BTDT,Sign Repair,Mission Hill,61,0.803,4.53
+BTDT,Sign Repair,Roslindale,235,0.694,5.05
+BTDT,Sign Repair,Roxbury,295,0.834,4.23
+BTDT,Sign Repair,South Boston / South Boston Waterfront,347,0.87,3.83
+BTDT,Sign Repair,South End,187,0.588,9.97
+BTDT,Sign Repair,West Roxbury,209,0.603,9.31
+BTDT,Space Savers,Charlestown,3,1.0,
+BTDT,Space Savers,Downtown / Financial District,1,1.0,
+BTDT,Street Light Knock Downs,Boston,1,1.0,0.02
+BTDT,Street Light Knock Downs,Dorchester,1,1.0,0.13
+BTDT,Street Light Knock Downs,Downtown / Financial District,3,0.667,0.38
+BTDT,Street Light Knock Downs,East Boston,1,1.0,1.44
+BTDT,Street Light Knock Downs,Greater Mattapan,2,1.0,0.82
+BTDT,Street Light Knock Downs,Hyde Park,1,1.0,0.22
+BTDT,Street Light Knock Downs,Jamaica Plain,1,1.0,0.6
+BTDT,Street Light Knock Downs,Mission Hill,1,1.0,0.4
+BTDT,Street Light Knock Downs,Roslindale,1,1.0,0.1
+BTDT,Street Light Knock Downs,Roxbury,2,1.0,0.22
+BTDT,Street Light Knock Downs,South Boston / South Boston Waterfront,1,0.0,8.6
+BTDT,Street Light Knock Downs,South End,1,1.0,0.87
+BTDT,Street Light Outages,Allston / Brighton,4,1.0,0.55
+BTDT,Street Light Outages,Back Bay,4,1.0,0.17
+BTDT,Street Light Outages,Beacon Hill,1,1.0,0.13
+BTDT,Street Light Outages,Boston,1,1.0,0.3
+BTDT,Street Light Outages,Charlestown,4,1.0,0.95
+BTDT,Street Light Outages,Dorchester,6,0.667,1.23
+BTDT,Street Light Outages,Downtown / Financial District,7,0.714,7.03
+BTDT,Street Light Outages,East Boston,1,1.0,0.29
+BTDT,Street Light Outages,Fenway / Kenmore / Audubon Circle / Longwood,2,0.5,19.67
+BTDT,Street Light Outages,Hyde Park,1,1.0,2.33
+BTDT,Street Light Outages,Jamaica Plain,3,1.0,1.27
+BTDT,Street Light Outages,Mission Hill,1,1.0,0.73
+BTDT,Street Light Outages,Roslindale,5,1.0,0.14
+BTDT,Street Light Outages,Roxbury,12,1.0,0.22
+BTDT,Street Light Outages,South Boston / South Boston Waterfront,8,0.75,1.37
+BTDT,Street Light Outages,South End,4,0.75,0.74
+BTDT,Street Light Outages,West Roxbury,2,1.0,0.46
+BTDT,Student Move-in Issues,Allston / Brighton,2,0.0,22.0
+BTDT,Student Move-in Issues,Jamaica Plain,2,0.0,
+BTDT,Student Move-in Issues,South Boston / South Boston Waterfront,4,0.25,0.25
+BTDT,Student Move-in Issues,South End,1,0.0,
+BTDT,Traffic Signal Inspection,Allston / Brighton,410,0.717,0.48
+BTDT,Traffic Signal Inspection,Back Bay,256,0.645,0.34
+BTDT,Traffic Signal Inspection,Beacon Hill,61,0.852,0.43
+BTDT,Traffic Signal Inspection,Boston,56,0.732,0.43
+BTDT,Traffic Signal Inspection,Charlestown,102,0.598,0.62
+BTDT,Traffic Signal Inspection,Dorchester,359,0.794,0.14
+BTDT,Traffic Signal Inspection,Downtown / Financial District,350,0.697,0.31
+BTDT,Traffic Signal Inspection,East Boston,118,0.746,0.37
+BTDT,Traffic Signal Inspection,Fenway / Kenmore / Audubon Circle / Longwood,131,0.809,0.23
+BTDT,Traffic Signal Inspection,Greater Mattapan,119,0.706,0.45
+BTDT,Traffic Signal Inspection,Hyde Park,94,0.723,0.18
+BTDT,Traffic Signal Inspection,Jamaica Plain,337,0.677,0.53
+BTDT,Traffic Signal Inspection,Mission Hill,43,0.628,0.53
+BTDT,Traffic Signal Inspection,Roslindale,233,0.803,0.11
+BTDT,Traffic Signal Inspection,Roxbury,427,0.759,0.14
+BTDT,Traffic Signal Inspection,South Boston / South Boston Waterfront,214,0.57,0.59
+BTDT,Traffic Signal Inspection,South End,221,0.719,0.57
+BTDT,Traffic Signal Inspection,West Roxbury,195,0.508,0.87
+BTDT,Traffic Signal Repair,Allston / Brighton,13,1.0,0.52
+BTDT,Traffic Signal Repair,Back Bay,29,0.966,0.81
+BTDT,Traffic Signal Repair,Beacon Hill,3,1.0,0.05
+BTDT,Traffic Signal Repair,Boston,14,0.786,1.2
+BTDT,Traffic Signal Repair,Charlestown,2,1.0,6.0
+BTDT,Traffic Signal Repair,Dorchester,10,1.0,1.34
+BTDT,Traffic Signal Repair,Downtown / Financial District,14,0.929,0.58
+BTDT,Traffic Signal Repair,East Boston,4,1.0,6.4
+BTDT,Traffic Signal Repair,Fenway / Kenmore / Audubon Circle / Longwood,14,1.0,1.12
+BTDT,Traffic Signal Repair,Greater Mattapan,3,1.0,5.91
+BTDT,Traffic Signal Repair,Hyde Park,4,1.0,1.24
+BTDT,Traffic Signal Repair,Jamaica Plain,18,0.889,1.6
+BTDT,Traffic Signal Repair,Roslindale,2,1.0,0.78
+BTDT,Traffic Signal Repair,Roxbury,8,1.0,0.46
+BTDT,Traffic Signal Repair,South Boston / South Boston Waterfront,6,1.0,0.89
+BTDT,Traffic Signal Repair,South End,17,0.824,0.63
+BTDT,Traffic Signal Repair,West Roxbury,2,1.0,5.72
+BTDT,Transportation General Request,Allston / Brighton,36,1.0,108.89
+BTDT,Transportation General Request,Back Bay,31,1.0,135.86
+BTDT,Transportation General Request,Beacon Hill,10,1.0,145.08
+BTDT,Transportation General Request,Boston,42,1.0,184.08
+BTDT,Transportation General Request,Charlestown,12,1.0,259.88
+BTDT,Transportation General Request,Chestnut Hill,1,1.0,0.0
+BTDT,Transportation General Request,Dorchester,87,1.0,136.91
+BTDT,Transportation General Request,Downtown / Financial District,44,1.0,241.33
+BTDT,Transportation General Request,East Boston,22,1.0,80.91
+BTDT,Transportation General Request,Fenway / Kenmore / Audubon Circle / Longwood,20,1.0,129.06
+BTDT,Transportation General Request,Greater Mattapan,31,1.0,197.51
+BTDT,Transportation General Request,Hyde Park,31,1.0,116.93
+BTDT,Transportation General Request,Jamaica Plain,48,1.0,125.59
+BTDT,Transportation General Request,Mission Hill,8,1.0,0.02
+BTDT,Transportation General Request,Roslindale,30,1.0,147.68
+BTDT,Transportation General Request,Roxbury,71,1.0,156.97
+BTDT,Transportation General Request,South Boston / South Boston Waterfront,36,1.0,232.23
+BTDT,Transportation General Request,South End,19,1.0,275.26
+BTDT,Transportation General Request,West Roxbury,16,1.0,119.87
+BTDT,Tree Maintenance Requests,East Boston,2,1.0,23.9
+BTDT,Tree Maintenance Requests,Roxbury,3,1.0,26.67
+BTDT,Tree Maintenance Requests,West Roxbury,1,1.0,37.8
+BTDT,Unsafe Dangerous Conditions,Mission Hill,1,0.0,413.06
+BTDT,Unshoveled Sidewalk,South Boston / South Boston Waterfront,1,0.0,
+BTDT,Utility Casting Repair,West Roxbury,1,1.0,358.02
+BTDT,Valet Parking Problems,Allston / Brighton,1,0.0,
+BTDT,Valet Parking Problems,Back Bay,1,0.0,
+BTDT,Valet Parking Problems,Boston,1,0.0,
+BTDT,Valet Parking Problems,Downtown / Financial District,3,0.0,
+BTDT,Valet Parking Problems,East Boston,1,0.0,
+BTDT,Work Hours-Loud Noise Complaints,Downtown / Financial District,4,0.25,0.39
+BTDT,Work w/out Permit,Downtown / Financial District,1,0.0,3.77
+BTDT,Work w/out Permit,Roxbury,1,0.0,4.93
+BTDT,Working Beyond Hours,Boston,1,1.0,0.47
+BTDT,Zoning,Hyde Park,1,1.0,3.16
+ISD,Abandoned Building,Allston / Brighton,1,1.0,2.78
+ISD,Abandoned Building,Boston,4,0.5,16.7
+ISD,Abandoned Building,Charlestown,1,0.0,443.05
+ISD,Abandoned Building,Dorchester,23,0.565,3.76
+ISD,Abandoned Building,East Boston,7,0.429,347.36
+ISD,Abandoned Building,Greater Mattapan,6,0.5,159.04
+ISD,Abandoned Building,Hyde Park,1,0.0,510.8
+ISD,Abandoned Building,Jamaica Plain,4,0.75,3.41
+ISD,Abandoned Building,Mission Hill,2,1.0,0.26
+ISD,Abandoned Building,Roslindale,5,0.8,0.77
+ISD,Abandoned Building,Roxbury,9,0.556,3.95
+ISD,Abandoned Building,South Boston / South Boston Waterfront,1,1.0,2.86
+ISD,Abandoned Building,West Roxbury,7,0.857,0.46
+ISD,Abandoned Vehicles,Back Bay,1,1.0,5.04
+ISD,Abandoned Vehicles,Dorchester,1,0.0,92.05
+ISD,Abandoned Vehicles,East Boston,2,0.5,13.82
+ISD,Abandoned Vehicles,Roxbury,1,0.0,85.82
+ISD,Animal Generic Request,Greater Mattapan,2,1.0,5.24
+ISD,BWSC General Request,Beacon Hill,1,1.0,252.54
+ISD,Bed Bugs,Allston / Brighton,15,0.533,103.37
+ISD,Bed Bugs,Back Bay,1,0.0,163.2
+ISD,Bed Bugs,Charlestown,2,0.5,112.32
+ISD,Bed Bugs,Dorchester,17,0.529,92.06
+ISD,Bed Bugs,Downtown / Financial District,1,0.0,532.8
+ISD,Bed Bugs,East Boston,3,0.333,405.12
+ISD,Bed Bugs,Fenway / Kenmore / Audubon Circle / Longwood,7,0.429,423.12
+ISD,Bed Bugs,Greater Mattapan,2,1.0,9.5
+ISD,Bed Bugs,Hyde Park,4,1.0,4.26
+ISD,Bed Bugs,Jamaica Plain,1,1.0,36.03
+ISD,Bed Bugs,Mission Hill,2,1.0,3.36
+ISD,Bed Bugs,Roslindale,2,1.0,22.02
+ISD,Bed Bugs,Roxbury,10,0.5,110.99
+ISD,Bed Bugs,South Boston / South Boston Waterfront,3,0.667,5.05
+ISD,Bed Bugs,South End,5,0.8,8.85
+ISD,Bed Bugs,West Roxbury,3,0.333,496.9
+ISD,Building Inspection Request,Allston / Brighton,54,0.519,4.53
+ISD,Building Inspection Request,Back Bay,25,0.4,14.71
+ISD,Building Inspection Request,Beacon Hill,6,0.0,19.04
+ISD,Building Inspection Request,Boston,31,0.645,2.04
+ISD,Building Inspection Request,Charlestown,14,0.143,135.89
+ISD,Building Inspection Request,Dorchester,72,0.431,9.79
+ISD,Building Inspection Request,Downtown / Financial District,32,0.281,25.1
+ISD,Building Inspection Request,East Boston,54,0.296,180.44
+ISD,Building Inspection Request,Fenway / Kenmore / Audubon Circle / Longwood,21,0.476,6.07
+ISD,Building Inspection Request,Greater Mattapan,36,0.417,12.88
+ISD,Building Inspection Request,Hyde Park,24,0.542,4.38
+ISD,Building Inspection Request,Jamaica Plain,20,0.4,7.7
+ISD,Building Inspection Request,Mission Hill,16,0.562,4.86
+ISD,Building Inspection Request,Roslindale,12,0.583,4.37
+ISD,Building Inspection Request,Roxbury,62,0.274,50.79
+ISD,Building Inspection Request,South Boston / South Boston Waterfront,39,0.615,1.89
+ISD,Building Inspection Request,South End,19,0.211,28.0
+ISD,Building Inspection Request,West Roxbury,19,0.263,43.25
+ISD,CE Collection,Mission Hill,1,0.0,25.11
+ISD,Carbon Monoxide,Dorchester,1,0.0,530.97
+ISD,Carbon Monoxide,East Boston,2,0.0,524.44
+ISD,Carbon Monoxide,Jamaica Plain,1,0.0,522.82
+ISD,Carbon Monoxide,Mission Hill,1,0.0,153.41
+ISD,Carbon Monoxide,West Roxbury,1,1.0,10.86
+ISD,Catchbasin,Beacon Hill,1,1.0,683.74
+ISD,Catchbasin,Charlestown,1,1.0,18.21
+ISD,Catchbasin,Roxbury,1,1.0,9.22
+ISD,Chronic Dampness/Mold,Allston / Brighton,33,0.545,25.96
+ISD,Chronic Dampness/Mold,Back Bay,7,0.714,14.92
+ISD,Chronic Dampness/Mold,Beacon Hill,4,0.5,73.93
+ISD,Chronic Dampness/Mold,Boston,7,0.571,23.74
+ISD,Chronic Dampness/Mold,Charlestown,11,0.545,7.09
+ISD,Chronic Dampness/Mold,Dorchester,54,0.444,33.94
+ISD,Chronic Dampness/Mold,Downtown / Financial District,4,0.25,92.12
+ISD,Chronic Dampness/Mold,East Boston,10,0.4,12.12
+ISD,Chronic Dampness/Mold,Fenway / Kenmore / Audubon Circle / Longwood,3,0.333,3.9
+ISD,Chronic Dampness/Mold,Greater Mattapan,28,0.286,92.22
+ISD,Chronic Dampness/Mold,Hyde Park,14,0.429,38.99
+ISD,Chronic Dampness/Mold,Jamaica Plain,22,0.636,11.68
+ISD,Chronic Dampness/Mold,Mission Hill,7,0.571,18.84
+ISD,Chronic Dampness/Mold,Roslindale,6,0.667,8.73
+ISD,Chronic Dampness/Mold,Roxbury,45,0.578,12.72
+ISD,Chronic Dampness/Mold,South Boston / South Boston Waterfront,16,0.625,43.45
+ISD,Chronic Dampness/Mold,South End,7,0.714,9.82
+ISD,Chronic Dampness/Mold,West Roxbury,12,0.583,14.06
+ISD,Construction Debris,Allston / Brighton,1,0.0,7.1
+ISD,Construction Debris,Boston,1,0.0,22.81
+ISD,Construction Debris,Dorchester,1,1.0,1.11
+ISD,Contractor Complaints,Allston / Brighton,14,0.429,7.23
+ISD,Contractor Complaints,Back Bay,5,0.0,36.13
+ISD,Contractor Complaints,Beacon Hill,6,0.0,180.74
+ISD,Contractor Complaints,Boston,3,0.0,87.92
+ISD,Contractor Complaints,Charlestown,7,0.143,19.65
+ISD,Contractor Complaints,Dorchester,11,0.091,87.56
+ISD,Contractor Complaints,Downtown / Financial District,5,0.2,13.26
+ISD,Contractor Complaints,East Boston,7,0.0,187.58
+ISD,Contractor Complaints,Fenway / Kenmore / Audubon Circle / Longwood,5,0.2,22.87
+ISD,Contractor Complaints,Greater Mattapan,2,0.5,40.1
+ISD,Contractor Complaints,Hyde Park,2,0.5,3.42
+ISD,Contractor Complaints,Jamaica Plain,3,0.0,14.02
+ISD,Contractor Complaints,Mission Hill,1,0.0,15.93
+ISD,Contractor Complaints,Roslindale,4,0.0,59.17
+ISD,Contractor Complaints,Roxbury,6,0.167,10.96
+ISD,Contractor Complaints,South Boston / South Boston Waterfront,15,0.4,5.1
+ISD,Contractor Complaints,South End,11,0.273,13.14
+ISD,Contractor Complaints,West Roxbury,5,0.0,39.37
+ISD,Contractors Complaint,Allston / Brighton,50,1.0,9.42
+ISD,Contractors Complaint,Back Bay,33,1.0,10.29
+ISD,Contractors Complaint,Beacon Hill,18,1.0,13.52
+ISD,Contractors Complaint,Boston,46,1.0,6.6
+ISD,Contractors Complaint,Charlestown,68,0.985,19.95
+ISD,Contractors Complaint,Dorchester,113,1.0,27.6
+ISD,Contractors Complaint,Downtown / Financial District,50,0.98,7.25
+ISD,Contractors Complaint,East Boston,82,0.976,231.04
+ISD,Contractors Complaint,Fenway / Kenmore / Audubon Circle / Longwood,12,1.0,7.33
+ISD,Contractors Complaint,Greater Mattapan,37,1.0,27.57
+ISD,Contractors Complaint,Hyde Park,27,0.963,2.25
+ISD,Contractors Complaint,Jamaica Plain,56,1.0,16.74
+ISD,Contractors Complaint,Mission Hill,5,1.0,8.2
+ISD,Contractors Complaint,Roslindale,38,1.0,14.09
+ISD,Contractors Complaint,Roxbury,60,1.0,23.23
+ISD,Contractors Complaint,South Boston / South Boston Waterfront,102,1.0,2.02
+ISD,Contractors Complaint,South End,45,0.978,62.92
+ISD,Contractors Complaint,West Roxbury,23,1.0,19.24
+ISD,Cross Metering - Sub-Metering,Allston / Brighton,8,0.5,93.54
+ISD,Cross Metering - Sub-Metering,Back Bay,2,0.0,449.53
+ISD,Cross Metering - Sub-Metering,Boston,3,0.333,127.02
+ISD,Cross Metering - Sub-Metering,Dorchester,28,0.429,101.39
+ISD,Cross Metering - Sub-Metering,Downtown / Financial District,1,0.0,600.92
+ISD,Cross Metering - Sub-Metering,East Boston,5,0.4,512.95
+ISD,Cross Metering - Sub-Metering,Fenway / Kenmore / Audubon Circle / Longwood,1,0.0,163.25
+ISD,Cross Metering - Sub-Metering,Greater Mattapan,13,0.308,126.31
+ISD,Cross Metering - Sub-Metering,Hyde Park,11,0.636,25.01
+ISD,Cross Metering - Sub-Metering,Jamaica Plain,5,0.8,25.81
+ISD,Cross Metering - Sub-Metering,Mission Hill,1,1.0,19.91
+ISD,Cross Metering - Sub-Metering,Roslindale,4,0.0,296.4
+ISD,Cross Metering - Sub-Metering,Roxbury,11,0.636,22.68
+ISD,Cross Metering - Sub-Metering,South Boston / South Boston Waterfront,2,0.5,271.03
+ISD,Cross Metering - Sub-Metering,South End,2,1.0,27.99
+ISD,Egress,Allston / Brighton,3,1.0,350.91
+ISD,Egress,Back Bay,1,1.0,378.95
+ISD,Egress,Beacon Hill,2,1.0,11.1
+ISD,Egress,Boston,7,1.0,0.01
+ISD,Egress,Charlestown,3,1.0,106.15
+ISD,Egress,Dorchester,14,1.0,84.48
+ISD,Egress,Downtown / Financial District,9,1.0,83.99
+ISD,Egress,East Boston,3,1.0,364.24
+ISD,Egress,Fenway / Kenmore / Audubon Circle / Longwood,3,1.0,4.99
+ISD,Egress,Greater Mattapan,3,1.0,3.27
+ISD,Egress,Hyde Park,4,1.0,10.53
+ISD,Egress,Jamaica Plain,7,1.0,280.16
+ISD,Egress,Roxbury,4,1.0,212.2
+ISD,Egress,South Boston / South Boston Waterfront,10,1.0,3.8
+ISD,Egress,South End,3,1.0,3.87
+ISD,Egress,West Roxbury,1,1.0,260.97
+ISD,Electrical,Allston / Brighton,28,0.679,4.87
+ISD,Electrical,Back Bay,23,0.391,82.91
+ISD,Electrical,Beacon Hill,4,0.25,49.92
+ISD,Electrical,Boston,41,0.537,3.61
+ISD,Electrical,Charlestown,4,0.25,9.44
+ISD,Electrical,Dorchester,65,0.585,4.44
+ISD,Electrical,Downtown / Financial District,35,0.371,13.02
+ISD,Electrical,East Boston,41,0.39,29.28
+ISD,Electrical,Fenway / Kenmore / Audubon Circle / Longwood,15,0.467,8.99
+ISD,Electrical,Greater Mattapan,34,0.353,11.6
+ISD,Electrical,Hyde Park,11,0.364,33.57
+ISD,Electrical,Jamaica Plain,26,0.5,8.83
+ISD,Electrical,Mission Hill,10,0.4,9.43
+ISD,Electrical,Roslindale,8,0.5,12.68
+ISD,Electrical,Roxbury,65,0.492,7.05
+ISD,Electrical,South Boston / South Boston Waterfront,30,0.467,9.19
+ISD,Electrical,South End,30,0.433,9.3
+ISD,Electrical,West Roxbury,10,0.6,4.5
+ISD,Empty Litter Basket,Back Bay,1,0.0,271.86
+ISD,Empty Litter Basket,Downtown / Financial District,1,0.0,212.05
+ISD,Equipment Repair,Allston / Brighton,1,0.0,
+ISD,Equipment Repair,Back Bay,2,0.0,43.34
+ISD,Equipment Repair,Mission Hill,1,0.0,15.92
+ISD,Equipment Repair,Roxbury,1,0.0,736.74
+ISD,Equipment Repair,South Boston / South Boston Waterfront,2,0.0,144.67
+ISD,Exceeding Terms of Permit,Allston / Brighton,7,0.429,15.15
+ISD,Exceeding Terms of Permit,Back Bay,6,0.5,10.37
+ISD,Exceeding Terms of Permit,Beacon Hill,3,0.333,10.66
+ISD,Exceeding Terms of Permit,Boston,6,0.333,52.36
+ISD,Exceeding Terms of Permit,Charlestown,6,0.167,77.87
+ISD,Exceeding Terms of Permit,Dorchester,17,0.353,14.93
+ISD,Exceeding Terms of Permit,Downtown / Financial District,6,0.167,23.5
+ISD,Exceeding Terms of Permit,East Boston,12,0.333,171.54
+ISD,Exceeding Terms of Permit,Fenway / Kenmore / Audubon Circle / Longwood,2,0.5,10.17
+ISD,Exceeding Terms of Permit,Greater Mattapan,2,0.0,165.65
+ISD,Exceeding Terms of Permit,Jamaica Plain,10,0.4,11.39
+ISD,Exceeding Terms of Permit,Mission Hill,1,1.0,1.88
+ISD,Exceeding Terms of Permit,Roslindale,3,0.333,42.98
+ISD,Exceeding Terms of Permit,Roxbury,4,0.25,17.8
+ISD,Exceeding Terms of Permit,South Boston / South Boston Waterfront,7,0.571,5.53
+ISD,Exceeding Terms of Permit,South End,12,0.083,61.26
+ISD,Exceeding Terms of Permit,West Roxbury,4,0.5,13.71
+ISD,Fire in Food Establishment,Allston / Brighton,1,1.0,0.29
+ISD,Fire in Food Establishment,Back Bay,1,0.0,3.44
+ISD,Fire in Food Establishment,Beacon Hill,1,0.0,3.6
+ISD,Fire in Food Establishment,Boston,8,0.875,1.24
+ISD,Fire in Food Establishment,Charlestown,1,0.0,3.12
+ISD,Fire in Food Establishment,Dorchester,3,0.333,3.36
+ISD,Fire in Food Establishment,Downtown / Financial District,6,0.833,1.89
+ISD,Fire in Food Establishment,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.67
+ISD,Fire in Food Establishment,Jamaica Plain,4,1.0,0.85
+ISD,Fire in Food Establishment,Roslindale,1,1.0,0.35
+ISD,Fire in Food Establishment,Roxbury,2,0.5,1.07
+ISD,Fire in Food Establishment,South Boston / South Boston Waterfront,1,0.0,5.8
+ISD,Fire in Food Establishment,South End,2,0.5,1.46
+ISD,Follow-Up,Boston,1,1.0,0.0
+ISD,Food Alert - Confirmed,Allston / Brighton,23,0.522,2.02
+ISD,Food Alert - Confirmed,Back Bay,24,0.792,0.94
+ISD,Food Alert - Confirmed,Beacon Hill,1,1.0,1.32
+ISD,Food Alert - Confirmed,Boston,59,0.78,1.28
+ISD,Food Alert - Confirmed,Charlestown,1,1.0,0.92
+ISD,Food Alert - Confirmed,Dorchester,20,0.75,1.53
+ISD,Food Alert - Confirmed,Downtown / Financial District,24,0.833,1.43
+ISD,Food Alert - Confirmed,East Boston,8,0.875,1.48
+ISD,Food Alert - Confirmed,Fenway / Kenmore / Audubon Circle / Longwood,9,0.667,0.97
+ISD,Food Alert - Confirmed,Greater Mattapan,9,0.667,0.94
+ISD,Food Alert - Confirmed,Hyde Park,6,0.667,1.02
+ISD,Food Alert - Confirmed,Jamaica Plain,14,0.857,1.95
+ISD,Food Alert - Confirmed,Mission Hill,2,1.0,1.21
+ISD,Food Alert - Confirmed,Roslindale,2,0.5,4.54
+ISD,Food Alert - Confirmed,Roxbury,17,0.824,1.0
+ISD,Food Alert - Confirmed,South Boston / South Boston Waterfront,6,0.667,1.85
+ISD,Food Alert - Confirmed,South End,10,0.8,0.56
+ISD,Food Alert - Confirmed,West Roxbury,1,1.0,0.79
+ISD,Food Alert - Unconfirmed,Allston / Brighton,11,0.545,2.99
+ISD,Food Alert - Unconfirmed,Back Bay,18,0.778,0.86
+ISD,Food Alert - Unconfirmed,Boston,31,0.71,1.91
+ISD,Food Alert - Unconfirmed,Charlestown,1,0.0,6.74
+ISD,Food Alert - Unconfirmed,Dorchester,8,0.75,2.5
+ISD,Food Alert - Unconfirmed,Downtown / Financial District,9,0.667,3.01
+ISD,Food Alert - Unconfirmed,East Boston,13,0.692,2.06
+ISD,Food Alert - Unconfirmed,Fenway / Kenmore / Audubon Circle / Longwood,4,0.75,2.43
+ISD,Food Alert - Unconfirmed,Greater Mattapan,2,0.5,3.93
+ISD,Food Alert - Unconfirmed,Hyde Park,4,1.0,0.5
+ISD,Food Alert - Unconfirmed,Jamaica Plain,7,0.857,0.98
+ISD,Food Alert - Unconfirmed,Roslindale,2,0.5,3.41
+ISD,Food Alert - Unconfirmed,Roxbury,12,0.75,2.1
+ISD,Food Alert - Unconfirmed,South Boston / South Boston Waterfront,6,0.5,1.99
+ISD,Food Alert - Unconfirmed,South End,4,0.75,0.84
+ISD,Food Alert - Unconfirmed,West Roxbury,4,0.75,1.58
+ISD,Ground Maintenance,Allston / Brighton,3,1.0,2.69
+ISD,Ground Maintenance,Dorchester,2,0.5,12.36
+ISD,Ground Maintenance,Downtown / Financial District,1,1.0,1.84
+ISD,Ground Maintenance,Roxbury,1,0.0,394.59
+ISD,Heat - Excessive  Insufficient,Allston / Brighton,85,0.718,2.69
+ISD,Heat - Excessive  Insufficient,Back Bay,8,0.625,2.94
+ISD,Heat - Excessive  Insufficient,Beacon Hill,28,0.893,0.77
+ISD,Heat - Excessive  Insufficient,Boston,21,0.762,2.06
+ISD,Heat - Excessive  Insufficient,Charlestown,21,0.905,1.17
+ISD,Heat - Excessive  Insufficient,Dorchester,134,0.716,1.01
+ISD,Heat - Excessive  Insufficient,Downtown / Financial District,10,0.6,5.78
+ISD,Heat - Excessive  Insufficient,East Boston,20,0.75,0.81
+ISD,Heat - Excessive  Insufficient,Fenway / Kenmore / Audubon Circle / Longwood,35,0.657,1.68
+ISD,Heat - Excessive  Insufficient,Greater Mattapan,65,0.692,0.97
+ISD,Heat - Excessive  Insufficient,Hyde Park,30,0.767,0.55
+ISD,Heat - Excessive  Insufficient,Jamaica Plain,63,0.762,1.12
+ISD,Heat - Excessive  Insufficient,Mission Hill,19,0.789,1.63
+ISD,Heat - Excessive  Insufficient,Roslindale,13,0.846,0.52
+ISD,Heat - Excessive  Insufficient,Roxbury,143,0.748,0.99
+ISD,Heat - Excessive  Insufficient,South Boston / South Boston Waterfront,31,0.677,0.9
+ISD,Heat - Excessive  Insufficient,South End,15,0.733,1.12
+ISD,Heat - Excessive  Insufficient,West Roxbury,7,0.857,8.37
+ISD,Illegal Auto Body Shop,Allston / Brighton,3,0.667,0.0
+ISD,Illegal Auto Body Shop,Dorchester,22,1.0,0.83
+ISD,Illegal Auto Body Shop,East Boston,6,1.0,1.89
+ISD,Illegal Auto Body Shop,Greater Mattapan,14,0.929,1.31
+ISD,Illegal Auto Body Shop,Hyde Park,9,1.0,0.79
+ISD,Illegal Auto Body Shop,Jamaica Plain,3,1.0,0.52
+ISD,Illegal Auto Body Shop,Mission Hill,2,1.0,0.48
+ISD,Illegal Auto Body Shop,Roxbury,14,0.857,2.19
+ISD,Illegal Auto Body Shop,South End,1,1.0,0.75
+ISD,Illegal Dumping,Dorchester,1,0.0,
+ISD,Illegal Dumping,East Boston,1,0.0,
+ISD,Illegal Dumping,South Boston / South Boston Waterfront,1,0.0,
+ISD,Illegal Occupancy,Allston / Brighton,16,0.5,7.52
+ISD,Illegal Occupancy,Beacon Hill,2,0.0,394.54
+ISD,Illegal Occupancy,Boston,3,0.0,50.67
+ISD,Illegal Occupancy,Dorchester,19,0.158,355.99
+ISD,Illegal Occupancy,Downtown / Financial District,5,0.2,32.24
+ISD,Illegal Occupancy,East Boston,13,0.077,335.03
+ISD,Illegal Occupancy,Fenway / Kenmore / Audubon Circle / Longwood,7,0.571,6.76
+ISD,Illegal Occupancy,Greater Mattapan,8,0.25,285.65
+ISD,Illegal Occupancy,Hyde Park,11,0.545,6.88
+ISD,Illegal Occupancy,Mission Hill,1,1.0,1.44
+ISD,Illegal Occupancy,Roslindale,3,0.333,15.18
+ISD,Illegal Occupancy,Roxbury,14,0.429,15.0
+ISD,Illegal Occupancy,South Boston / South Boston Waterfront,5,0.2,30.08
+ISD,Illegal Occupancy,South End,2,0.5,190.94
+ISD,Illegal Occupancy,West Roxbury,7,0.0,46.74
+ISD,Illegal Posting of Signs,Boston,1,0.0,350.84
+ISD,Illegal Posting of Signs,East Boston,1,0.0,
+ISD,Illegal Posting of Signs,Greater Mattapan,2,0.0,2.83
+ISD,Illegal Posting of Signs,West Roxbury,1,0.0,1.73
+ISD,Illegal Rooming House,Allston / Brighton,8,0.375,31.02
+ISD,Illegal Rooming House,Dorchester,24,0.333,127.53
+ISD,Illegal Rooming House,Downtown / Financial District,3,0.0,41.71
+ISD,Illegal Rooming House,East Boston,4,0.25,374.97
+ISD,Illegal Rooming House,Fenway / Kenmore / Audubon Circle / Longwood,1,0.0,498.29
+ISD,Illegal Rooming House,Greater Mattapan,11,0.273,392.21
+ISD,Illegal Rooming House,Hyde Park,14,0.143,49.94
+ISD,Illegal Rooming House,Jamaica Plain,3,0.0,98.91
+ISD,Illegal Rooming House,Mission Hill,1,0.0,598.92
+ISD,Illegal Rooming House,Roslindale,9,0.111,477.05
+ISD,Illegal Rooming House,Roxbury,10,0.2,164.95
+ISD,Illegal Rooming House,South Boston / South Boston Waterfront,3,0.333,38.22
+ISD,Illegal Rooming House,West Roxbury,11,0.182,34.7
+ISD,Illegal Vending,Allston / Brighton,1,1.0,1.91
+ISD,Illegal Vending,Dorchester,3,0.667,4.9
+ISD,Illegal Vending,Greater Mattapan,1,1.0,4.54
+ISD,Illegal Vending,West Roxbury,1,0.0,37.73
+ISD,Improper Storage of Trash (Barrels),Boston,1,0.0,437.28
+ISD,Improper Storage of Trash (Barrels),Charlestown,2,0.0,6.89
+ISD,Improper Storage of Trash (Barrels),Dorchester,5,0.4,1.8
+ISD,Improper Storage of Trash (Barrels),Downtown / Financial District,1,0.0,278.52
+ISD,Improper Storage of Trash (Barrels),Hyde Park,1,0.0,29.91
+ISD,Improper Storage of Trash (Barrels),South Boston / South Boston Waterfront,3,0.333,10.11
+ISD,Improper Storage of Trash (Barrels),South End,2,0.0,
+ISD,Item Price Missing,Dorchester,1,0.0,2.97
+ISD,Item Price Missing,Downtown / Financial District,1,0.0,1.8
+ISD,Item Price Missing,Greater Mattapan,1,0.0,5.01
+ISD,Item Price Missing,Roxbury,3,0.333,1.13
+ISD,Item Price Missing,South Boston / South Boston Waterfront,1,0.0,1.81
+ISD,Lead,Allston / Brighton,2,0.5,117.51
+ISD,Lead,Dorchester,1,0.0,123.43
+ISD,Lead,East Boston,1,0.0,157.26
+ISD,Lead,Greater Mattapan,1,1.0,0.9
+ISD,Maintenance - Homeowner,Allston / Brighton,16,0.5,8.99
+ISD,Maintenance - Homeowner,Back Bay,6,0.333,366.02
+ISD,Maintenance - Homeowner,Beacon Hill,1,0.0,435.75
+ISD,Maintenance - Homeowner,Boston,14,0.714,0.02
+ISD,Maintenance - Homeowner,Charlestown,3,0.0,164.06
+ISD,Maintenance - Homeowner,Dorchester,26,0.346,18.54
+ISD,Maintenance - Homeowner,Downtown / Financial District,11,0.182,371.86
+ISD,Maintenance - Homeowner,East Boston,12,0.0,295.42
+ISD,Maintenance - Homeowner,Fenway / Kenmore / Audubon Circle / Longwood,3,1.0,1.05
+ISD,Maintenance - Homeowner,Greater Mattapan,8,0.375,29.92
+ISD,Maintenance - Homeowner,Hyde Park,7,0.429,20.11
+ISD,Maintenance - Homeowner,Jamaica Plain,5,0.0,216.03
+ISD,Maintenance - Homeowner,Mission Hill,4,0.75,4.01
+ISD,Maintenance - Homeowner,Roslindale,9,0.222,9.85
+ISD,Maintenance - Homeowner,Roxbury,24,0.208,193.81
+ISD,Maintenance - Homeowner,South Boston / South Boston Waterfront,7,0.429,9.07
+ISD,Maintenance - Homeowner,South End,6,0.167,253.94
+ISD,Maintenance - Homeowner,West Roxbury,2,0.0,293.91
+ISD,Maintenance Complaint - Residential,Allston / Brighton,65,0.431,4.05
+ISD,Maintenance Complaint - Residential,Back Bay,19,0.526,8.06
+ISD,Maintenance Complaint - Residential,Beacon Hill,7,0.429,0.03
+ISD,Maintenance Complaint - Residential,Boston,15,0.733,1.53
+ISD,Maintenance Complaint - Residential,Charlestown,14,0.429,11.01
+ISD,Maintenance Complaint - Residential,Dorchester,122,0.574,7.17
+ISD,Maintenance Complaint - Residential,Downtown / Financial District,8,0.375,39.82
+ISD,Maintenance Complaint - Residential,East Boston,27,0.37,32.09
+ISD,Maintenance Complaint - Residential,Fenway / Kenmore / Audubon Circle / Longwood,19,0.526,22.5
+ISD,Maintenance Complaint - Residential,Greater Mattapan,68,0.603,8.0
+ISD,Maintenance Complaint - Residential,Hyde Park,35,0.343,22.93
+ISD,Maintenance Complaint - Residential,Jamaica Plain,45,0.622,12.87
+ISD,Maintenance Complaint - Residential,Mission Hill,20,0.65,12.29
+ISD,Maintenance Complaint - Residential,Roslindale,16,0.688,14.84
+ISD,Maintenance Complaint - Residential,Roxbury,97,0.711,10.13
+ISD,Maintenance Complaint - Residential,South Boston / South Boston Waterfront,31,0.355,12.89
+ISD,Maintenance Complaint - Residential,South End,15,0.733,10.87
+ISD,Maintenance Complaint - Residential,West Roxbury,12,0.667,5.08
+ISD,Mechanical,Dorchester,4,0.5,260.62
+ISD,Mechanical,East Boston,1,0.0,476.08
+ISD,Mechanical,Jamaica Plain,1,0.0,109.1
+ISD,Mechanical,South Boston / South Boston Waterfront,3,0.0,250.87
+ISD,Mice Infestation - Residential,Allston / Brighton,42,0.452,19.52
+ISD,Mice Infestation - Residential,Back Bay,10,0.7,7.63
+ISD,Mice Infestation - Residential,Beacon Hill,3,0.667,82.04
+ISD,Mice Infestation - Residential,Boston,6,1.0,4.65
+ISD,Mice Infestation - Residential,Charlestown,8,0.625,1.13
+ISD,Mice Infestation - Residential,Dorchester,58,0.672,11.69
+ISD,Mice Infestation - Residential,Downtown / Financial District,13,0.462,8.79
+ISD,Mice Infestation - Residential,East Boston,16,0.688,6.85
+ISD,Mice Infestation - Residential,Fenway / Kenmore / Audubon Circle / Longwood,8,0.75,18.18
+ISD,Mice Infestation - Residential,Greater Mattapan,38,0.605,8.98
+ISD,Mice Infestation - Residential,Hyde Park,13,0.615,14.02
+ISD,Mice Infestation - Residential,Jamaica Plain,18,0.667,20.51
+ISD,Mice Infestation - Residential,Mission Hill,12,0.667,14.13
+ISD,Mice Infestation - Residential,Roslindale,12,0.583,32.42
+ISD,Mice Infestation - Residential,Roxbury,59,0.729,13.0
+ISD,Mice Infestation - Residential,South Boston / South Boston Waterfront,7,0.714,23.87
+ISD,Mice Infestation - Residential,South End,13,0.692,10.64
+ISD,Mice Infestation - Residential,West Roxbury,7,0.571,12.15
+ISD,Mosquitoes (West Nile),Back Bay,1,1.0,11.12
+ISD,Mosquitoes (West Nile),Roxbury,2,1.0,0.83
+ISD,Mosquitoes (West Nile),South Boston / South Boston Waterfront,1,1.0,1.57
+ISD,Mosquitoes (West Nile),West Roxbury,3,0.667,3.72
+ISD,Needle Pickup,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.7
+ISD,Needle Pickup,South Boston / South Boston Waterfront,1,1.0,0.61
+ISD,No Price on Gas/Wrong Price,Back Bay,1,1.0,0.0
+ISD,No Price on Gas/Wrong Price,Dorchester,4,0.25,1.99
+ISD,No Price on Gas/Wrong Price,South End,1,0.0,3.82
+ISD,No Utilities - Food Establishment - Electricity,South Boston / South Boston Waterfront,1,1.0,4.66
+ISD,No Utilities - Food Establishment - Electricity,South End,1,1.0,1.14
+ISD,No Utilities - Food Establishment - Flood,Downtown / Financial District,2,1.0,2.91
+ISD,No Utilities - Food Establishment - Flood,East Boston,1,1.0,3.02
+ISD,No Utilities - Food Establishment - Flood,Roxbury,1,1.0,0.16
+ISD,No Utilities - Food Establishment - Sewer,Allston / Brighton,2,0.5,215.92
+ISD,No Utilities - Food Establishment - Sewer,Dorchester,1,0.0,1.73
+ISD,No Utilities - Food Establishment - Sewer,Downtown / Financial District,2,0.0,4.04
+ISD,No Utilities - Food Establishment - Water,Allston / Brighton,1,0.0,7.19
+ISD,No Utilities - Food Establishment - Water,Boston,1,1.0,2.86
+ISD,No Utilities - Food Establishment - Water,Dorchester,1,0.0,6.85
+ISD,No Utilities - Food Establishment - Water,Downtown / Financial District,1,1.0,1.82
+ISD,No Utilities - Food Establishment - Water,Roxbury,1,0.0,1.8
+ISD,No Utilities - Food Establishment - Water,South End,1,1.0,0.26
+ISD,No Utilities - Food Establishment - Water,West Roxbury,1,1.0,0.96
+ISD,No Utilities Residential - Electricity,Allston / Brighton,9,0.556,4.53
+ISD,No Utilities Residential - Electricity,Boston,2,0.5,1.6
+ISD,No Utilities Residential - Electricity,Dorchester,9,0.444,1.33
+ISD,No Utilities Residential - Electricity,Downtown / Financial District,1,0.0,
+ISD,No Utilities Residential - Electricity,East Boston,5,0.6,12.33
+ISD,No Utilities Residential - Electricity,Greater Mattapan,5,0.6,2.04
+ISD,No Utilities Residential - Electricity,Hyde Park,5,1.0,0.96
+ISD,No Utilities Residential - Electricity,Jamaica Plain,1,1.0,16.31
+ISD,No Utilities Residential - Electricity,Mission Hill,1,0.0,
+ISD,No Utilities Residential - Electricity,Roslindale,2,0.0,
+ISD,No Utilities Residential - Electricity,Roxbury,6,0.667,2.18
+ISD,No Utilities Residential - Electricity,South Boston / South Boston Waterfront,4,0.5,3.6
+ISD,No Utilities Residential - Electricity,West Roxbury,1,1.0,16.66
+ISD,No Utilities Residential - Gas,Back Bay,1,0.0,450.86
+ISD,No Utilities Residential - Gas,Beacon Hill,2,1.0,2.92
+ISD,No Utilities Residential - Gas,Dorchester,1,1.0,0.63
+ISD,No Utilities Residential - Gas,Downtown / Financial District,1,1.0,0.08
+ISD,No Utilities Residential - Gas,Greater Mattapan,2,0.0,419.53
+ISD,No Utilities Residential - Gas,Roxbury,5,0.8,2.04
+ISD,No Utilities Residential - Gas,South End,1,1.0,1.96
+ISD,No Utilities Residential - Water,Allston / Brighton,6,0.833,1.89
+ISD,No Utilities Residential - Water,Back Bay,1,1.0,0.67
+ISD,No Utilities Residential - Water,Beacon Hill,1,0.0,545.12
+ISD,No Utilities Residential - Water,Boston,1,0.0,542.2
+ISD,No Utilities Residential - Water,Charlestown,2,0.0,304.04
+ISD,No Utilities Residential - Water,Dorchester,14,0.5,21.32
+ISD,No Utilities Residential - Water,Downtown / Financial District,1,1.0,0.78
+ISD,No Utilities Residential - Water,East Boston,3,0.333,137.26
+ISD,No Utilities Residential - Water,Fenway / Kenmore / Audubon Circle / Longwood,2,0.5,243.98
+ISD,No Utilities Residential - Water,Greater Mattapan,12,0.667,0.79
+ISD,No Utilities Residential - Water,Hyde Park,1,1.0,0.0
+ISD,No Utilities Residential - Water,Jamaica Plain,3,0.333,97.9
+ISD,No Utilities Residential - Water,Mission Hill,6,0.833,0.84
+ISD,No Utilities Residential - Water,Roslindale,1,1.0,0.81
+ISD,No Utilities Residential - Water,Roxbury,10,0.9,1.15
+ISD,No Utilities Residential - Water,South Boston / South Boston Waterfront,8,0.625,3.28
+ISD,No Utilities Residential - Water,South End,1,1.0,0.01
+ISD,Notification,Allston / Brighton,3,1.0,
+ISD,Notification,Boston,1,1.0,
+ISD,Notification,Charlestown,1,1.0,
+ISD,Notification,Dorchester,7,1.0,27.0
+ISD,Notification,Downtown / Financial District,4,1.0,
+ISD,Notification,East Boston,3,1.0,36.97
+ISD,Notification,Greater Mattapan,4,1.0,
+ISD,Notification,Hyde Park,2,1.0,
+ISD,Notification,Jamaica Plain,4,1.0,
+ISD,Notification,Mission Hill,1,1.0,
+ISD,Notification,Roslindale,2,1.0,
+ISD,Notification,Roxbury,1,1.0,20.94
+ISD,Notification,South Boston / South Boston Waterfront,4,1.0,
+ISD,Notification,South End,3,1.0,
+ISD,Notification,West Roxbury,1,1.0,
+ISD,Occupying W/Out A Valid CO/CI,Allston / Brighton,1,0.0,279.85
+ISD,Occupying W/Out A Valid CO/CI,Beacon Hill,1,0.0,42.82
+ISD,Occupying W/Out A Valid CO/CI,Charlestown,1,0.0,59.0
+ISD,Occupying W/Out A Valid CO/CI,Greater Mattapan,1,0.0,115.7
+ISD,Occupying W/Out A Valid CO/CI,Hyde Park,1,0.0,487.18
+ISD,Occupying W/Out A Valid CO/CI,Roxbury,2,0.5,220.09
+ISD,Occupying W/Out A Valid CO/CI,West Roxbury,2,1.0,0.29
+ISD,Overcrowding,Allston / Brighton,2,1.0,44.4
+ISD,Overcrowding,Dorchester,3,0.333,384.17
+ISD,Overcrowding,Downtown / Financial District,1,1.0,10.0
+ISD,Overcrowding,East Boston,1,0.0,339.91
+ISD,Overcrowding,Greater Mattapan,1,1.0,4.13
+ISD,Overcrowding,Hyde Park,1,0.0,405.14
+ISD,Overcrowding,Roxbury,3,0.667,7.96
+ISD,Overcrowding,West Roxbury,11,0.636,28.31
+ISD,Overflowing or Un-kept Dumpster,Allston / Brighton,5,1.0,0.73
+ISD,Overflowing or Un-kept Dumpster,Boston,1,1.0,0.0
+ISD,Overflowing or Un-kept Dumpster,Charlestown,1,1.0,0.0
+ISD,Overflowing or Un-kept Dumpster,Dorchester,5,0.8,0.06
+ISD,Overflowing or Un-kept Dumpster,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,1.45
+ISD,Overflowing or Un-kept Dumpster,Greater Mattapan,1,1.0,0.89
+ISD,Overflowing or Un-kept Dumpster,Hyde Park,1,1.0,0.25
+ISD,Overflowing or Un-kept Dumpster,Roslindale,1,1.0,0.06
+ISD,Overflowing or Un-kept Dumpster,Roxbury,7,1.0,0.22
+ISD,Overflowing or Un-kept Dumpster,West Roxbury,1,1.0,3.04
+ISD,Parking Enforcement,Allston / Brighton,1,0.0,490.17
+ISD,Parking Enforcement,Beacon Hill,1,1.0,0.16
+ISD,Parking Enforcement,Charlestown,1,0.0,5.1
+ISD,Parking Enforcement,Dorchester,3,0.333,2.81
+ISD,Parking Enforcement,Downtown / Financial District,3,0.0,9.09
+ISD,Parking Enforcement,East Boston,4,0.0,3.87
+ISD,Parking Enforcement,Greater Mattapan,1,0.0,20.95
+ISD,Parking Enforcement,Hyde Park,3,0.0,8.97
+ISD,Parking Enforcement,Jamaica Plain,2,0.0,16.81
+ISD,Parking Enforcement,Roxbury,6,0.0,13.7
+ISD,Parking Enforcement,South Boston / South Boston Waterfront,2,0.0,19.12
+ISD,Parks General Request,Boston,1,1.0,0.69
+ISD,Parks General Request,East Boston,1,1.0,5.17
+ISD,Parks General Request,Roslindale,1,1.0,5.53
+ISD,Parks General Request,Roxbury,1,1.0,1.92
+ISD,Pest Infestation - Residential,Allston / Brighton,400,0.945,2.6
+ISD,Pest Infestation - Residential,Back Bay,57,0.93,2.67
+ISD,Pest Infestation - Residential,Beacon Hill,25,0.96,2.46
+ISD,Pest Infestation - Residential,Boston,28,0.893,2.91
+ISD,Pest Infestation - Residential,Charlestown,31,0.903,3.78
+ISD,Pest Infestation - Residential,Dorchester,367,0.894,2.86
+ISD,Pest Infestation - Residential,Downtown / Financial District,37,0.919,3.19
+ISD,Pest Infestation - Residential,East Boston,71,0.944,2.59
+ISD,Pest Infestation - Residential,Fenway / Kenmore / Audubon Circle / Longwood,37,0.703,4.62
+ISD,Pest Infestation - Residential,Greater Mattapan,56,0.893,3.63
+ISD,Pest Infestation - Residential,Hyde Park,60,0.917,4.48
+ISD,Pest Infestation - Residential,Jamaica Plain,150,0.9,2.66
+ISD,Pest Infestation - Residential,Mission Hill,37,0.838,8.87
+ISD,Pest Infestation - Residential,Roslindale,57,0.842,3.6
+ISD,Pest Infestation - Residential,Roxbury,168,0.863,3.91
+ISD,Pest Infestation - Residential,South Boston / South Boston Waterfront,106,0.934,3.27
+ISD,Pest Infestation - Residential,South End,87,0.989,2.98
+ISD,Pest Infestation - Residential,West Roxbury,48,0.938,2.07
+ISD,Pick up Dead Animal,Allston / Brighton,4,0.0,10.33
+ISD,Pick up Dead Animal,Beacon Hill,1,0.0,1.97
+ISD,Pick up Dead Animal,Boston,4,0.0,6.2
+ISD,Pick up Dead Animal,Downtown / Financial District,1,0.0,33.78
+ISD,Pick up Dead Animal,Jamaica Plain,1,0.0,7.98
+ISD,Pick up Dead Animal,Roxbury,3,0.333,3.45
+ISD,Pick up Dead Animal,South Boston / South Boston Waterfront,1,0.0,4.23
+ISD,Pick up Dead Animal,South End,1,0.0,24.01
+ISD,Pigeon Infestation,Jamaica Plain,1,1.0,0.9
+ISD,Pigeon Infestation,South Boston / South Boston Waterfront,8,1.0,0.72
+ISD,Plumbing,Back Bay,3,0.0,267.89
+ISD,Plumbing,Beacon Hill,2,0.0,293.45
+ISD,Plumbing,Boston,2,0.5,157.12
+ISD,Plumbing,Charlestown,2,0.0,275.51
+ISD,Plumbing,Dorchester,10,0.1,451.94
+ISD,Plumbing,Downtown / Financial District,4,0.0,266.86
+ISD,Plumbing,East Boston,8,0.0,291.29
+ISD,Plumbing,Fenway / Kenmore / Audubon Circle / Longwood,2,0.0,210.01
+ISD,Plumbing,Greater Mattapan,3,0.0,378.3
+ISD,Plumbing,Hyde Park,5,0.2,142.83
+ISD,Plumbing,Jamaica Plain,2,0.0,398.85
+ISD,Plumbing,Roxbury,6,0.0,183.06
+ISD,Plumbing,South Boston / South Boston Waterfront,7,0.0,476.8
+ISD,Plumbing,South End,1,0.0,119.75
+ISD,Plumbing,West Roxbury,2,0.0,537.88
+ISD,Poor Conditions of Property,Allston / Brighton,1,0.0,
+ISD,Poor Conditions of Property,Beacon Hill,1,0.0,23.22
+ISD,Poor Conditions of Property,Charlestown,1,1.0,1.84
+ISD,Poor Conditions of Property,Dorchester,3,0.0,27.43
+ISD,Poor Conditions of Property,Downtown / Financial District,1,1.0,0.52
+ISD,Poor Conditions of Property,East Boston,6,0.333,120.95
+ISD,Poor Conditions of Property,Fenway / Kenmore / Audubon Circle / Longwood,2,0.0,269.13
+ISD,Poor Conditions of Property,Greater Mattapan,5,0.2,6.33
+ISD,Poor Conditions of Property,Hyde Park,7,0.429,3.61
+ISD,Poor Conditions of Property,Jamaica Plain,4,0.25,14.6
+ISD,Poor Conditions of Property,Mission Hill,1,0.0,9.08
+ISD,Poor Conditions of Property,Roxbury,4,0.25,4.86
+ISD,Poor Conditions of Property,South Boston / South Boston Waterfront,2,0.0,
+ISD,Poor Conditions of Property,South End,1,0.0,738.06
+ISD,Poor Conditions of Property,West Roxbury,3,0.333,9.97
+ISD,Poor Ventilation,Allston / Brighton,2,1.0,26.88
+ISD,Poor Ventilation,Boston,2,0.5,302.9
+ISD,Poor Ventilation,Downtown / Financial District,3,0.667,12.53
+ISD,Poor Ventilation,East Boston,2,0.0,566.45
+ISD,Poor Ventilation,Fenway / Kenmore / Audubon Circle / Longwood,2,0.0,379.21
+ISD,Poor Ventilation,Greater Mattapan,2,0.0,427.3
+ISD,Poor Ventilation,Mission Hill,1,1.0,43.08
+ISD,Poor Ventilation,Roslindale,1,1.0,1.55
+ISD,Poor Ventilation,Roxbury,1,0.0,457.14
+ISD,Poor Ventilation,West Roxbury,4,0.75,40.93
+ISD,Product Short Measure,Allston / Brighton,1,0.0,6.97
+ISD,Product Short Measure,Boston,1,1.0,1.75
+ISD,Protection of Adjoining Property,Allston / Brighton,11,0.364,7.07
+ISD,Protection of Adjoining Property,Back Bay,5,0.2,160.24
+ISD,Protection of Adjoining Property,Beacon Hill,1,1.0,2.82
+ISD,Protection of Adjoining Property,Boston,2,0.5,15.1
+ISD,Protection of Adjoining Property,Charlestown,11,0.182,15.85
+ISD,Protection of Adjoining Property,Chestnut Hill,1,1.0,0.05
+ISD,Protection of Adjoining Property,Dorchester,49,0.265,27.92
+ISD,Protection of Adjoining Property,Downtown / Financial District,6,0.167,196.56
+ISD,Protection of Adjoining Property,East Boston,26,0.115,132.03
+ISD,Protection of Adjoining Property,Fenway / Kenmore / Audubon Circle / Longwood,3,1.0,2.01
+ISD,Protection of Adjoining Property,Greater Mattapan,23,0.304,26.0
+ISD,Protection of Adjoining Property,Hyde Park,18,0.444,6.0
+ISD,Protection of Adjoining Property,Jamaica Plain,17,0.176,149.73
+ISD,Protection of Adjoining Property,Mission Hill,4,0.25,7.65
+ISD,Protection of Adjoining Property,Roslindale,9,0.333,16.1
+ISD,Protection of Adjoining Property,Roxbury,22,0.136,523.0
+ISD,Protection of Adjoining Property,South Boston / South Boston Waterfront,15,0.4,11.99
+ISD,Protection of Adjoining Property,South End,12,0.167,112.05
+ISD,Protection of Adjoining Property,West Roxbury,12,0.417,7.09
+ISD,Public Works General Request,Back Bay,1,1.0,
+ISD,Public Works General Request,Charlestown,1,1.0,164.0
+ISD,Public Works General Request,Greater Mattapan,1,1.0,620.05
+ISD,Public Works General Request,Jamaica Plain,2,1.0,117.99
+ISD,Public Works General Request,Roxbury,1,1.0,482.89
+ISD,Public Works General Request,South End,1,1.0,22.83
+ISD,Rat Bite,Allston / Brighton,6,1.0,0.55
+ISD,Rat Bite,Beacon Hill,1,1.0,0.41
+ISD,Rat Bite,Dorchester,2,1.0,0.79
+ISD,Rat Bite,Downtown / Financial District,1,1.0,2.25
+ISD,Rat Bite,East Boston,2,1.0,1.83
+ISD,Rat Bite,Greater Mattapan,4,1.0,1.14
+ISD,Rat Bite,Hyde Park,1,1.0,0.72
+ISD,Rat Bite,Roslindale,1,1.0,0.03
+ISD,Rat Bite,Roxbury,2,1.0,3.62
+ISD,Rat Bite,South Boston / South Boston Waterfront,1,1.0,1.84
+ISD,Rat Bite,South End,1,1.0,4.51
+ISD,Rat Bite,West Roxbury,1,1.0,2.39
+ISD,Rental Unit Delivery Conditions,Allston / Brighton,1,1.0,0.12
+ISD,Rental Unit Delivery Conditions,East Boston,1,0.0,118.77
+ISD,Rental Unit Delivery Conditions,Fenway / Kenmore / Audubon Circle / Longwood,4,0.25,372.07
+ISD,Rental Unit Delivery Conditions,Greater Mattapan,1,0.0,454.8
+ISD,Rental Unit Delivery Conditions,Jamaica Plain,1,0.0,372.01
+ISD,Rental Unit Delivery Conditions,Mission Hill,1,0.0,454.65
+ISD,Rental Unit Delivery Conditions,South Boston / South Boston Waterfront,1,1.0,29.97
+ISD,Rental Unit Delivery Conditions,South End,2,0.5,234.51
+ISD,Request for Pothole Repair,Downtown / Financial District,4,0.0,9.61
+ISD,Request for Pothole Repair,South Boston / South Boston Waterfront,1,0.0,6.2
+ISD,Request for Pothole Repair,South End,1,0.0,11.63
+ISD,Request for Pothole Repair,West Roxbury,1,0.0,11.97
+ISD,Request for Snow Plowing,South Boston / South Boston Waterfront,1,0.0,10.99
+ISD,Requests for Street Cleaning,Allston / Brighton,5,0.0,16.79
+ISD,Requests for Street Cleaning,Back Bay,1,0.0,6.9
+ISD,Requests for Street Cleaning,Boston,1,0.0,10.71
+ISD,Requests for Street Cleaning,Charlestown,1,0.0,26.63
+ISD,Requests for Street Cleaning,Dorchester,3,0.0,3.68
+ISD,Requests for Street Cleaning,Downtown / Financial District,5,0.2,56.73
+ISD,Requests for Street Cleaning,East Boston,5,0.0,59.7
+ISD,Requests for Street Cleaning,Fenway / Kenmore / Audubon Circle / Longwood,1,0.0,163.16
+ISD,Requests for Street Cleaning,Hyde Park,4,0.25,84.44
+ISD,Requests for Street Cleaning,Jamaica Plain,2,0.5,366.77
+ISD,Requests for Street Cleaning,Roslindale,2,0.5,36.89
+ISD,Requests for Street Cleaning,Roxbury,3,0.667,1.52
+ISD,Requests for Street Cleaning,South Boston / South Boston Waterfront,17,0.118,3.8
+ISD,Requests for Street Cleaning,South End,3,0.0,61.93
+ISD,Requests for Street Cleaning,West Roxbury,1,0.0,10.05
+ISD,Roadway Repair,Downtown / Financial District,1,1.0,
+ISD,Roadway Repair,Greater Mattapan,1,1.0,341.65
+ISD,Roadway Repair,Roxbury,1,1.0,31.87
+ISD,Rodent Activity,Allston / Brighton,686,0.999,0.73
+ISD,Rodent Activity,Back Bay,259,0.996,1.2
+ISD,Rodent Activity,Beacon Hill,86,1.0,0.88
+ISD,Rodent Activity,Boston,175,1.0,0.85
+ISD,Rodent Activity,Charlestown,123,1.0,1.02
+ISD,Rodent Activity,Dorchester,635,0.998,0.86
+ISD,Rodent Activity,Downtown / Financial District,219,1.0,0.82
+ISD,Rodent Activity,East Boston,252,0.992,0.76
+ISD,Rodent Activity,Fenway / Kenmore / Audubon Circle / Longwood,75,1.0,1.09
+ISD,Rodent Activity,Greater Mattapan,181,0.994,1.53
+ISD,Rodent Activity,Hyde Park,118,1.0,0.99
+ISD,Rodent Activity,Jamaica Plain,309,0.997,0.98
+ISD,Rodent Activity,Mission Hill,106,1.0,0.93
+ISD,Rodent Activity,Roslindale,153,0.987,0.89
+ISD,Rodent Activity,Roxbury,450,0.984,1.35
+ISD,Rodent Activity,South Boston / South Boston Waterfront,324,0.997,0.9
+ISD,Rodent Activity,South End,375,0.997,0.89
+ISD,Rodent Activity,West Roxbury,140,1.0,0.72
+ISD,Scale Not Visible,Mission Hill,1,0.0,4.64
+ISD,Scale Not Visible,Roslindale,1,0.0,3.02
+ISD,Scanning Overcharge,Boston,1,1.0,0.98
+ISD,Scanning Overcharge,Charlestown,1,1.0,0.83
+ISD,Scanning Overcharge,Dorchester,2,0.5,3.32
+ISD,Scanning Overcharge,Downtown / Financial District,1,1.0,1.16
+ISD,Scanning Overcharge,East Boston,1,0.0,1.03
+ISD,Scanning Overcharge,Roslindale,1,1.0,1.85
+ISD,Scanning Overcharge,Roxbury,2,1.0,0.44
+ISD,Scanning Overcharge,South Boston / South Boston Waterfront,3,0.667,0.79
+ISD,Scanning Overcharge,South End,1,1.0,0.96
+ISD,Sewage/Septic Back-Up,Allston / Brighton,1,0.0,427.06
+ISD,Sewage/Septic Back-Up,Back Bay,2,0.0,434.27
+ISD,Sewage/Septic Back-Up,Boston,2,1.0,9.63
+ISD,Sewage/Septic Back-Up,Dorchester,3,1.0,6.85
+ISD,Sewage/Septic Back-Up,Downtown / Financial District,1,1.0,4.86
+ISD,Sewage/Septic Back-Up,East Boston,3,0.333,515.96
+ISD,Sewage/Septic Back-Up,Fenway / Kenmore / Audubon Circle / Longwood,3,0.333,525.08
+ISD,Sewage/Septic Back-Up,Greater Mattapan,3,0.667,2.17
+ISD,Sewage/Septic Back-Up,Hyde Park,3,1.0,23.79
+ISD,Sewage/Septic Back-Up,Mission Hill,2,0.0,334.2
+ISD,Sewage/Septic Back-Up,Roslindale,2,1.0,0.99
+ISD,Sewage/Septic Back-Up,Roxbury,2,1.0,45.02
+ISD,Sewage/Septic Back-Up,South Boston / South Boston Waterfront,3,1.0,8.73
+ISD,Sewage/Septic Back-Up,South End,2,1.0,34.03
+ISD,Sewage/Septic Back-Up,West Roxbury,5,1.0,0.02
+ISD,Short Measure - Gas,Greater Mattapan,1,1.0,0.99
+ISD,Short Measure - Gas,Roxbury,1,0.0,5.11
+ISD,Short Term Rental,Allston / Brighton,39,0.538,11.4
+ISD,Short Term Rental,Back Bay,15,0.733,2.85
+ISD,Short Term Rental,Beacon Hill,5,0.8,36.81
+ISD,Short Term Rental,Boston,11,0.636,29.54
+ISD,Short Term Rental,Charlestown,8,1.0,4.98
+ISD,Short Term Rental,Dorchester,44,0.727,13.02
+ISD,Short Term Rental,Downtown / Financial District,18,0.667,27.2
+ISD,Short Term Rental,East Boston,47,0.702,9.95
+ISD,Short Term Rental,Fenway / Kenmore / Audubon Circle / Longwood,4,0.5,17.93
+ISD,Short Term Rental,Greater Mattapan,7,0.571,1.3
+ISD,Short Term Rental,Hyde Park,4,0.25,329.92
+ISD,Short Term Rental,Jamaica Plain,8,0.125,57.88
+ISD,Short Term Rental,Mission Hill,3,0.333,0.0
+ISD,Short Term Rental,Roslindale,2,1.0,13.81
+ISD,Short Term Rental,Roxbury,26,0.5,14.53
+ISD,Short Term Rental,South Boston / South Boston Waterfront,22,0.864,4.75
+ISD,Short Term Rental,South End,4,0.25,39.32
+ISD,Short Term Rental,West Roxbury,11,0.364,51.85
+ISD,Sidewalk Cover / Manhole,West Roxbury,1,1.0,1.92
+ISD,Sidewalk Repair (Make Safe),Allston / Brighton,7,0.0,21.24
+ISD,Sidewalk Repair (Make Safe),Back Bay,5,0.0,25.99
+ISD,Sidewalk Repair (Make Safe),Beacon Hill,2,0.0,8.68
+ISD,Sidewalk Repair (Make Safe),Boston,6,0.167,21.99
+ISD,Sidewalk Repair (Make Safe),Charlestown,2,0.0,13.41
+ISD,Sidewalk Repair (Make Safe),Dorchester,4,0.0,20.03
+ISD,Sidewalk Repair (Make Safe),Downtown / Financial District,13,0.154,13.87
+ISD,Sidewalk Repair (Make Safe),East Boston,5,0.6,2.8
+ISD,Sidewalk Repair (Make Safe),Fenway / Kenmore / Audubon Circle / Longwood,1,0.0,5.26
+ISD,Sidewalk Repair (Make Safe),Jamaica Plain,9,0.0,69.73
+ISD,Sidewalk Repair (Make Safe),Roslindale,2,0.0,72.82
+ISD,Sidewalk Repair (Make Safe),Roxbury,2,0.0,5.65
+ISD,Sidewalk Repair (Make Safe),South Boston / South Boston Waterfront,19,0.0,20.77
+ISD,Sidewalk Repair (Make Safe),South End,25,0.0,373.08
+ISD,Sidewalk Repair (Make Safe),West Roxbury,1,0.0,1.19
+ISD,Sign Repair,Boston,1,0.0,418.3
+ISD,Sign Repair,Roslindale,1,0.0,
+ISD,Sign Repair,Roxbury,2,0.5,354.43
+ISD,Sign Repair,South End,1,0.0,21.82
+ISD,Sign Repair,West Roxbury,1,0.0,409.26
+ISD,Squalid Living Conditions,Allston / Brighton,7,0.714,36.03
+ISD,Squalid Living Conditions,Back Bay,2,0.5,199.5
+ISD,Squalid Living Conditions,Boston,1,1.0,1.83
+ISD,Squalid Living Conditions,Charlestown,4,0.75,25.25
+ISD,Squalid Living Conditions,Dorchester,10,0.6,131.82
+ISD,Squalid Living Conditions,East Boston,8,0.75,34.68
+ISD,Squalid Living Conditions,Fenway / Kenmore / Audubon Circle / Longwood,7,0.714,120.53
+ISD,Squalid Living Conditions,Greater Mattapan,4,0.5,308.19
+ISD,Squalid Living Conditions,Hyde Park,3,1.0,51.59
+ISD,Squalid Living Conditions,Jamaica Plain,10,0.6,45.52
+ISD,Squalid Living Conditions,Mission Hill,1,1.0,0.05
+ISD,Squalid Living Conditions,Roslindale,1,1.0,1.69
+ISD,Squalid Living Conditions,Roxbury,7,0.857,7.18
+ISD,Squalid Living Conditions,South Boston / South Boston Waterfront,4,0.5,375.59
+ISD,Squalid Living Conditions,West Roxbury,4,0.75,71.09
+ISD,Student Move-in Issues,Allston / Brighton,1,0.0,20.93
+ISD,Student Overcrowding,Fenway / Kenmore / Audubon Circle / Longwood,2,1.0,28.55
+ISD,Student Overcrowding,Mission Hill,1,1.0,9.07
+ISD,Traffic Signal Inspection,Downtown / Financial District,1,0.0,13.94
+ISD,Transportation General Request,Dorchester,1,1.0,
+ISD,Trash on Vacant Lot,Dorchester,3,1.0,0.73
+ISD,Trash on Vacant Lot,Downtown / Financial District,3,1.0,0.7
+ISD,Trash on Vacant Lot,Greater Mattapan,2,1.0,1.47
+ISD,Trash on Vacant Lot,Roxbury,3,1.0,0.12
+ISD,Tree Maintenance Requests,Allston / Brighton,1,1.0,4.63
+ISD,Tree Maintenance Requests,Dorchester,1,1.0,14.11
+ISD,Unit Pricing Wrong/Missing,Allston / Brighton,1,0.0,1.03
+ISD,Unit Pricing Wrong/Missing,Dorchester,1,1.0,0.98
+ISD,Unit Pricing Wrong/Missing,Greater Mattapan,3,0.333,1.89
+ISD,Unit Pricing Wrong/Missing,Roslindale,1,0.0,1.16
+ISD,Unit Pricing Wrong/Missing,Roxbury,1,0.0,3.75
+ISD,Unsafe Dangerous Conditions,Allston / Brighton,36,0.222,6.16
+ISD,Unsafe Dangerous Conditions,Back Bay,20,0.05,18.92
+ISD,Unsafe Dangerous Conditions,Beacon Hill,8,0.125,22.98
+ISD,Unsafe Dangerous Conditions,Boston,22,0.182,11.47
+ISD,Unsafe Dangerous Conditions,Charlestown,12,0.333,31.84
+ISD,Unsafe Dangerous Conditions,Dorchester,59,0.203,12.95
+ISD,Unsafe Dangerous Conditions,Downtown / Financial District,20,0.3,11.85
+ISD,Unsafe Dangerous Conditions,East Boston,43,0.116,47.98
+ISD,Unsafe Dangerous Conditions,Fenway / Kenmore / Audubon Circle / Longwood,10,0.1,13.69
+ISD,Unsafe Dangerous Conditions,Greater Mattapan,24,0.042,7.02
+ISD,Unsafe Dangerous Conditions,Hyde Park,14,0.214,11.46
+ISD,Unsafe Dangerous Conditions,Jamaica Plain,24,0.167,11.1
+ISD,Unsafe Dangerous Conditions,Mission Hill,4,0.0,15.82
+ISD,Unsafe Dangerous Conditions,Roslindale,19,0.211,36.99
+ISD,Unsafe Dangerous Conditions,Roxbury,45,0.111,9.77
+ISD,Unsafe Dangerous Conditions,South Boston / South Boston Waterfront,51,0.235,5.97
+ISD,Unsafe Dangerous Conditions,South End,26,0.115,21.13
+ISD,Unsafe Dangerous Conditions,West Roxbury,15,0.067,24.45
+ISD,Unsanitary Conditions - Employees,Allston / Brighton,3,0.333,2.34
+ISD,Unsanitary Conditions - Employees,Back Bay,2,0.5,2.68
+ISD,Unsanitary Conditions - Employees,Boston,11,0.909,0.9
+ISD,Unsanitary Conditions - Employees,Dorchester,4,0.75,0.72
+ISD,Unsanitary Conditions - Employees,Downtown / Financial District,3,1.0,1.17
+ISD,Unsanitary Conditions - Employees,East Boston,1,1.0,0.27
+ISD,Unsanitary Conditions - Employees,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.68
+ISD,Unsanitary Conditions - Employees,Greater Mattapan,3,1.0,1.71
+ISD,Unsanitary Conditions - Employees,Hyde Park,1,1.0,1.85
+ISD,Unsanitary Conditions - Employees,Jamaica Plain,1,1.0,3.92
+ISD,Unsanitary Conditions - Employees,Mission Hill,1,1.0,0.81
+ISD,Unsanitary Conditions - Employees,Roslindale,1,1.0,0.69
+ISD,Unsanitary Conditions - Employees,Roxbury,4,0.75,1.96
+ISD,Unsanitary Conditions - Employees,South Boston / South Boston Waterfront,2,1.0,0.9
+ISD,Unsanitary Conditions - Employees,South End,2,1.0,1.54
+ISD,Unsanitary Conditions - Employees,West Roxbury,2,1.0,0.45
+ISD,Unsanitary Conditions - Establishment,Allston / Brighton,32,0.75,1.92
+ISD,Unsanitary Conditions - Establishment,Back Bay,32,0.875,1.41
+ISD,Unsanitary Conditions - Establishment,Beacon Hill,7,1.0,1.07
+ISD,Unsanitary Conditions - Establishment,Boston,115,0.722,1.84
+ISD,Unsanitary Conditions - Establishment,Charlestown,9,0.222,3.09
+ISD,Unsanitary Conditions - Establishment,Chestnut Hill,1,1.0,0.0
+ISD,Unsanitary Conditions - Establishment,Dorchester,84,0.738,1.95
+ISD,Unsanitary Conditions - Establishment,Downtown / Financial District,59,0.712,1.93
+ISD,Unsanitary Conditions - Establishment,East Boston,36,0.833,1.02
+ISD,Unsanitary Conditions - Establishment,Fenway / Kenmore / Audubon Circle / Longwood,12,0.667,3.38
+ISD,Unsanitary Conditions - Establishment,Greater Mattapan,27,0.852,0.98
+ISD,Unsanitary Conditions - Establishment,Hyde Park,15,0.667,1.12
+ISD,Unsanitary Conditions - Establishment,Jamaica Plain,18,0.889,1.54
+ISD,Unsanitary Conditions - Establishment,Mission Hill,17,0.765,1.83
+ISD,Unsanitary Conditions - Establishment,Roslindale,14,0.571,1.45
+ISD,Unsanitary Conditions - Establishment,Roxbury,37,0.541,2.15
+ISD,Unsanitary Conditions - Establishment,South Boston / South Boston Waterfront,20,0.85,1.09
+ISD,Unsanitary Conditions - Establishment,South End,14,0.643,2.55
+ISD,Unsanitary Conditions - Establishment,West Roxbury,15,0.867,1.08
+ISD,Unsanitary Conditions - Food,Allston / Brighton,11,0.727,1.92
+ISD,Unsanitary Conditions - Food,Back Bay,19,0.737,1.97
+ISD,Unsanitary Conditions - Food,Beacon Hill,1,1.0,0.95
+ISD,Unsanitary Conditions - Food,Boston,40,0.775,1.22
+ISD,Unsanitary Conditions - Food,Charlestown,6,0.667,3.86
+ISD,Unsanitary Conditions - Food,Chestnut Hill,1,1.0,1.01
+ISD,Unsanitary Conditions - Food,Dorchester,30,0.767,1.76
+ISD,Unsanitary Conditions - Food,Downtown / Financial District,24,0.75,1.99
+ISD,Unsanitary Conditions - Food,East Boston,16,0.938,0.89
+ISD,Unsanitary Conditions - Food,Fenway / Kenmore / Audubon Circle / Longwood,6,1.0,1.38
+ISD,Unsanitary Conditions - Food,Greater Mattapan,6,0.667,1.43
+ISD,Unsanitary Conditions - Food,Hyde Park,7,0.571,1.71
+ISD,Unsanitary Conditions - Food,Jamaica Plain,6,0.5,1.98
+ISD,Unsanitary Conditions - Food,Mission Hill,4,1.0,1.08
+ISD,Unsanitary Conditions - Food,Roslindale,4,0.75,1.15
+ISD,Unsanitary Conditions - Food,Roxbury,24,0.542,2.5
+ISD,Unsanitary Conditions - Food,South Boston / South Boston Waterfront,6,1.0,1.42
+ISD,Unsanitary Conditions - Food,South End,3,0.667,2.92
+ISD,Unsanitary Conditions - Food,West Roxbury,6,1.0,0.91
+ISD,Unsatisfactory Living Conditions,Allston / Brighton,185,0.557,13.01
+ISD,Unsatisfactory Living Conditions,Back Bay,41,0.512,59.95
+ISD,Unsatisfactory Living Conditions,Beacon Hill,18,0.556,25.49
+ISD,Unsatisfactory Living Conditions,Boston,59,0.712,5.58
+ISD,Unsatisfactory Living Conditions,Charlestown,44,0.477,35.13
+ISD,Unsatisfactory Living Conditions,Dorchester,481,0.582,10.99
+ISD,Unsatisfactory Living Conditions,Downtown / Financial District,44,0.545,6.39
+ISD,Unsatisfactory Living Conditions,East Boston,119,0.546,6.01
+ISD,Unsatisfactory Living Conditions,Fenway / Kenmore / Audubon Circle / Longwood,58,0.69,20.0
+ISD,Unsatisfactory Living Conditions,Greater Mattapan,242,0.533,14.46
+ISD,Unsatisfactory Living Conditions,Hyde Park,90,0.5,17.57
+ISD,Unsatisfactory Living Conditions,Jamaica Plain,157,0.726,10.94
+ISD,Unsatisfactory Living Conditions,Mission Hill,79,0.772,8.42
+ISD,Unsatisfactory Living Conditions,Roslindale,70,0.557,12.72
+ISD,Unsatisfactory Living Conditions,Roxbury,436,0.711,7.77
+ISD,Unsatisfactory Living Conditions,South Boston / South Boston Waterfront,121,0.62,21.93
+ISD,Unsatisfactory Living Conditions,South End,81,0.642,11.25
+ISD,Unsatisfactory Living Conditions,West Roxbury,40,0.725,9.81
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Allston / Brighton,17,0.353,114.09
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Back Bay,1,1.0,4.0
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Beacon Hill,1,1.0,2.9
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Boston,8,0.875,0.0
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Charlestown,3,0.667,1.87
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Dorchester,53,0.717,2.44
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Downtown / Financial District,4,0.5,22.5
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,East Boston,7,0.571,1.18
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.07
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Greater Mattapan,11,0.545,6.02
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Hyde Park,10,0.7,6.29
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Jamaica Plain,13,0.769,2.39
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Mission Hill,5,0.6,29.89
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Roslindale,5,0.6,36.04
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,Roxbury,39,0.667,5.0
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,South Boston / South Boston Waterfront,11,0.545,5.52
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,South End,5,0.6,1.23
+ISD,Unsatisfactory Utilities - Electrical  Plumbing,West Roxbury,3,0.0,140.4
+ISD,Work Hours-Loud Noise Complaints,Allston / Brighton,1,0.0,8.39
+ISD,Work Hours-Loud Noise Complaints,Boston,6,0.667,2.7
+ISD,Work Hours-Loud Noise Complaints,Charlestown,1,0.0,42.11
+ISD,Work Hours-Loud Noise Complaints,Dorchester,1,0.0,49.03
+ISD,Work Hours-Loud Noise Complaints,Downtown / Financial District,4,0.0,17.02
+ISD,Work Hours-Loud Noise Complaints,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.92
+ISD,Work Hours-Loud Noise Complaints,Roslindale,1,0.0,78.16
+ISD,Work Hours-Loud Noise Complaints,Roxbury,1,1.0,2.54
+ISD,Work Hours-Loud Noise Complaints,South Boston / South Boston Waterfront,1,1.0,5.67
+ISD,Work w/out Permit,Allston / Brighton,57,0.281,7.04
+ISD,Work w/out Permit,Back Bay,29,0.31,4.22
+ISD,Work w/out Permit,Beacon Hill,20,0.35,5.28
+ISD,Work w/out Permit,Boston,14,0.286,7.98
+ISD,Work w/out Permit,Charlestown,39,0.333,6.89
+ISD,Work w/out Permit,Dorchester,153,0.281,14.78
+ISD,Work w/out Permit,Downtown / Financial District,40,0.2,14.52
+ISD,Work w/out Permit,East Boston,84,0.214,13.74
+ISD,Work w/out Permit,Fenway / Kenmore / Audubon Circle / Longwood,10,0.8,1.01
+ISD,Work w/out Permit,Greater Mattapan,51,0.353,6.06
+ISD,Work w/out Permit,Hyde Park,46,0.457,2.61
+ISD,Work w/out Permit,Jamaica Plain,52,0.385,4.6
+ISD,Work w/out Permit,Mission Hill,14,0.357,3.83
+ISD,Work w/out Permit,Roslindale,31,0.323,2.96
+ISD,Work w/out Permit,Roxbury,78,0.231,34.55
+ISD,Work w/out Permit,South Boston / South Boston Waterfront,94,0.404,4.58
+ISD,Work w/out Permit,South End,50,0.32,10.51
+ISD,Work w/out Permit,West Roxbury,31,0.258,5.88
+ISD,Working Beyond Hours,Allston / Brighton,39,1.0,3.1
+ISD,Working Beyond Hours,Back Bay,19,1.0,5.96
+ISD,Working Beyond Hours,Beacon Hill,10,1.0,5.14
+ISD,Working Beyond Hours,Boston,40,1.0,2.18
+ISD,Working Beyond Hours,Charlestown,27,1.0,6.95
+ISD,Working Beyond Hours,Dorchester,81,1.0,7.99
+ISD,Working Beyond Hours,Downtown / Financial District,42,1.0,5.05
+ISD,Working Beyond Hours,East Boston,40,1.0,19.9
+ISD,Working Beyond Hours,Fenway / Kenmore / Audubon Circle / Longwood,14,1.0,0.71
+ISD,Working Beyond Hours,Greater Mattapan,25,1.0,31.98
+ISD,Working Beyond Hours,Hyde Park,20,1.0,3.98
+ISD,Working Beyond Hours,Jamaica Plain,50,1.0,2.03
+ISD,Working Beyond Hours,Mission Hill,5,1.0,2.86
+ISD,Working Beyond Hours,Roslindale,28,1.0,3.26
+ISD,Working Beyond Hours,Roxbury,39,1.0,1.82
+ISD,Working Beyond Hours,South Boston / South Boston Waterfront,44,1.0,1.03
+ISD,Working Beyond Hours,South End,32,1.0,2.58
+ISD,Working Beyond Hours,West Roxbury,23,1.0,1.95
+ISD,Zoning,Allston / Brighton,6,0.667,2.86
+ISD,Zoning,Boston,1,1.0,0.07
+ISD,Zoning,Dorchester,5,0.8,0.88
+ISD,Zoning,Downtown / Financial District,2,0.0,12.43
+ISD,Zoning,East Boston,1,0.0,322.09
+ISD,Zoning,Greater Mattapan,1,0.0,16.84
+ISD,Zoning,Hyde Park,5,0.4,69.98
+ISD,Zoning,Jamaica Plain,1,0.0,20.87
+ISD,Zoning,Roxbury,4,0.0,324.74
+ISD,Zoning,West Roxbury,3,0.333,347.83
+PARK,Abandoned Vehicles,South End,1,1.0,5.03
+PARK,Animal Generic Request,Dorchester,1,1.0,1.68
+PARK,Animal Generic Request,Roxbury,1,1.0,0.24
+PARK,BWSC General Request,Greater Mattapan,1,1.0,122.24
+PARK,CE Collection,Boston,3,0.667,2.0
+PARK,CE Collection,Charlestown,3,1.0,0.94
+PARK,CE Collection,Dorchester,4,1.0,0.53
+PARK,CE Collection,Downtown / Financial District,2,1.0,0.4
+PARK,CE Collection,Fenway / Kenmore / Audubon Circle / Longwood,1,0.0,2.06
+PARK,CE Collection,Hyde Park,1,0.0,4.01
+PARK,CE Collection,Mission Hill,1,1.0,0.81
+PARK,CE Collection,Roxbury,1,1.0,0.34
+PARK,CE Collection,South End,5,0.6,0.32
+PARK,Catchbasin,Jamaica Plain,1,1.0,0.19
+PARK,Cemetery Maintenance Request,Boston,1,1.0,0.96
+PARK,Contractor Complaints,Allston / Brighton,1,1.0,0.27
+PARK,Contractor Complaints,Dorchester,1,1.0,1.02
+PARK,Contractor Complaints,East Boston,1,0.0,14.88
+PARK,Contractor Complaints,Hyde Park,1,1.0,0.08
+PARK,Contractor Complaints,Roslindale,1,1.0,0.61
+PARK,Contractors Complaint,East Boston,1,1.0,8.81
+PARK,Empty Litter Basket,Allston / Brighton,8,0.625,0.94
+PARK,Empty Litter Basket,Back Bay,9,0.667,0.91
+PARK,Empty Litter Basket,Beacon Hill,2,1.0,1.68
+PARK,Empty Litter Basket,Boston,40,0.95,0.67
+PARK,Empty Litter Basket,Charlestown,19,0.842,1.86
+PARK,Empty Litter Basket,Dorchester,33,0.636,1.54
+PARK,Empty Litter Basket,Downtown / Financial District,7,0.714,0.77
+PARK,Empty Litter Basket,East Boston,26,0.846,0.27
+PARK,Empty Litter Basket,Fenway / Kenmore / Audubon Circle / Longwood,3,0.667,0.24
+PARK,Empty Litter Basket,Greater Mattapan,4,0.75,0.96
+PARK,Empty Litter Basket,Hyde Park,1,0.0,6.53
+PARK,Empty Litter Basket,Jamaica Plain,16,0.812,0.98
+PARK,Empty Litter Basket,Roslindale,1,1.0,0.52
+PARK,Empty Litter Basket,Roxbury,28,0.679,1.2
+PARK,Empty Litter Basket,South Boston / South Boston Waterfront,9,0.889,0.23
+PARK,Empty Litter Basket,South End,24,0.833,0.23
+PARK,Empty Litter Basket,West Roxbury,4,0.75,1.21
+PARK,Equipment Repair,Allston / Brighton,144,0.847,1.77
+PARK,Equipment Repair,Back Bay,47,0.787,0.9
+PARK,Equipment Repair,Beacon Hill,47,0.851,1.93
+PARK,Equipment Repair,Boston,260,0.788,1.94
+PARK,Equipment Repair,Charlestown,96,0.74,2.04
+PARK,Equipment Repair,Chestnut Hill,1,1.0,2.95
+PARK,Equipment Repair,Dorchester,308,0.825,1.42
+PARK,Equipment Repair,Downtown / Financial District,81,0.827,1.39
+PARK,Equipment Repair,East Boston,208,0.74,2.76
+PARK,Equipment Repair,Fenway / Kenmore / Audubon Circle / Longwood,66,0.909,0.91
+PARK,Equipment Repair,Greater Mattapan,66,0.803,0.93
+PARK,Equipment Repair,Hyde Park,65,0.846,1.12
+PARK,Equipment Repair,Jamaica Plain,221,0.81,1.94
+PARK,Equipment Repair,Mission Hill,46,0.935,1.64
+PARK,Equipment Repair,Roslindale,60,0.8,2.13
+PARK,Equipment Repair,Roxbury,226,0.836,1.63
+PARK,Equipment Repair,South Boston / South Boston Waterfront,92,0.88,2.04
+PARK,Equipment Repair,South End,49,0.735,2.81
+PARK,Equipment Repair,West Roxbury,107,0.888,1.57
+PARK,General Comments For An Employee,Charlestown,2,1.0,0.03
+PARK,General Comments For An Employee,Dorchester,2,1.0,38.53
+PARK,General Comments For An Employee,East Boston,2,1.0,0.08
+PARK,General Comments For An Employee,Greater Mattapan,4,1.0,0.14
+PARK,General Comments For An Employee,Hyde Park,1,1.0,0.09
+PARK,General Comments For An Employee,Roslindale,2,1.0,1.15
+PARK,General Comments For An Employee,Roxbury,4,1.0,0.45
+PARK,General Comments For An Employee,South Boston / South Boston Waterfront,1,1.0,5.92
+PARK,General Comments For a Program or Policy,West Roxbury,1,1.0,4.03
+PARK,General Lighting Request,Allston / Brighton,2,1.0,5.02
+PARK,General Lighting Request,Charlestown,1,0.0,151.23
+PARK,Graffiti Removal,Allston / Brighton,1,1.0,1.0
+PARK,Graffiti Removal,Back Bay,1,0.0,71.89
+PARK,Graffiti Removal,Boston,2,0.5,71.91
+PARK,Graffiti Removal,Jamaica Plain,3,0.333,130.02
+PARK,Ground Maintenance,Allston / Brighton,181,0.972,0.86
+PARK,Ground Maintenance,Back Bay,27,0.852,0.52
+PARK,Ground Maintenance,Beacon Hill,32,1.0,0.36
+PARK,Ground Maintenance,Boston,318,0.95,0.69
+PARK,Ground Maintenance,Charlestown,82,0.866,0.98
+PARK,Ground Maintenance,Dorchester,525,0.935,0.89
+PARK,Ground Maintenance,Downtown / Financial District,131,0.977,0.74
+PARK,Ground Maintenance,East Boston,293,0.935,0.83
+PARK,Ground Maintenance,Fenway / Kenmore / Audubon Circle / Longwood,43,0.791,1.97
+PARK,Ground Maintenance,Greater Mattapan,102,0.912,1.02
+PARK,Ground Maintenance,Hyde Park,39,0.923,2.08
+PARK,Ground Maintenance,Jamaica Plain,206,0.927,0.66
+PARK,Ground Maintenance,Mission Hill,20,0.95,0.61
+PARK,Ground Maintenance,Roslindale,136,0.993,0.63
+PARK,Ground Maintenance,Roxbury,384,0.919,0.73
+PARK,Ground Maintenance,South Boston / South Boston Waterfront,101,0.95,0.57
+PARK,Ground Maintenance,South End,186,0.989,0.51
+PARK,Ground Maintenance,West Roxbury,42,0.952,0.85
+PARK,Illegal Dumping,Downtown / Financial District,1,1.0,0.99
+PARK,Illegal Dumping,South End,1,1.0,3.78
+PARK,Illegal Posting of Signs,Greater Mattapan,1,1.0,0.82
+PARK,Improper Storage of Trash (Barrels),Allston / Brighton,1,1.0,0.76
+PARK,Improper Storage of Trash (Barrels),Back Bay,1,1.0,0.25
+PARK,Improper Storage of Trash (Barrels),Boston,7,1.0,0.92
+PARK,Improper Storage of Trash (Barrels),Charlestown,4,0.75,1.91
+PARK,Improper Storage of Trash (Barrels),Dorchester,5,0.8,1.33
+PARK,Improper Storage of Trash (Barrels),Downtown / Financial District,3,0.667,0.14
+PARK,Improper Storage of Trash (Barrels),East Boston,3,0.667,1.64
+PARK,Improper Storage of Trash (Barrels),Jamaica Plain,1,1.0,0.83
+PARK,Improper Storage of Trash (Barrels),Roxbury,3,1.0,1.99
+PARK,Improper Storage of Trash (Barrels),South End,7,1.0,0.91
+PARK,Litter Basket Maintenance,Hyde Park,1,1.0,0.74
+PARK,Maintenance Complaint - Residential,Hyde Park,1,1.0,54.63
+PARK,Misc. Snow Complaint,Greater Mattapan,1,1.0,1.22
+PARK,Missed Trash/Recycling/Yard Waste/Bulk Item,Charlestown,1,1.0,1.5
+PARK,Missed Trash/Recycling/Yard Waste/Bulk Item,South End,3,0.667,0.48
+PARK,Needle Pickup,Charlestown,1,1.0,1.89
+PARK,Needle Pickup,Greater Mattapan,1,1.0,3.01
+PARK,New Tree Requests,Allston / Brighton,196,0.964,174.0
+PARK,New Tree Requests,Back Bay,61,0.902,87.47
+PARK,New Tree Requests,Beacon Hill,99,0.919,147.95
+PARK,New Tree Requests,Boston,90,0.9,132.88
+PARK,New Tree Requests,Charlestown,115,0.957,139.71
+PARK,New Tree Requests,Dorchester,364,0.978,173.35
+PARK,New Tree Requests,Downtown / Financial District,56,0.964,69.93
+PARK,New Tree Requests,East Boston,184,0.978,154.79
+PARK,New Tree Requests,Fenway / Kenmore / Audubon Circle / Longwood,40,0.925,113.89
+PARK,New Tree Requests,Greater Mattapan,110,0.964,138.99
+PARK,New Tree Requests,Hyde Park,105,0.924,114.54
+PARK,New Tree Requests,Jamaica Plain,164,0.896,170.8
+PARK,New Tree Requests,Mission Hill,62,1.0,120.93
+PARK,New Tree Requests,Roslindale,177,0.944,156.76
+PARK,New Tree Requests,Roxbury,178,0.938,132.91
+PARK,New Tree Requests,South Boston / South Boston Waterfront,196,0.918,154.04
+PARK,New Tree Requests,South End,118,0.873,161.89
+PARK,New Tree Requests,West Roxbury,242,0.93,177.45
+PARK,No-Tow Complaint Confirmation,Allston / Brighton,1,0.0,7.85
+PARK,PWD Graffiti,Allston / Brighton,6,0.833,3.78
+PARK,PWD Graffiti,Beacon Hill,3,1.0,4.06
+PARK,PWD Graffiti,Boston,2,1.0,3.53
+PARK,PWD Graffiti,Charlestown,1,0.0,15.38
+PARK,PWD Graffiti,Dorchester,1,1.0,5.55
+PARK,PWD Graffiti,East Boston,2,0.5,8.04
+PARK,PWD Graffiti,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,2.93
+PARK,PWD Graffiti,Greater Mattapan,2,1.0,5.15
+PARK,PWD Graffiti,Hyde Park,1,0.0,10.57
+PARK,PWD Graffiti,Jamaica Plain,3,0.333,11.68
+PARK,PWD Graffiti,Roxbury,1,1.0,0.99
+PARK,PWD Graffiti,South Boston / South Boston Waterfront,2,1.0,3.35
+PARK,PWD Graffiti,South End,5,1.0,2.92
+PARK,Park Improvement Requests,Allston / Brighton,1,1.0,0.07
+PARK,Park Improvement Requests,Boston,4,1.0,31.43
+PARK,Park Improvement Requests,Dorchester,4,1.0,0.17
+PARK,Park Improvement Requests,Downtown / Financial District,2,1.0,0.11
+PARK,Park Improvement Requests,East Boston,6,1.0,0.22
+PARK,Park Improvement Requests,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.07
+PARK,Park Improvement Requests,Greater Mattapan,3,1.0,2.81
+PARK,Park Improvement Requests,Hyde Park,1,1.0,11.83
+PARK,Park Improvement Requests,Jamaica Plain,3,1.0,3.87
+PARK,Park Improvement Requests,Roslindale,2,1.0,2.61
+PARK,Park Improvement Requests,Roxbury,6,1.0,17.9
+PARK,Park Improvement Requests,South Boston / South Boston Waterfront,9,1.0,1.0
+PARK,Park Improvement Requests,South End,1,1.0,7.07
+PARK,Park Improvement Requests,West Roxbury,4,1.0,0.11
+PARK,Parking Enforcement,Mission Hill,1,0.0,1.77
+PARK,Parking Enforcement,West Roxbury,1,1.0,0.28
+PARK,Parks General Request,Allston / Brighton,8,1.0,2.4
+PARK,Parks General Request,Back Bay,4,1.0,0.62
+PARK,Parks General Request,Boston,8,1.0,0.97
+PARK,Parks General Request,Charlestown,2,1.0,3.53
+PARK,Parks General Request,Dorchester,25,1.0,3.06
+PARK,Parks General Request,Downtown / Financial District,2,1.0,11.6
+PARK,Parks General Request,East Boston,10,1.0,1.38
+PARK,Parks General Request,Fenway / Kenmore / Audubon Circle / Longwood,2,1.0,61.98
+PARK,Parks General Request,Greater Mattapan,7,1.0,0.93
+PARK,Parks General Request,Hyde Park,7,1.0,1.54
+PARK,Parks General Request,Jamaica Plain,10,1.0,1.08
+PARK,Parks General Request,Mission Hill,3,1.0,5.7
+PARK,Parks General Request,Roslindale,8,1.0,1.54
+PARK,Parks General Request,Roxbury,19,1.0,1.75
+PARK,Parks General Request,South Boston / South Boston Waterfront,2,1.0,0.71
+PARK,Parks General Request,South End,2,1.0,0.98
+PARK,Parks General Request,West Roxbury,10,1.0,1.32
+PARK,Parks Lighting/Electrical Issues,Allston / Brighton,28,0.893,0.13
+PARK,Parks Lighting/Electrical Issues,Back Bay,5,1.0,3.9
+PARK,Parks Lighting/Electrical Issues,Beacon Hill,7,0.857,3.0
+PARK,Parks Lighting/Electrical Issues,Boston,9,1.0,1.8
+PARK,Parks Lighting/Electrical Issues,Charlestown,4,1.0,0.77
+PARK,Parks Lighting/Electrical Issues,Dorchester,11,0.818,0.67
+PARK,Parks Lighting/Electrical Issues,Downtown / Financial District,5,0.8,0.81
+PARK,Parks Lighting/Electrical Issues,East Boston,8,1.0,1.3
+PARK,Parks Lighting/Electrical Issues,Hyde Park,2,1.0,3.08
+PARK,Parks Lighting/Electrical Issues,Jamaica Plain,12,0.833,0.85
+PARK,Parks Lighting/Electrical Issues,Mission Hill,2,0.5,7.59
+PARK,Parks Lighting/Electrical Issues,Roslindale,3,1.0,6.12
+PARK,Parks Lighting/Electrical Issues,Roxbury,6,1.0,1.07
+PARK,Parks Lighting/Electrical Issues,South Boston / South Boston Waterfront,19,0.895,1.84
+PARK,Parks Lighting/Electrical Issues,West Roxbury,2,1.0,2.81
+PARK,Pavement Marking Inspection,Greater Mattapan,1,1.0,0.18
+PARK,Pick up Dead Animal,Allston / Brighton,33,0.788,0.95
+PARK,Pick up Dead Animal,Back Bay,10,0.9,0.96
+PARK,Pick up Dead Animal,Beacon Hill,10,0.9,0.46
+PARK,Pick up Dead Animal,Boston,61,0.639,0.86
+PARK,Pick up Dead Animal,Charlestown,9,0.556,2.79
+PARK,Pick up Dead Animal,Dorchester,34,0.441,1.91
+PARK,Pick up Dead Animal,Downtown / Financial District,22,0.818,0.82
+PARK,Pick up Dead Animal,East Boston,12,1.0,0.3
+PARK,Pick up Dead Animal,Fenway / Kenmore / Audubon Circle / Longwood,4,0.5,1.88
+PARK,Pick up Dead Animal,Greater Mattapan,4,0.25,3.08
+PARK,Pick up Dead Animal,Hyde Park,3,1.0,0.3
+PARK,Pick up Dead Animal,Jamaica Plain,25,0.84,0.88
+PARK,Pick up Dead Animal,Mission Hill,1,1.0,2.1
+PARK,Pick up Dead Animal,Roslindale,11,0.545,2.72
+PARK,Pick up Dead Animal,Roxbury,33,0.758,1.02
+PARK,Pick up Dead Animal,South Boston / South Boston Waterfront,8,0.75,0.99
+PARK,Pick up Dead Animal,South End,24,0.708,0.97
+PARK,Pick up Dead Animal,West Roxbury,8,0.75,0.6
+PARK,Planting,Boston,1,0.0,16.13
+PARK,Planting,East Boston,1,1.0,5.95
+PARK,Planting,Roslindale,1,1.0,2.76
+PARK,Planting,Roxbury,1,1.0,0.56
+PARK,Planting,West Roxbury,1,1.0,0.03
+PARK,Poor Conditions of Property,Beacon Hill,1,0.0,9.99
+PARK,Poor Conditions of Property,Boston,1,1.0,0.25
+PARK,Poor Conditions of Property,Charlestown,1,0.0,8.8
+PARK,Poor Conditions of Property,Dorchester,1,1.0,4.06
+PARK,Poor Conditions of Property,Greater Mattapan,1,1.0,0.11
+PARK,Poor Conditions of Property,Jamaica Plain,1,1.0,0.19
+PARK,Poor Conditions of Property,Mission Hill,1,1.0,2.03
+PARK,Public Works General Request,Back Bay,2,1.0,161.41
+PARK,Public Works General Request,Dorchester,3,1.0,13.98
+PARK,Public Works General Request,East Boston,2,1.0,8.56
+PARK,Public Works General Request,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.86
+PARK,Public Works General Request,Jamaica Plain,1,1.0,0.87
+PARK,Public Works General Request,South End,1,1.0,0.1
+PARK,Public Works General Request,West Roxbury,1,1.0,2.81
+PARK,Request for Litter Basket Installation,Allston / Brighton,1,0.0,22.97
+PARK,Request for Litter Basket Installation,Beacon Hill,2,1.0,1.92
+PARK,Request for Litter Basket Installation,Boston,1,0.0,33.82
+PARK,Request for Litter Basket Installation,Dorchester,1,0.0,16.96
+PARK,Request for Litter Basket Installation,Roxbury,2,1.0,2.12
+PARK,Request for Litter Basket Installation,South End,1,1.0,6.99
+PARK,Request for Pothole Repair,Dorchester,1,1.0,0.0
+PARK,Request for Pothole Repair,Downtown / Financial District,3,0.333,20.98
+PARK,Request for Pothole Repair,Greater Mattapan,1,0.0,82.97
+PARK,Request for Pothole Repair,Jamaica Plain,2,0.0,51.81
+PARK,Request for Pothole Repair,Roslindale,1,0.0,2.71
+PARK,Request for Pothole Repair,Roxbury,1,1.0,0.62
+PARK,Request for Snow Plowing,Boston,1,0.0,2.17
+PARK,Request for Snow Plowing,Downtown / Financial District,2,1.0,1.42
+PARK,Request for Snow Plowing,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,2.0
+PARK,Requests for Street Cleaning,Allston / Brighton,9,0.222,2.09
+PARK,Requests for Street Cleaning,Back Bay,21,0.571,1.17
+PARK,Requests for Street Cleaning,Beacon Hill,9,0.556,1.07
+PARK,Requests for Street Cleaning,Boston,36,0.667,0.87
+PARK,Requests for Street Cleaning,Charlestown,3,0.667,2.47
+PARK,Requests for Street Cleaning,Dorchester,39,0.538,1.95
+PARK,Requests for Street Cleaning,Downtown / Financial District,16,0.438,1.21
+PARK,Requests for Street Cleaning,East Boston,10,0.2,3.33
+PARK,Requests for Street Cleaning,Fenway / Kenmore / Audubon Circle / Longwood,5,0.2,2.06
+PARK,Requests for Street Cleaning,Greater Mattapan,19,0.632,0.8
+PARK,Requests for Street Cleaning,Hyde Park,4,0.75,0.54
+PARK,Requests for Street Cleaning,Jamaica Plain,16,0.625,1.12
+PARK,Requests for Street Cleaning,Mission Hill,2,1.0,0.08
+PARK,Requests for Street Cleaning,Roslindale,14,0.714,1.2
+PARK,Requests for Street Cleaning,Roxbury,30,0.7,1.07
+PARK,Requests for Street Cleaning,South Boston / South Boston Waterfront,13,0.769,0.2
+PARK,Requests for Street Cleaning,South End,15,0.667,1.5
+PARK,Requests for Street Cleaning,West Roxbury,1,1.0,0.8
+PARK,Roadway Repair,Hyde Park,1,1.0,104.16
+PARK,Roadway Repair,Roslindale,1,1.0,1.84
+PARK,Rodent Activity,Back Bay,1,1.0,5.33
+PARK,Rodent Activity,Downtown / Financial District,1,0.0,86.07
+PARK,Rodent Activity,East Boston,1,1.0,2.1
+PARK,Rodent Activity,Greater Mattapan,1,1.0,4.93
+PARK,Rodent Activity,Jamaica Plain,1,1.0,3.61
+PARK,Rodent Activity,Roslindale,1,1.0,0.64
+PARK,Rodent Activity,Roxbury,3,1.0,2.77
+PARK,Rodent Activity,South Boston / South Boston Waterfront,2,1.0,2.54
+PARK,Rodent Activity,South End,5,0.6,25.69
+PARK,Rodent Activity,West Roxbury,2,1.0,15.76
+PARK,Sidewalk Cover / Manhole,Allston / Brighton,1,1.0,2.9
+PARK,Sidewalk Repair (Make Safe),Allston / Brighton,6,0.333,214.63
+PARK,Sidewalk Repair (Make Safe),Back Bay,4,0.25,3.01
+PARK,Sidewalk Repair (Make Safe),Beacon Hill,4,0.5,1.38
+PARK,Sidewalk Repair (Make Safe),Boston,10,0.3,3.27
+PARK,Sidewalk Repair (Make Safe),Charlestown,3,0.0,4.71
+PARK,Sidewalk Repair (Make Safe),Dorchester,14,0.5,1.97
+PARK,Sidewalk Repair (Make Safe),Downtown / Financial District,7,0.429,1.86
+PARK,Sidewalk Repair (Make Safe),East Boston,5,0.6,0.92
+PARK,Sidewalk Repair (Make Safe),Fenway / Kenmore / Audubon Circle / Longwood,4,0.5,17.2
+PARK,Sidewalk Repair (Make Safe),Greater Mattapan,1,1.0,0.76
+PARK,Sidewalk Repair (Make Safe),Hyde Park,2,0.5,6.89
+PARK,Sidewalk Repair (Make Safe),Jamaica Plain,7,0.286,2.86
+PARK,Sidewalk Repair (Make Safe),Roslindale,1,0.0,53.91
+PARK,Sidewalk Repair (Make Safe),Roxbury,3,0.0,15.68
+PARK,Sidewalk Repair (Make Safe),South Boston / South Boston Waterfront,9,0.556,2.95
+PARK,Sidewalk Repair (Make Safe),South End,2,0.5,27.45
+PARK,Sidewalk Repair (Make Safe),West Roxbury,5,0.4,4.83
+PARK,Sign Repair,Allston / Brighton,4,0.75,3.01
+PARK,Sign Repair,Beacon Hill,1,0.0,22.8
+PARK,Sign Repair,Boston,3,1.0,4.61
+PARK,Sign Repair,Dorchester,4,0.5,18.66
+PARK,Sign Repair,Downtown / Financial District,2,1.0,8.2
+PARK,Sign Repair,East Boston,1,1.0,2.31
+PARK,Sign Repair,Fenway / Kenmore / Audubon Circle / Longwood,1,0.0,64.07
+PARK,Sign Repair,Greater Mattapan,2,0.0,132.17
+PARK,Sign Repair,Hyde Park,1,1.0,2.94
+PARK,Sign Repair,Roxbury,5,0.6,3.07
+PARK,Sign Repair,South Boston / South Boston Waterfront,1,1.0,0.72
+PARK,Sign Repair,South End,4,0.5,27.47
+PARK,Sign Repair,West Roxbury,2,0.0,81.38
+PARK,Street Light Outages,Allston / Brighton,3,0.667,2.77
+PARK,Street Light Outages,Dorchester,1,1.0,4.02
+PARK,Street Light Outages,Greater Mattapan,4,0.5,15.22
+PARK,Street Light Outages,Jamaica Plain,2,0.0,33.63
+PARK,Street Light Outages,Roxbury,2,1.0,6.06
+PARK,Street Light Outages,South Boston / South Boston Waterfront,1,1.0,0.41
+PARK,Traffic Signal Inspection,Hyde Park,1,0.0,12.06
+PARK,Traffic Signal Repair,Allston / Brighton,1,1.0,9.65
+PARK,Traffic Signal Repair,East Boston,2,1.0,2.86
+PARK,Traffic Signal Repair,Jamaica Plain,1,1.0,2.85
+PARK,Tree Emergencies,Allston / Brighton,48,0.938,0.1
+PARK,Tree Emergencies,Back Bay,15,1.0,0.08
+PARK,Tree Emergencies,Beacon Hill,6,1.0,0.44
+PARK,Tree Emergencies,Boston,8,0.875,0.1
+PARK,Tree Emergencies,Charlestown,23,1.0,0.06
+PARK,Tree Emergencies,Dorchester,115,0.948,0.07
+PARK,Tree Emergencies,Downtown / Financial District,5,1.0,0.28
+PARK,Tree Emergencies,East Boston,35,0.971,0.06
+PARK,Tree Emergencies,Fenway / Kenmore / Audubon Circle / Longwood,5,1.0,0.08
+PARK,Tree Emergencies,Greater Mattapan,48,0.979,0.05
+PARK,Tree Emergencies,Hyde Park,57,0.965,0.05
+PARK,Tree Emergencies,Jamaica Plain,56,1.0,0.06
+PARK,Tree Emergencies,Mission Hill,12,1.0,0.15
+PARK,Tree Emergencies,Roslindale,41,1.0,0.05
+PARK,Tree Emergencies,Roxbury,75,1.0,0.08
+PARK,Tree Emergencies,South Boston / South Boston Waterfront,41,1.0,0.06
+PARK,Tree Emergencies,South End,51,1.0,0.08
+PARK,Tree Emergencies,West Roxbury,81,0.988,0.07
+PARK,Tree Maintenance Requests,Allston / Brighton,659,0.998,6.56
+PARK,Tree Maintenance Requests,Back Bay,218,1.0,7.34
+PARK,Tree Maintenance Requests,Beacon Hill,169,1.0,29.22
+PARK,Tree Maintenance Requests,Boston,414,0.993,0.65
+PARK,Tree Maintenance Requests,Charlestown,310,0.997,26.97
+PARK,Tree Maintenance Requests,Dorchester,988,0.999,21.4
+PARK,Tree Maintenance Requests,Downtown / Financial District,166,0.994,0.82
+PARK,Tree Maintenance Requests,East Boston,683,0.994,21.89
+PARK,Tree Maintenance Requests,Fenway / Kenmore / Audubon Circle / Longwood,151,1.0,0.56
+PARK,Tree Maintenance Requests,Greater Mattapan,374,1.0,19.95
+PARK,Tree Maintenance Requests,Hyde Park,409,0.998,25.06
+PARK,Tree Maintenance Requests,Jamaica Plain,418,0.995,10.46
+PARK,Tree Maintenance Requests,Mission Hill,191,1.0,15.64
+PARK,Tree Maintenance Requests,Roslindale,460,0.996,14.01
+PARK,Tree Maintenance Requests,Roxbury,624,0.989,1.86
+PARK,Tree Maintenance Requests,South Boston / South Boston Waterfront,604,0.995,14.55
+PARK,Tree Maintenance Requests,South End,494,0.984,14.08
+PARK,Tree Maintenance Requests,West Roxbury,721,0.994,12.95
+PARK,Tree in Park,Allston / Brighton,11,0.818,9.88
+PARK,Tree in Park,Back Bay,1,1.0,0.95
+PARK,Tree in Park,Beacon Hill,1,1.0,1.88
+PARK,Tree in Park,Boston,2,1.0,103.81
+PARK,Tree in Park,Charlestown,2,0.5,54.15
+PARK,Tree in Park,Dorchester,11,0.909,3.84
+PARK,Tree in Park,Downtown / Financial District,1,1.0,17.79
+PARK,Tree in Park,East Boston,4,1.0,55.09
+PARK,Tree in Park,Greater Mattapan,2,0.5,0.17
+PARK,Tree in Park,Hyde Park,2,0.5,247.11
+PARK,Tree in Park,Jamaica Plain,5,0.6,13.23
+PARK,Tree in Park,Roxbury,3,1.0,1.85
+PARK,Tree in Park,South Boston / South Boston Waterfront,3,1.0,0.73
+PARK,Tree in Park,South End,1,0.0,401.97
+PARK,Tree in Park,West Roxbury,1,1.0,1.94
+PARK,Unshoveled Sidewalk,Allston / Brighton,2,0.5,3.42
+PARK,Unshoveled Sidewalk,Back Bay,1,0.0,2.74
+PARK,Unshoveled Sidewalk,Beacon Hill,3,0.667,1.07
+PARK,Unshoveled Sidewalk,Boston,14,0.5,1.87
+PARK,Unshoveled Sidewalk,Charlestown,4,0.25,2.38
+PARK,Unshoveled Sidewalk,Dorchester,4,1.0,0.92
+PARK,Unshoveled Sidewalk,Downtown / Financial District,4,1.0,1.13
+PARK,Unshoveled Sidewalk,East Boston,3,1.0,1.76
+PARK,Unshoveled Sidewalk,Fenway / Kenmore / Audubon Circle / Longwood,8,0.375,2.8
+PARK,Unshoveled Sidewalk,Greater Mattapan,3,1.0,0.89
+PARK,Unshoveled Sidewalk,Jamaica Plain,2,0.0,3.4
+PARK,Unshoveled Sidewalk,Roxbury,10,0.5,2.03
+PARK,Unshoveled Sidewalk,South Boston / South Boston Waterfront,1,1.0,0.29
+PARK,Unshoveled Sidewalk,South End,7,0.857,0.5
+PWDx,Abandoned Bicycle,Charlestown,1,1.0,2.23
+PWDx,Abandoned Bicycle,Dorchester,1,1.0,3.58
+PWDx,Abandoned Bicycle,East Boston,1,1.0,15.67
+PWDx,Abandoned Bicycle,Greater Mattapan,2,1.0,0.96
+PWDx,Abandoned Bicycle,Mission Hill,1,1.0,1.32
+PWDx,Abandoned Bicycle,Roxbury,3,1.0,1.7
+PWDx,Abandoned Bicycle,South End,3,1.0,4.89
+PWDx,Abandoned Building,Dorchester,1,1.0,0.62
+PWDx,Abandoned Building,Hyde Park,1,1.0,0.62
+PWDx,Abandoned Building,Roslindale,1,1.0,0.9
+PWDx,Abandoned Building,Roxbury,3,1.0,2.03
+PWDx,Abandoned Building,West Roxbury,2,1.0,1.82
+PWDx,Abandoned Vehicles,Back Bay,1,0.0,86.47
+PWDx,Abandoned Vehicles,Boston,3,1.0,0.79
+PWDx,Abandoned Vehicles,Charlestown,1,1.0,5.08
+PWDx,Abandoned Vehicles,Dorchester,2,0.5,12.99
+PWDx,Abandoned Vehicles,East Boston,1,1.0,0.72
+PWDx,Abandoned Vehicles,Hyde Park,4,1.0,3.37
+PWDx,Abandoned Vehicles,Jamaica Plain,1,1.0,0.42
+PWDx,Abandoned Vehicles,Roslindale,1,1.0,2.16
+PWDx,Abandoned Vehicles,Roxbury,2,1.0,2.85
+PWDx,Abandoned Vehicles,West Roxbury,1,1.0,1.82
+PWDx,Animal Generic Request,Allston / Brighton,1,1.0,0.38
+PWDx,Animal Generic Request,East Boston,1,1.0,0.14
+PWDx,Animal Generic Request,Greater Mattapan,2,1.0,0.93
+PWDx,Animal Generic Request,South Boston / South Boston Waterfront,2,1.0,0.39
+PWDx,BWSC General Request,Hyde Park,1,1.0,
+PWDx,BWSC General Request,South Boston / South Boston Waterfront,1,1.0,0.86
+PWDx,BWSC General Request,West Roxbury,2,1.0,
+PWDx,Big Buildings Recycling (INTERNAL),Back Bay,2,1.0,0.32
+PWDx,Big Buildings Recycling (INTERNAL),South End,1,1.0,0.02
+PWDx,Bridge Maintenance,Allston / Brighton,1,1.0,0.05
+PWDx,Bridge Maintenance,Boston,5,1.0,0.58
+PWDx,Bridge Maintenance,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,1.0
+PWDx,Bridge Maintenance,South Boston / South Boston Waterfront,5,1.0,0.08
+PWDx,Building Inspection Request,Dorchester,1,0.0,7.7
+PWDx,Building Inspection Request,East Boston,1,0.0,9.9
+PWDx,Building Inspection Request,Hyde Park,1,1.0,2.03
+PWDx,CE Collection,Allston / Brighton,1498,0.997,0.07
+PWDx,CE Collection,Back Bay,2367,0.999,0.04
+PWDx,CE Collection,Beacon Hill,2240,1.0,0.08
+PWDx,CE Collection,Boston,691,0.999,0.07
+PWDx,CE Collection,Charlestown,160,1.0,0.06
+PWDx,CE Collection,Dorchester,942,0.993,0.05
+PWDx,CE Collection,Downtown / Financial District,2253,1.0,0.05
+PWDx,CE Collection,East Boston,1097,0.96,0.09
+PWDx,CE Collection,Fenway / Kenmore / Audubon Circle / Longwood,254,0.984,0.15
+PWDx,CE Collection,Greater Mattapan,321,0.991,0.05
+PWDx,CE Collection,Hyde Park,162,0.994,0.07
+PWDx,CE Collection,Jamaica Plain,480,0.969,0.1
+PWDx,CE Collection,Mission Hill,618,0.994,0.19
+PWDx,CE Collection,Roslindale,147,0.952,0.11
+PWDx,CE Collection,Roxbury,1158,0.995,0.09
+PWDx,CE Collection,South Boston / South Boston Waterfront,953,0.996,0.09
+PWDx,CE Collection,South End,2532,1.0,0.06
+PWDx,CE Collection,West Roxbury,100,1.0,0.06
+PWDx,Catchbasin,Back Bay,1,1.0,
+PWDx,Catchbasin,Boston,1,1.0,
+PWDx,Catchbasin,Jamaica Plain,1,1.0,1.73
+PWDx,Catchbasin,West Roxbury,1,1.0,
+PWDx,City/State Snow Issues,West Roxbury,1,1.0,0.05
+PWDx,Construction Debris,Allston / Brighton,14,1.0,0.36
+PWDx,Construction Debris,Back Bay,12,1.0,0.15
+PWDx,Construction Debris,Beacon Hill,1,1.0,0.02
+PWDx,Construction Debris,Boston,3,1.0,0.07
+PWDx,Construction Debris,Charlestown,10,1.0,0.14
+PWDx,Construction Debris,Dorchester,32,1.0,0.06
+PWDx,Construction Debris,Downtown / Financial District,15,1.0,0.19
+PWDx,Construction Debris,East Boston,11,1.0,0.05
+PWDx,Construction Debris,Greater Mattapan,12,1.0,0.06
+PWDx,Construction Debris,Hyde Park,3,0.667,0.79
+PWDx,Construction Debris,Jamaica Plain,12,1.0,0.14
+PWDx,Construction Debris,Mission Hill,2,1.0,0.17
+PWDx,Construction Debris,Roslindale,8,1.0,0.05
+PWDx,Construction Debris,Roxbury,13,1.0,0.18
+PWDx,Construction Debris,South Boston / South Boston Waterfront,12,1.0,0.16
+PWDx,Construction Debris,South End,14,1.0,0.12
+PWDx,Construction Debris,West Roxbury,8,1.0,0.23
+PWDx,Contractor Complaints,Allston / Brighton,49,0.898,0.73
+PWDx,Contractor Complaints,Back Bay,67,0.746,0.65
+PWDx,Contractor Complaints,Beacon Hill,28,0.571,1.09
+PWDx,Contractor Complaints,Boston,46,0.957,0.41
+PWDx,Contractor Complaints,Charlestown,96,0.812,0.79
+PWDx,Contractor Complaints,Dorchester,179,0.788,0.67
+PWDx,Contractor Complaints,Downtown / Financial District,45,0.733,0.77
+PWDx,Contractor Complaints,East Boston,47,0.851,0.72
+PWDx,Contractor Complaints,Fenway / Kenmore / Audubon Circle / Longwood,22,1.0,0.38
+PWDx,Contractor Complaints,Greater Mattapan,73,0.562,0.65
+PWDx,Contractor Complaints,Hyde Park,60,0.733,0.62
+PWDx,Contractor Complaints,Jamaica Plain,77,0.792,0.76
+PWDx,Contractor Complaints,Mission Hill,5,1.0,0.18
+PWDx,Contractor Complaints,Roslindale,39,0.795,0.76
+PWDx,Contractor Complaints,Roxbury,94,0.777,0.27
+PWDx,Contractor Complaints,South Boston / South Boston Waterfront,85,0.929,0.31
+PWDx,Contractor Complaints,South End,44,0.841,0.25
+PWDx,Contractor Complaints,West Roxbury,39,0.769,0.36
+PWDx,Contractors Complaint,Beacon Hill,2,1.0,17.68
+PWDx,Contractors Complaint,Charlestown,5,1.0,1.93
+PWDx,Contractors Complaint,Dorchester,8,1.0,3.85
+PWDx,Contractors Complaint,East Boston,1,1.0,1.98
+PWDx,Contractors Complaint,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,1.89
+PWDx,Contractors Complaint,Greater Mattapan,4,1.0,10.38
+PWDx,Contractors Complaint,Hyde Park,2,1.0,208.34
+PWDx,Contractors Complaint,Mission Hill,1,1.0,10.72
+PWDx,Contractors Complaint,Roslindale,2,1.0,220.02
+PWDx,Contractors Complaint,Roxbury,5,1.0,4.86
+PWDx,Contractors Complaint,South Boston / South Boston Waterfront,4,1.0,3.95
+PWDx,Contractors Complaint,South End,2,1.0,4.18
+PWDx,Contractors Complaint,West Roxbury,2,1.0,293.46
+PWDx,Egress,Charlestown,1,1.0,1.74
+PWDx,Empty Litter Basket,Allston / Brighton,288,1.0,0.1
+PWDx,Empty Litter Basket,Back Bay,197,0.985,0.06
+PWDx,Empty Litter Basket,Beacon Hill,163,0.963,0.05
+PWDx,Empty Litter Basket,Boston,162,0.994,0.07
+PWDx,Empty Litter Basket,Charlestown,222,0.986,0.08
+PWDx,Empty Litter Basket,Dorchester,143,1.0,0.1
+PWDx,Empty Litter Basket,Downtown / Financial District,162,0.994,0.06
+PWDx,Empty Litter Basket,East Boston,86,1.0,0.08
+PWDx,Empty Litter Basket,Fenway / Kenmore / Audubon Circle / Longwood,98,0.99,0.07
+PWDx,Empty Litter Basket,Greater Mattapan,39,0.974,0.07
+PWDx,Empty Litter Basket,Hyde Park,33,1.0,0.04
+PWDx,Empty Litter Basket,Jamaica Plain,77,0.974,0.13
+PWDx,Empty Litter Basket,Mission Hill,82,0.988,0.07
+PWDx,Empty Litter Basket,Roslindale,20,1.0,0.05
+PWDx,Empty Litter Basket,Roxbury,125,1.0,0.1
+PWDx,Empty Litter Basket,South Boston / South Boston Waterfront,111,0.982,0.07
+PWDx,Empty Litter Basket,South End,148,0.993,0.08
+PWDx,Empty Litter Basket,West Roxbury,12,0.917,0.62
+PWDx,Equipment Repair,Allston / Brighton,4,0.25,4.88
+PWDx,Equipment Repair,Back Bay,3,0.667,0.8
+PWDx,Equipment Repair,Beacon Hill,3,0.333,89.58
+PWDx,Equipment Repair,Boston,4,0.25,231.0
+PWDx,Equipment Repair,Charlestown,1,0.0,
+PWDx,Equipment Repair,Dorchester,4,0.25,92.62
+PWDx,Equipment Repair,Downtown / Financial District,8,0.5,1.45
+PWDx,Equipment Repair,East Boston,4,0.0,94.52
+PWDx,Equipment Repair,Greater Mattapan,1,1.0,1.53
+PWDx,Equipment Repair,Hyde Park,1,0.0,51.33
+PWDx,Equipment Repair,Jamaica Plain,2,0.5,4.4
+PWDx,Equipment Repair,Mission Hill,1,0.0,
+PWDx,Equipment Repair,Roxbury,2,0.5,116.99
+PWDx,Equipment Repair,South Boston / South Boston Waterfront,3,0.0,196.89
+PWDx,Equipment Repair,South End,4,0.75,0.59
+PWDx,Exceeding Terms of Permit,Beacon Hill,1,1.0,1.29
+PWDx,Exceeding Terms of Permit,Charlestown,1,0.0,176.78
+PWDx,Exceeding Terms of Permit,Downtown / Financial District,1,1.0,7.4
+PWDx,General Comments For An Employee,Allston / Brighton,15,1.0,0.64
+PWDx,General Comments For An Employee,Back Bay,1,1.0,0.68
+PWDx,General Comments For An Employee,Beacon Hill,2,1.0,0.55
+PWDx,General Comments For An Employee,Charlestown,3,1.0,0.68
+PWDx,General Comments For An Employee,Dorchester,30,1.0,0.71
+PWDx,General Comments For An Employee,Downtown / Financial District,2,1.0,0.2
+PWDx,General Comments For An Employee,East Boston,4,1.0,0.91
+PWDx,General Comments For An Employee,Greater Mattapan,11,1.0,0.12
+PWDx,General Comments For An Employee,Hyde Park,21,1.0,0.68
+PWDx,General Comments For An Employee,Jamaica Plain,14,1.0,0.62
+PWDx,General Comments For An Employee,Mission Hill,2,1.0,1.46
+PWDx,General Comments For An Employee,Roslindale,14,1.0,0.76
+PWDx,General Comments For An Employee,Roxbury,18,1.0,0.72
+PWDx,General Comments For An Employee,South Boston / South Boston Waterfront,3,1.0,0.94
+PWDx,General Comments For An Employee,South End,6,1.0,0.64
+PWDx,General Comments For An Employee,West Roxbury,12,1.0,0.11
+PWDx,General Comments For a Program or Policy,Allston / Brighton,3,0.667,2.67
+PWDx,General Comments For a Program or Policy,Back Bay,1,0.0,
+PWDx,General Comments For a Program or Policy,Beacon Hill,1,0.0,
+PWDx,General Comments For a Program or Policy,Boston,1,1.0,1.02
+PWDx,General Comments For a Program or Policy,Dorchester,4,0.5,0.98
+PWDx,General Comments For a Program or Policy,Downtown / Financial District,1,1.0,0.77
+PWDx,General Comments For a Program or Policy,East Boston,7,0.429,1.1
+PWDx,General Comments For a Program or Policy,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,1.85
+PWDx,General Comments For a Program or Policy,Greater Mattapan,4,0.75,1.01
+PWDx,General Comments For a Program or Policy,Hyde Park,5,0.6,1.7
+PWDx,General Comments For a Program or Policy,Jamaica Plain,1,0.0,
+PWDx,General Comments For a Program or Policy,Roslindale,1,1.0,0.59
+PWDx,General Comments For a Program or Policy,Roxbury,2,0.5,0.77
+PWDx,General Comments For a Program or Policy,South End,1,0.0,375.99
+PWDx,General Comments For a Program or Policy,West Roxbury,2,0.0,
+PWDx,General Lighting Request,Allston / Brighton,61,0.803,0.1
+PWDx,General Lighting Request,Back Bay,39,0.59,0.26
+PWDx,General Lighting Request,Beacon Hill,10,0.6,7.65
+PWDx,General Lighting Request,Boston,44,0.864,0.12
+PWDx,General Lighting Request,Charlestown,45,0.8,0.64
+PWDx,General Lighting Request,Dorchester,129,0.798,0.1
+PWDx,General Lighting Request,Downtown / Financial District,57,0.772,0.27
+PWDx,General Lighting Request,East Boston,54,0.796,0.96
+PWDx,General Lighting Request,Fenway / Kenmore / Audubon Circle / Longwood,16,0.75,0.19
+PWDx,General Lighting Request,Greater Mattapan,35,0.943,0.07
+PWDx,General Lighting Request,Hyde Park,15,0.867,0.07
+PWDx,General Lighting Request,Jamaica Plain,29,0.828,0.07
+PWDx,General Lighting Request,Mission Hill,21,0.762,2.09
+PWDx,General Lighting Request,Roslindale,27,0.889,2.43
+PWDx,General Lighting Request,Roxbury,111,0.631,0.13
+PWDx,General Lighting Request,South Boston / South Boston Waterfront,47,0.809,0.03
+PWDx,General Lighting Request,South End,25,0.72,1.15
+PWDx,General Lighting Request,West Roxbury,16,0.75,5.98
+PWDx,General Traffic Engineering Request,Dorchester,1,0.0,270.9
+PWDx,General Traffic Engineering Request,Hyde Park,1,0.0,217.99
+PWDx,General Traffic Engineering Request,Roxbury,1,1.0,4.93
+PWDx,Graffiti Removal,Charlestown,3,0.667,37.78
+PWDx,Graffiti Removal,South Boston / South Boston Waterfront,1,0.0,80.75
+PWDx,Graffiti Removal,West Roxbury,1,0.0,240.86
+PWDx,Ground Maintenance,Allston / Brighton,8,1.0,2.39
+PWDx,Ground Maintenance,Back Bay,2,1.0,3.47
+PWDx,Ground Maintenance,Boston,4,1.0,0.66
+PWDx,Ground Maintenance,Charlestown,2,1.0,1.12
+PWDx,Ground Maintenance,Dorchester,12,1.0,0.44
+PWDx,Ground Maintenance,Downtown / Financial District,15,1.0,0.97
+PWDx,Ground Maintenance,East Boston,14,0.929,1.18
+PWDx,Ground Maintenance,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.57
+PWDx,Ground Maintenance,Greater Mattapan,3,1.0,0.16
+PWDx,Ground Maintenance,Jamaica Plain,3,1.0,0.81
+PWDx,Ground Maintenance,Mission Hill,3,1.0,0.89
+PWDx,Ground Maintenance,Roslindale,4,1.0,1.9
+PWDx,Ground Maintenance,Roxbury,15,0.933,0.79
+PWDx,Ground Maintenance,South Boston / South Boston Waterfront,3,1.0,2.28
+PWDx,Illegal Auto Body Shop,Allston / Brighton,2,1.0,0.88
+PWDx,Illegal Auto Body Shop,Charlestown,1,1.0,0.13
+PWDx,Illegal Auto Body Shop,Dorchester,27,1.0,0.97
+PWDx,Illegal Auto Body Shop,East Boston,5,1.0,0.96
+PWDx,Illegal Auto Body Shop,Greater Mattapan,13,1.0,0.94
+PWDx,Illegal Auto Body Shop,Hyde Park,11,1.0,1.56
+PWDx,Illegal Auto Body Shop,Jamaica Plain,7,1.0,0.92
+PWDx,Illegal Auto Body Shop,Roslindale,3,1.0,0.85
+PWDx,Illegal Auto Body Shop,Roxbury,23,0.913,1.65
+PWDx,Illegal Auto Body Shop,West Roxbury,5,0.8,0.98
+PWDx,Illegal Dumping,Allston / Brighton,276,0.993,0.06
+PWDx,Illegal Dumping,Back Bay,180,0.983,0.13
+PWDx,Illegal Dumping,Beacon Hill,83,0.976,0.07
+PWDx,Illegal Dumping,Boston,85,0.976,0.11
+PWDx,Illegal Dumping,Charlestown,62,0.952,0.12
+PWDx,Illegal Dumping,Dorchester,420,0.99,0.07
+PWDx,Illegal Dumping,Downtown / Financial District,190,1.0,0.11
+PWDx,Illegal Dumping,East Boston,354,0.994,0.08
+PWDx,Illegal Dumping,Fenway / Kenmore / Audubon Circle / Longwood,35,1.0,0.3
+PWDx,Illegal Dumping,Greater Mattapan,180,0.989,0.09
+PWDx,Illegal Dumping,Hyde Park,122,1.0,0.24
+PWDx,Illegal Dumping,Jamaica Plain,115,0.983,0.1
+PWDx,Illegal Dumping,Mission Hill,51,0.98,0.06
+PWDx,Illegal Dumping,Roslindale,60,0.983,0.34
+PWDx,Illegal Dumping,Roxbury,328,0.994,0.09
+PWDx,Illegal Dumping,South Boston / South Boston Waterfront,219,0.995,0.08
+PWDx,Illegal Dumping,South End,147,1.0,0.13
+PWDx,Illegal Dumping,West Roxbury,63,0.984,0.11
+PWDx,Illegal Posting of Signs,Allston / Brighton,5,0.8,0.43
+PWDx,Illegal Posting of Signs,Back Bay,3,1.0,0.11
+PWDx,Illegal Posting of Signs,Beacon Hill,1,1.0,0.09
+PWDx,Illegal Posting of Signs,Boston,5,1.0,0.16
+PWDx,Illegal Posting of Signs,Charlestown,4,1.0,0.42
+PWDx,Illegal Posting of Signs,Dorchester,12,1.0,0.06
+PWDx,Illegal Posting of Signs,Downtown / Financial District,10,1.0,0.11
+PWDx,Illegal Posting of Signs,East Boston,2,1.0,0.2
+PWDx,Illegal Posting of Signs,Fenway / Kenmore / Audubon Circle / Longwood,4,1.0,0.1
+PWDx,Illegal Posting of Signs,Greater Mattapan,2,1.0,0.09
+PWDx,Illegal Posting of Signs,Hyde Park,19,1.0,0.17
+PWDx,Illegal Posting of Signs,Jamaica Plain,11,1.0,0.48
+PWDx,Illegal Posting of Signs,Roslindale,4,1.0,0.35
+PWDx,Illegal Posting of Signs,Roxbury,7,0.857,0.21
+PWDx,Illegal Posting of Signs,South Boston / South Boston Waterfront,8,0.875,0.23
+PWDx,Illegal Posting of Signs,South End,3,1.0,0.06
+PWDx,Illegal Posting of Signs,West Roxbury,5,1.0,0.64
+PWDx,Illegal Vending,Allston / Brighton,3,1.0,0.51
+PWDx,Illegal Vending,Back Bay,46,1.0,0.32
+PWDx,Illegal Vending,Beacon Hill,2,1.0,0.29
+PWDx,Illegal Vending,Boston,45,1.0,0.39
+PWDx,Illegal Vending,Charlestown,1,1.0,0.7
+PWDx,Illegal Vending,Dorchester,26,1.0,0.07
+PWDx,Illegal Vending,Downtown / Financial District,19,1.0,0.3
+PWDx,Illegal Vending,East Boston,16,1.0,0.11
+PWDx,Illegal Vending,Fenway / Kenmore / Audubon Circle / Longwood,3,1.0,0.33
+PWDx,Illegal Vending,Greater Mattapan,13,1.0,0.31
+PWDx,Illegal Vending,Hyde Park,10,1.0,0.33
+PWDx,Illegal Vending,Jamaica Plain,4,1.0,0.7
+PWDx,Illegal Vending,Roslindale,1,1.0,0.1
+PWDx,Illegal Vending,Roxbury,14,1.0,0.3
+PWDx,Illegal Vending,South Boston / South Boston Waterfront,1,1.0,0.76
+PWDx,Illegal Vending,South End,3,1.0,0.43
+PWDx,Illegal Vending,West Roxbury,2,1.0,0.54
+PWDx,Improper Storage of Trash (Barrels),Allston / Brighton,1580,0.999,0.14
+PWDx,Improper Storage of Trash (Barrels),Back Bay,1834,0.999,0.16
+PWDx,Improper Storage of Trash (Barrels),Beacon Hill,2504,1.0,0.13
+PWDx,Improper Storage of Trash (Barrels),Boston,781,0.999,0.14
+PWDx,Improper Storage of Trash (Barrels),Charlestown,328,0.997,0.18
+PWDx,Improper Storage of Trash (Barrels),Chestnut Hill,1,1.0,0.71
+PWDx,Improper Storage of Trash (Barrels),Dorchester,1925,0.999,0.07
+PWDx,Improper Storage of Trash (Barrels),Downtown / Financial District,1526,0.999,0.1
+PWDx,Improper Storage of Trash (Barrels),East Boston,1465,0.997,0.17
+PWDx,Improper Storage of Trash (Barrels),Fenway / Kenmore / Audubon Circle / Longwood,217,0.995,0.25
+PWDx,Improper Storage of Trash (Barrels),Greater Mattapan,518,0.996,0.06
+PWDx,Improper Storage of Trash (Barrels),Hyde Park,402,1.0,0.21
+PWDx,Improper Storage of Trash (Barrels),Jamaica Plain,710,0.999,0.14
+PWDx,Improper Storage of Trash (Barrels),Mission Hill,441,1.0,0.14
+PWDx,Improper Storage of Trash (Barrels),Roslindale,253,1.0,0.09
+PWDx,Improper Storage of Trash (Barrels),Roxbury,1424,0.997,0.11
+PWDx,Improper Storage of Trash (Barrels),South Boston / South Boston Waterfront,1320,1.0,0.11
+PWDx,Improper Storage of Trash (Barrels),South End,2820,0.998,0.11
+PWDx,Improper Storage of Trash (Barrels),West Roxbury,217,1.0,0.15
+PWDx,Install New Lighting,Back Bay,1,0.0,
+PWDx,Install New Lighting,Charlestown,1,1.0,6.75
+PWDx,Install New Lighting,Dorchester,7,0.286,97.48
+PWDx,Install New Lighting,Downtown / Financial District,2,0.5,48.94
+PWDx,Install New Lighting,East Boston,1,1.0,0.63
+PWDx,Install New Lighting,Greater Mattapan,1,0.0,168.18
+PWDx,Install New Lighting,Jamaica Plain,1,0.0,265.71
+PWDx,Install New Lighting,Roslindale,1,0.0,
+PWDx,Install New Lighting,Roxbury,4,0.25,3.92
+PWDx,Install New Lighting,South End,1,0.0,103.92
+PWDx,Knockdown Replacement,Allston / Brighton,6,0.167,193.97
+PWDx,Knockdown Replacement,Back Bay,1,1.0,0.62
+PWDx,Knockdown Replacement,Boston,4,0.25,0.09
+PWDx,Knockdown Replacement,Charlestown,6,0.833,0.65
+PWDx,Knockdown Replacement,Dorchester,11,0.909,20.53
+PWDx,Knockdown Replacement,Downtown / Financial District,11,0.727,0.61
+PWDx,Knockdown Replacement,East Boston,2,0.0,280.52
+PWDx,Knockdown Replacement,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.09
+PWDx,Knockdown Replacement,Greater Mattapan,7,0.857,0.22
+PWDx,Knockdown Replacement,Hyde Park,4,0.5,96.71
+PWDx,Knockdown Replacement,Jamaica Plain,4,0.5,128.54
+PWDx,Knockdown Replacement,Mission Hill,1,0.0,83.08
+PWDx,Knockdown Replacement,Roxbury,21,0.714,0.67
+PWDx,Knockdown Replacement,South Boston / South Boston Waterfront,7,0.714,18.07
+PWDx,Knockdown Replacement,West Roxbury,3,0.667,1.98
+PWDx,Litter Basket Maintenance,Allston / Brighton,6,1.0,0.57
+PWDx,Litter Basket Maintenance,Back Bay,9,1.0,0.04
+PWDx,Litter Basket Maintenance,Beacon Hill,6,1.0,0.1
+PWDx,Litter Basket Maintenance,Boston,5,1.0,0.19
+PWDx,Litter Basket Maintenance,Charlestown,1,1.0,56.21
+PWDx,Litter Basket Maintenance,Dorchester,5,1.0,0.04
+PWDx,Litter Basket Maintenance,Downtown / Financial District,3,1.0,0.65
+PWDx,Litter Basket Maintenance,East Boston,1,1.0,0.02
+PWDx,Litter Basket Maintenance,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.01
+PWDx,Litter Basket Maintenance,Greater Mattapan,1,1.0,1.9
+PWDx,Litter Basket Maintenance,Hyde Park,5,1.0,0.01
+PWDx,Litter Basket Maintenance,Jamaica Plain,6,1.0,0.42
+PWDx,Litter Basket Maintenance,Mission Hill,10,1.0,0.2
+PWDx,Litter Basket Maintenance,Roxbury,2,1.0,0.98
+PWDx,Litter Basket Maintenance,South Boston / South Boston Waterfront,1,1.0,0.08
+PWDx,Litter Basket Maintenance,South End,6,1.0,0.03
+PWDx,Litter Basket Maintenance,West Roxbury,6,1.0,0.01
+PWDx,Maintenance - Homeowner,Beacon Hill,1,0.0,315.7
+PWDx,Maintenance - Homeowner,Dorchester,2,1.0,7.29
+PWDx,Maintenance Complaint - Residential,Allston / Brighton,1,1.0,0.73
+PWDx,Maintenance Complaint - Residential,Dorchester,1,1.0,1.42
+PWDx,Maintenance Complaint - Residential,Greater Mattapan,1,1.0,2.24
+PWDx,Maintenance Complaint - Residential,Hyde Park,1,1.0,2.97
+PWDx,Maintenance Complaint - Residential,Jamaica Plain,1,1.0,6.33
+PWDx,Maintenance Complaint - Residential,Roxbury,2,1.0,7.04
+PWDx,Major System Failure,Allston / Brighton,13,0.923,0.09
+PWDx,Major System Failure,Back Bay,7,0.714,0.16
+PWDx,Major System Failure,Beacon Hill,3,0.667,0.94
+PWDx,Major System Failure,Boston,9,0.667,0.25
+PWDx,Major System Failure,Charlestown,14,0.643,0.19
+PWDx,Major System Failure,Dorchester,49,0.898,0.06
+PWDx,Major System Failure,Downtown / Financial District,17,0.706,0.31
+PWDx,Major System Failure,East Boston,20,0.8,0.1
+PWDx,Major System Failure,Fenway / Kenmore / Audubon Circle / Longwood,6,0.833,0.09
+PWDx,Major System Failure,Greater Mattapan,23,0.565,0.7
+PWDx,Major System Failure,Hyde Park,5,1.0,0.43
+PWDx,Major System Failure,Jamaica Plain,6,0.667,0.36
+PWDx,Major System Failure,Mission Hill,9,0.889,0.57
+PWDx,Major System Failure,Roslindale,3,1.0,0.03
+PWDx,Major System Failure,Roxbury,49,0.878,0.08
+PWDx,Major System Failure,South Boston / South Boston Waterfront,14,0.571,0.66
+PWDx,Major System Failure,South End,14,0.929,0.24
+PWDx,Major System Failure,West Roxbury,4,0.75,0.44
+PWDx,Mattress_Pickup,Allston / Brighton,667,1.0,2.05
+PWDx,Mattress_Pickup,Back Bay,74,1.0,2.04
+PWDx,Mattress_Pickup,Beacon Hill,85,1.0,1.97
+PWDx,Mattress_Pickup,Boston,35,1.0,1.99
+PWDx,Mattress_Pickup,Charlestown,121,1.0,2.03
+PWDx,Mattress_Pickup,Dorchester,2176,1.0,3.3
+PWDx,Mattress_Pickup,Downtown / Financial District,104,1.0,2.02
+PWDx,Mattress_Pickup,East Boston,853,1.0,2.04
+PWDx,Mattress_Pickup,Fenway / Kenmore / Audubon Circle / Longwood,14,1.0,2.08
+PWDx,Mattress_Pickup,Greater Mattapan,951,1.0,4.8
+PWDx,Mattress_Pickup,Hyde Park,649,1.0,5.89
+PWDx,Mattress_Pickup,Jamaica Plain,535,1.0,1.99
+PWDx,Mattress_Pickup,Mission Hill,85,1.0,2.1
+PWDx,Mattress_Pickup,Roslindale,407,1.0,4.19
+PWDx,Mattress_Pickup,Roxbury,913,1.0,2.05
+PWDx,Mattress_Pickup,South Boston / South Boston Waterfront,323,1.0,1.99
+PWDx,Mattress_Pickup,South End,134,1.0,2.07
+PWDx,Mattress_Pickup,West Roxbury,385,1.0,5.29
+PWDx,Misc. Snow Complaint,Allston / Brighton,1,1.0,
+PWDx,Misc. Snow Complaint,Back Bay,1,1.0,0.0
+PWDx,Misc. Snow Complaint,Dorchester,2,1.0,
+PWDx,Misc. Snow Complaint,Greater Mattapan,3,1.0,
+PWDx,Misc. Snow Complaint,Hyde Park,1,1.0,
+PWDx,Misc. Snow Complaint,Roslindale,2,1.0,
+PWDx,Misc. Snow Complaint,Roxbury,1,1.0,13.09
+PWDx,Misc. Snow Complaint,South Boston / South Boston Waterfront,1,1.0,
+PWDx,Misc. Snow Complaint,West Roxbury,1,1.0,
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Allston / Brighton,1229,0.98,0.59
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Back Bay,168,0.988,0.25
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Beacon Hill,246,1.0,0.44
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Boston,143,1.0,0.07
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Charlestown,273,0.996,0.44
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Chestnut Hill,1,1.0,0.67
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,1747,0.98,0.48
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Downtown / Financial District,221,1.0,0.09
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,East Boston,347,0.974,0.58
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Fenway / Kenmore / Audubon Circle / Longwood,62,0.984,0.53
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Greater Mattapan,727,0.959,0.36
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Hyde Park,911,0.951,0.57
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Jamaica Plain,941,0.984,0.51
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Mission Hill,127,0.992,0.48
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Roslindale,760,0.968,0.47
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,Roxbury,1170,0.975,0.51
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,South Boston / South Boston Waterfront,433,0.986,0.4
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,South End,403,0.998,0.47
+PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,West Roxbury,645,0.983,0.19
+PWDx,Missing Sign,Downtown / Financial District,1,0.0,8.56
+PWDx,Missing Sign,East Boston,1,0.0,5.6
+PWDx,Missing Sign,South Boston / South Boston Waterfront,1,0.0,9.05
+PWDx,Missing Sign,South End,1,0.0,3.66
+PWDx,Mosquitoes (West Nile),West Roxbury,1,1.0,2.87
+PWDx,Municipal Parking Lot Complaints,Roxbury,1,0.0,
+PWDx,Needle Pickup,Back Bay,1,1.0,0.06
+PWDx,Needle Pickup,Charlestown,1,1.0,0.76
+PWDx,Needle Pickup,Roxbury,2,1.0,7.06
+PWDx,Needle Pickup,South End,1,1.0,0.1
+PWDx,New Sign  Crosswalk or Pavement Marking,Allston / Brighton,2,0.0,582.6
+PWDx,New Sign  Crosswalk or Pavement Marking,Beacon Hill,1,0.0,453.16
+PWDx,New Sign  Crosswalk or Pavement Marking,Boston,1,1.0,1.11
+PWDx,New Sign  Crosswalk or Pavement Marking,Charlestown,2,0.0,
+PWDx,New Sign  Crosswalk or Pavement Marking,Dorchester,1,1.0,22.71
+PWDx,New Sign  Crosswalk or Pavement Marking,Fenway / Kenmore / Audubon Circle / Longwood,1,0.0,
+PWDx,New Sign  Crosswalk or Pavement Marking,Hyde Park,1,1.0,3.7
+PWDx,New Sign  Crosswalk or Pavement Marking,Jamaica Plain,1,1.0,26.62
+PWDx,New Sign  Crosswalk or Pavement Marking,South Boston / South Boston Waterfront,1,0.0,
+PWDx,New Tree Requests,Allston / Brighton,2,0.5,0.77
+PWDx,New Tree Requests,Dorchester,4,1.0,0.68
+PWDx,New Tree Requests,East Boston,3,1.0,0.02
+PWDx,New Tree Requests,Hyde Park,2,0.5,0.85
+PWDx,New Tree Requests,Roslindale,1,0.0,
+PWDx,New Tree Requests,Roxbury,1,1.0,0.79
+PWDx,New Tree Requests,South End,1,0.0,
+PWDx,News Boxes,Boston,1,0.0,142.68
+PWDx,No-Tow Complaint Confirmation,Allston / Brighton,2,1.0,0.43
+PWDx,No-Tow Complaint Confirmation,Back Bay,2,1.0,0.22
+PWDx,No-Tow Complaint Confirmation,Charlestown,4,1.0,0.48
+PWDx,No-Tow Complaint Confirmation,Dorchester,6,1.0,0.05
+PWDx,No-Tow Complaint Confirmation,East Boston,5,1.0,0.44
+PWDx,No-Tow Complaint Confirmation,Jamaica Plain,6,1.0,0.24
+PWDx,No-Tow Complaint Confirmation,Mission Hill,1,1.0,0.3
+PWDx,No-Tow Complaint Confirmation,Roslindale,1,1.0,0.02
+PWDx,No-Tow Complaint Confirmation,Roxbury,6,1.0,0.31
+PWDx,No-Tow Complaint Confirmation,South Boston / South Boston Waterfront,7,1.0,0.05
+PWDx,No-Tow Complaint Confirmation,South End,3,1.0,0.0
+PWDx,Overflowing or Un-kept Dumpster,Allston / Brighton,6,1.0,1.47
+PWDx,Overflowing or Un-kept Dumpster,Boston,2,1.0,1.34
+PWDx,Overflowing or Un-kept Dumpster,Charlestown,3,1.0,0.85
+PWDx,Overflowing or Un-kept Dumpster,Dorchester,13,0.923,0.74
+PWDx,Overflowing or Un-kept Dumpster,Downtown / Financial District,4,1.0,1.95
+PWDx,Overflowing or Un-kept Dumpster,East Boston,4,1.0,0.82
+PWDx,Overflowing or Un-kept Dumpster,Fenway / Kenmore / Audubon Circle / Longwood,4,1.0,0.67
+PWDx,Overflowing or Un-kept Dumpster,Greater Mattapan,8,1.0,1.12
+PWDx,Overflowing or Un-kept Dumpster,Hyde Park,1,1.0,0.07
+PWDx,Overflowing or Un-kept Dumpster,Jamaica Plain,2,1.0,0.73
+PWDx,Overflowing or Un-kept Dumpster,Mission Hill,1,1.0,2.99
+PWDx,Overflowing or Un-kept Dumpster,Roslindale,4,1.0,0.91
+PWDx,Overflowing or Un-kept Dumpster,Roxbury,11,0.909,0.61
+PWDx,Overflowing or Un-kept Dumpster,South Boston / South Boston Waterfront,4,1.0,0.49
+PWDx,Overflowing or Un-kept Dumpster,South End,1,1.0,1.81
+PWDx,Overflowing or Un-kept Dumpster,West Roxbury,3,1.0,1.06
+PWDx,PWD Graffiti,Allston / Brighton,85,0.635,5.11
+PWDx,PWD Graffiti,Back Bay,138,0.486,7.84
+PWDx,PWD Graffiti,Beacon Hill,7,0.571,0.47
+PWDx,PWD Graffiti,Boston,77,0.662,4.04
+PWDx,PWD Graffiti,Charlestown,7,0.571,4.45
+PWDx,PWD Graffiti,Dorchester,41,0.61,3.06
+PWDx,PWD Graffiti,Downtown / Financial District,41,0.634,4.09
+PWDx,PWD Graffiti,East Boston,28,0.571,7.19
+PWDx,PWD Graffiti,Fenway / Kenmore / Audubon Circle / Longwood,90,0.589,2.94
+PWDx,PWD Graffiti,Greater Mattapan,7,0.857,0.08
+PWDx,PWD Graffiti,Hyde Park,16,1.0,0.0
+PWDx,PWD Graffiti,Jamaica Plain,112,0.768,1.94
+PWDx,PWD Graffiti,Mission Hill,11,0.909,4.24
+PWDx,PWD Graffiti,Roslindale,16,0.875,0.01
+PWDx,PWD Graffiti,Roxbury,51,0.725,0.84
+PWDx,PWD Graffiti,South Boston / South Boston Waterfront,46,0.783,0.14
+PWDx,PWD Graffiti,South End,73,0.466,8.67
+PWDx,PWD Graffiti,West Roxbury,8,1.0,0.14
+PWDx,Parking Enforcement,Allston / Brighton,5,0.4,1.4
+PWDx,Parking Enforcement,Beacon Hill,1,0.0,42.13
+PWDx,Parking Enforcement,Boston,1,0.0,1.27
+PWDx,Parking Enforcement,Charlestown,5,0.0,3.28
+PWDx,Parking Enforcement,Dorchester,8,0.25,0.3
+PWDx,Parking Enforcement,Downtown / Financial District,4,0.0,
+PWDx,Parking Enforcement,East Boston,11,0.273,1.52
+PWDx,Parking Enforcement,Fenway / Kenmore / Audubon Circle / Longwood,1,0.0,
+PWDx,Parking Enforcement,Greater Mattapan,1,0.0,3.95
+PWDx,Parking Enforcement,Hyde Park,4,0.5,1.06
+PWDx,Parking Enforcement,Mission Hill,2,0.0,
+PWDx,Parking Enforcement,Roslindale,2,0.0,
+PWDx,Parking Enforcement,Roxbury,7,0.143,6.91
+PWDx,Parking Enforcement,South Boston / South Boston Waterfront,4,0.5,0.52
+PWDx,Parking Enforcement,South End,2,0.0,1.17
+PWDx,Parking Enforcement,West Roxbury,4,0.0,2.73
+PWDx,Parking on Front/Back Yards (Illegal Parking),Allston / Brighton,12,1.0,0.2
+PWDx,Parking on Front/Back Yards (Illegal Parking),Back Bay,1,1.0,0.06
+PWDx,Parking on Front/Back Yards (Illegal Parking),Beacon Hill,1,1.0,0.0
+PWDx,Parking on Front/Back Yards (Illegal Parking),Boston,2,1.0,0.1
+PWDx,Parking on Front/Back Yards (Illegal Parking),Charlestown,7,1.0,0.06
+PWDx,Parking on Front/Back Yards (Illegal Parking),Dorchester,39,1.0,0.06
+PWDx,Parking on Front/Back Yards (Illegal Parking),Downtown / Financial District,2,1.0,0.03
+PWDx,Parking on Front/Back Yards (Illegal Parking),East Boston,13,1.0,0.13
+PWDx,Parking on Front/Back Yards (Illegal Parking),Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.71
+PWDx,Parking on Front/Back Yards (Illegal Parking),Greater Mattapan,18,1.0,0.05
+PWDx,Parking on Front/Back Yards (Illegal Parking),Hyde Park,12,1.0,0.05
+PWDx,Parking on Front/Back Yards (Illegal Parking),Jamaica Plain,4,1.0,0.45
+PWDx,Parking on Front/Back Yards (Illegal Parking),Mission Hill,2,1.0,0.06
+PWDx,Parking on Front/Back Yards (Illegal Parking),Roslindale,8,1.0,0.58
+PWDx,Parking on Front/Back Yards (Illegal Parking),Roxbury,16,1.0,0.09
+PWDx,Parking on Front/Back Yards (Illegal Parking),South Boston / South Boston Waterfront,5,1.0,0.07
+PWDx,Parking on Front/Back Yards (Illegal Parking),South End,2,1.0,0.02
+PWDx,Parking on Front/Back Yards (Illegal Parking),West Roxbury,3,1.0,0.37
+PWDx,Parks General Request,Allston / Brighton,3,1.0,5.55
+PWDx,Parks General Request,East Boston,1,1.0,0.68
+PWDx,Parks General Request,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,2.96
+PWDx,Parks General Request,Greater Mattapan,2,1.0,2.36
+PWDx,Parks General Request,Roslindale,1,1.0,2.79
+PWDx,Parks General Request,Roxbury,2,1.0,3.81
+PWDx,Parks General Request,South Boston / South Boston Waterfront,3,1.0,0.12
+PWDx,Parks General Request,West Roxbury,2,1.0,1.11
+PWDx,Parks Lighting/Electrical Issues,Allston / Brighton,3,0.667,18.31
+PWDx,Parks Lighting/Electrical Issues,Back Bay,16,0.125,103.15
+PWDx,Parks Lighting/Electrical Issues,Beacon Hill,9,0.111,206.59
+PWDx,Parks Lighting/Electrical Issues,Boston,31,0.258,252.53
+PWDx,Parks Lighting/Electrical Issues,Charlestown,2,0.0,138.97
+PWDx,Parks Lighting/Electrical Issues,Dorchester,8,0.625,0.7
+PWDx,Parks Lighting/Electrical Issues,Downtown / Financial District,13,0.154,97.28
+PWDx,Parks Lighting/Electrical Issues,East Boston,30,0.133,40.69
+PWDx,Parks Lighting/Electrical Issues,Fenway / Kenmore / Audubon Circle / Longwood,6,0.667,0.82
+PWDx,Parks Lighting/Electrical Issues,Greater Mattapan,1,0.0,142.83
+PWDx,Parks Lighting/Electrical Issues,Jamaica Plain,4,0.5,0.49
+PWDx,Parks Lighting/Electrical Issues,Mission Hill,1,0.0,208.2
+PWDx,Parks Lighting/Electrical Issues,Roslindale,1,0.0,
+PWDx,Parks Lighting/Electrical Issues,Roxbury,21,0.286,12.5
+PWDx,Parks Lighting/Electrical Issues,South Boston / South Boston Waterfront,19,0.211,30.08
+PWDx,Parks Lighting/Electrical Issues,South End,17,0.235,43.27
+PWDx,Pavement Marking Inspection,Allston / Brighton,2,0.0,67.3
+PWDx,Pavement Marking Inspection,Roxbury,1,1.0,3.82
+PWDx,Pest Infestation - Residential,Allston / Brighton,14,1.0,1.56
+PWDx,Pest Infestation - Residential,Dorchester,32,1.0,2.97
+PWDx,Pest Infestation - Residential,Downtown / Financial District,1,1.0,0.89
+PWDx,Pest Infestation - Residential,East Boston,11,1.0,2.6
+PWDx,Pest Infestation - Residential,Greater Mattapan,7,1.0,1.24
+PWDx,Pest Infestation - Residential,Hyde Park,3,1.0,1.5
+PWDx,Pest Infestation - Residential,Jamaica Plain,22,1.0,1.83
+PWDx,Pest Infestation - Residential,Mission Hill,2,1.0,2.29
+PWDx,Pest Infestation - Residential,Roslindale,5,1.0,1.1
+PWDx,Pest Infestation - Residential,Roxbury,14,1.0,2.9
+PWDx,Pest Infestation - Residential,South Boston / South Boston Waterfront,15,1.0,1.76
+PWDx,Pest Infestation - Residential,South End,1,1.0,1.74
+PWDx,Pest Infestation - Residential,West Roxbury,1,1.0,2.57
+PWDx,Pick up Dead Animal,Allston / Brighton,1112,0.999,0.05
+PWDx,Pick up Dead Animal,Back Bay,274,0.993,0.04
+PWDx,Pick up Dead Animal,Beacon Hill,251,1.0,0.05
+PWDx,Pick up Dead Animal,Boston,159,0.981,0.04
+PWDx,Pick up Dead Animal,Charlestown,141,1.0,0.06
+PWDx,Pick up Dead Animal,Dorchester,1074,0.999,0.04
+PWDx,Pick up Dead Animal,Downtown / Financial District,282,0.996,0.04
+PWDx,Pick up Dead Animal,East Boston,404,0.998,0.06
+PWDx,Pick up Dead Animal,Fenway / Kenmore / Audubon Circle / Longwood,62,1.0,0.05
+PWDx,Pick up Dead Animal,Greater Mattapan,180,1.0,0.03
+PWDx,Pick up Dead Animal,Hyde Park,210,0.99,0.04
+PWDx,Pick up Dead Animal,Jamaica Plain,678,0.997,0.06
+PWDx,Pick up Dead Animal,Mission Hill,96,0.99,0.04
+PWDx,Pick up Dead Animal,Roslindale,475,1.0,0.05
+PWDx,Pick up Dead Animal,Roxbury,543,1.0,0.04
+PWDx,Pick up Dead Animal,South Boston / South Boston Waterfront,427,1.0,0.04
+PWDx,Pick up Dead Animal,South End,424,0.998,0.04
+PWDx,Pick up Dead Animal,West Roxbury,401,1.0,0.05
+PWDx,Pickup/Clear Conduit,Greater Mattapan,1,1.0,0.34
+PWDx,Pickup/Clear Conduit,Roxbury,3,1.0,0.16
+PWDx,Pickup/Clear Conduit,South Boston / South Boston Waterfront,1,1.0,0.01
+PWDx,Pickup/Clear Conduit,South End,1,1.0,148.53
+PWDx,Pigeon Infestation,Downtown / Financial District,1,0.0,454.06
+PWDx,Pole Compliance,Back Bay,3,0.667,14.25
+PWDx,Pole Compliance,Boston,3,0.333,98.28
+PWDx,Pole Compliance,Dorchester,3,0.667,2.16
+PWDx,Pole Compliance,Downtown / Financial District,6,0.667,13.29
+PWDx,Pole Compliance,Greater Mattapan,2,1.0,0.41
+PWDx,Pole Compliance,Hyde Park,1,1.0,20.15
+PWDx,Pole Compliance,Jamaica Plain,2,0.5,70.64
+PWDx,Pole Compliance,Mission Hill,1,1.0,22.08
+PWDx,Pole Compliance,Roslindale,1,1.0,7.2
+PWDx,Pole Compliance,Roxbury,7,0.857,9.76
+PWDx,Pole Compliance,South End,1,1.0,4.65
+PWDx,Poor Conditions of Property,Allston / Brighton,1496,1.0,0.08
+PWDx,Poor Conditions of Property,Back Bay,342,1.0,0.11
+PWDx,Poor Conditions of Property,Beacon Hill,42,1.0,0.12
+PWDx,Poor Conditions of Property,Boston,159,1.0,0.1
+PWDx,Poor Conditions of Property,Charlestown,97,1.0,0.2
+PWDx,Poor Conditions of Property,Chestnut Hill,3,1.0,0.16
+PWDx,Poor Conditions of Property,Dorchester,1832,0.999,0.07
+PWDx,Poor Conditions of Property,Downtown / Financial District,139,0.993,0.09
+PWDx,Poor Conditions of Property,East Boston,432,1.0,0.12
+PWDx,Poor Conditions of Property,Fenway / Kenmore / Audubon Circle / Longwood,63,1.0,0.15
+PWDx,Poor Conditions of Property,Greater Mattapan,852,1.0,0.11
+PWDx,Poor Conditions of Property,Hyde Park,285,0.996,0.38
+PWDx,Poor Conditions of Property,Jamaica Plain,440,0.998,0.11
+PWDx,Poor Conditions of Property,Mission Hill,443,1.0,0.12
+PWDx,Poor Conditions of Property,Roslindale,200,0.995,0.27
+PWDx,Poor Conditions of Property,Roxbury,842,0.999,0.1
+PWDx,Poor Conditions of Property,South Boston / South Boston Waterfront,618,0.998,0.12
+PWDx,Poor Conditions of Property,South End,149,1.0,0.1
+PWDx,Poor Conditions of Property,West Roxbury,202,1.0,0.25
+PWDx,Protection of Adjoining Property,Dorchester,3,1.0,0.89
+PWDx,Protection of Adjoining Property,Greater Mattapan,2,0.5,6.42
+PWDx,Protection of Adjoining Property,Roxbury,1,1.0,0.26
+PWDx,Public Works General Request,Allston / Brighton,42,1.0,0.88
+PWDx,Public Works General Request,Back Bay,18,1.0,0.64
+PWDx,Public Works General Request,Beacon Hill,7,1.0,0.71
+PWDx,Public Works General Request,Boston,22,1.0,0.88
+PWDx,Public Works General Request,Charlestown,18,1.0,0.79
+PWDx,Public Works General Request,Dorchester,107,1.0,0.73
+PWDx,Public Works General Request,Downtown / Financial District,25,1.0,1.21
+PWDx,Public Works General Request,East Boston,34,1.0,1.26
+PWDx,Public Works General Request,Fenway / Kenmore / Audubon Circle / Longwood,5,1.0,1.6
+PWDx,Public Works General Request,Greater Mattapan,36,1.0,0.77
+PWDx,Public Works General Request,Hyde Park,51,1.0,0.81
+PWDx,Public Works General Request,Jamaica Plain,42,1.0,0.79
+PWDx,Public Works General Request,Mission Hill,4,1.0,0.91
+PWDx,Public Works General Request,Roslindale,18,1.0,0.8
+PWDx,Public Works General Request,Roxbury,58,1.0,0.8
+PWDx,Public Works General Request,South Boston / South Boston Waterfront,36,1.0,0.79
+PWDx,Public Works General Request,South End,21,1.0,0.77
+PWDx,Public Works General Request,West Roxbury,32,1.0,0.71
+PWDx,Recycling Cart Return,Allston / Brighton,554,0.224,8.11
+PWDx,Recycling Cart Return,Back Bay,12,0.583,7.87
+PWDx,Recycling Cart Return,Beacon Hill,8,0.375,8.74
+PWDx,Recycling Cart Return,Boston,8,0.25,9.37
+PWDx,Recycling Cart Return,Charlestown,151,0.132,8.02
+PWDx,Recycling Cart Return,Chestnut Hill,1,0.0,11.87
+PWDx,Recycling Cart Return,Dorchester,825,0.104,14.7
+PWDx,Recycling Cart Return,Downtown / Financial District,6,0.5,10.08
+PWDx,Recycling Cart Return,East Boston,206,0.136,8.96
+PWDx,Recycling Cart Return,Greater Mattapan,230,0.091,12.33
+PWDx,Recycling Cart Return,Hyde Park,574,0.092,13.21
+PWDx,Recycling Cart Return,Jamaica Plain,345,0.11,15.01
+PWDx,Recycling Cart Return,Mission Hill,61,0.246,9.05
+PWDx,Recycling Cart Return,Roslindale,195,0.118,12.96
+PWDx,Recycling Cart Return,Roxbury,332,0.235,8.87
+PWDx,Recycling Cart Return,South Boston / South Boston Waterfront,263,0.129,8.12
+PWDx,Recycling Cart Return,South End,30,0.333,11.57
+PWDx,Recycling Cart Return,West Roxbury,336,0.131,13.7
+PWDx,Request for Litter Basket Installation,Allston / Brighton,13,1.0,2.12
+PWDx,Request for Litter Basket Installation,Beacon Hill,17,1.0,0.83
+PWDx,Request for Litter Basket Installation,Boston,3,1.0,4.71
+PWDx,Request for Litter Basket Installation,Dorchester,5,1.0,1.49
+PWDx,Request for Litter Basket Installation,Downtown / Financial District,4,1.0,0.85
+PWDx,Request for Litter Basket Installation,East Boston,6,1.0,1.59
+PWDx,Request for Litter Basket Installation,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.37
+PWDx,Request for Litter Basket Installation,Greater Mattapan,13,1.0,1.6
+PWDx,Request for Litter Basket Installation,Hyde Park,4,0.75,1.36
+PWDx,Request for Litter Basket Installation,Jamaica Plain,6,1.0,1.31
+PWDx,Request for Litter Basket Installation,Roslindale,3,1.0,0.6
+PWDx,Request for Litter Basket Installation,Roxbury,14,0.929,2.23
+PWDx,Request for Litter Basket Installation,South Boston / South Boston Waterfront,3,0.667,0.72
+PWDx,Request for Litter Basket Installation,South End,2,1.0,1.84
+PWDx,Request for Litter Basket Installation,West Roxbury,1,1.0,6.75
+PWDx,Request for Pothole Repair,Allston / Brighton,735,0.354,1.81
+PWDx,Request for Pothole Repair,Back Bay,627,0.233,1.89
+PWDx,Request for Pothole Repair,Beacon Hill,169,0.302,1.95
+PWDx,Request for Pothole Repair,Boston,313,0.38,0.93
+PWDx,Request for Pothole Repair,Charlestown,284,0.264,1.44
+PWDx,Request for Pothole Repair,Chestnut Hill,1,0.0,2.91
+PWDx,Request for Pothole Repair,Dorchester,798,0.658,0.79
+PWDx,Request for Pothole Repair,Downtown / Financial District,602,0.262,1.65
+PWDx,Request for Pothole Repair,East Boston,594,0.919,0.0
+PWDx,Request for Pothole Repair,Fenway / Kenmore / Audubon Circle / Longwood,171,0.585,1.17
+PWDx,Request for Pothole Repair,Greater Mattapan,400,0.662,0.78
+PWDx,Request for Pothole Repair,Hyde Park,478,0.877,0.03
+PWDx,Request for Pothole Repair,Jamaica Plain,572,0.367,2.59
+PWDx,Request for Pothole Repair,Mission Hill,165,0.606,0.93
+PWDx,Request for Pothole Repair,Roslindale,242,0.504,1.58
+PWDx,Request for Pothole Repair,Roxbury,681,0.473,1.1
+PWDx,Request for Pothole Repair,South Boston / South Boston Waterfront,442,0.516,0.68
+PWDx,Request for Pothole Repair,South End,398,0.329,1.61
+PWDx,Request for Pothole Repair,West Roxbury,289,0.457,1.78
+PWDx,Request for Recycling Cart,Allston / Brighton,425,0.96,9.1
+PWDx,Request for Recycling Cart,Back Bay,36,0.972,7.2
+PWDx,Request for Recycling Cart,Beacon Hill,14,1.0,8.4
+PWDx,Request for Recycling Cart,Boston,8,0.875,9.62
+PWDx,Request for Recycling Cart,Charlestown,116,0.974,8.93
+PWDx,Request for Recycling Cart,Dorchester,819,0.945,12.72
+PWDx,Request for Recycling Cart,Downtown / Financial District,14,1.0,6.87
+PWDx,Request for Recycling Cart,East Boston,366,0.978,8.98
+PWDx,Request for Recycling Cart,Fenway / Kenmore / Audubon Circle / Longwood,5,1.0,7.71
+PWDx,Request for Recycling Cart,Greater Mattapan,293,0.962,11.77
+PWDx,Request for Recycling Cart,Hyde Park,362,0.953,12.95
+PWDx,Request for Recycling Cart,Jamaica Plain,334,0.934,11.94
+PWDx,Request for Recycling Cart,Mission Hill,74,0.973,8.85
+PWDx,Request for Recycling Cart,Roslindale,214,0.925,13.73
+PWDx,Request for Recycling Cart,Roxbury,316,0.956,8.93
+PWDx,Request for Recycling Cart,South Boston / South Boston Waterfront,447,0.982,9.19
+PWDx,Request for Recycling Cart,South End,44,0.977,8.33
+PWDx,Request for Recycling Cart,West Roxbury,184,0.929,11.88
+PWDx,Request for Snow Plowing,Allston / Brighton,33,0.97,0.13
+PWDx,Request for Snow Plowing,Back Bay,15,1.0,0.05
+PWDx,Request for Snow Plowing,Beacon Hill,2,1.0,1.47
+PWDx,Request for Snow Plowing,Boston,9,0.889,0.05
+PWDx,Request for Snow Plowing,Charlestown,19,0.947,0.1
+PWDx,Request for Snow Plowing,Dorchester,142,0.986,0.1
+PWDx,Request for Snow Plowing,Downtown / Financial District,23,1.0,0.19
+PWDx,Request for Snow Plowing,East Boston,25,0.88,0.05
+PWDx,Request for Snow Plowing,Fenway / Kenmore / Audubon Circle / Longwood,7,1.0,0.21
+PWDx,Request for Snow Plowing,Greater Mattapan,92,0.957,0.15
+PWDx,Request for Snow Plowing,Hyde Park,106,0.962,0.11
+PWDx,Request for Snow Plowing,Jamaica Plain,104,0.981,0.23
+PWDx,Request for Snow Plowing,Mission Hill,6,1.0,0.12
+PWDx,Request for Snow Plowing,Roslindale,77,0.987,0.24
+PWDx,Request for Snow Plowing,Roxbury,91,0.978,0.11
+PWDx,Request for Snow Plowing,South Boston / South Boston Waterfront,26,0.923,0.07
+PWDx,Request for Snow Plowing,South End,8,1.0,0.05
+PWDx,Request for Snow Plowing,West Roxbury,46,1.0,0.15
+PWDx,Request for Snow Plowing (Emergency Responder),Allston / Brighton,1,1.0,0.07
+PWDx,Request for Snow Plowing (Emergency Responder),Back Bay,1,1.0,0.08
+PWDx,Request for Snow Plowing (Emergency Responder),Boston,1,1.0,0.01
+PWDx,Request for Snow Plowing (Emergency Responder),Dorchester,4,1.0,0.08
+PWDx,Request for Snow Plowing (Emergency Responder),Downtown / Financial District,2,1.0,0.19
+PWDx,Request for Snow Plowing (Emergency Responder),Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.15
+PWDx,Request for Snow Plowing (Emergency Responder),Greater Mattapan,1,1.0,0.07
+PWDx,Request for Snow Plowing (Emergency Responder),Hyde Park,4,1.0,0.27
+PWDx,Request for Snow Plowing (Emergency Responder),Jamaica Plain,3,1.0,0.16
+PWDx,Request for Snow Plowing (Emergency Responder),Mission Hill,1,1.0,0.08
+PWDx,Request for Snow Plowing (Emergency Responder),Roslindale,2,1.0,0.17
+PWDx,Request for Snow Plowing (Emergency Responder),Roxbury,5,1.0,0.03
+PWDx,Request for Snow Plowing (Emergency Responder),South Boston / South Boston Waterfront,2,1.0,0.03
+PWDx,Request for Snow Plowing (Emergency Responder),South End,1,1.0,0.4
+PWDx,Request for Snow Plowing (Emergency Responder),West Roxbury,1,1.0,0.37
+PWDx,Requests for Street Cleaning,Allston / Brighton,1534,0.964,0.15
+PWDx,Requests for Street Cleaning,Back Bay,828,0.975,0.13
+PWDx,Requests for Street Cleaning,Beacon Hill,833,0.974,0.1
+PWDx,Requests for Street Cleaning,Boston,526,0.962,0.12
+PWDx,Requests for Street Cleaning,Charlestown,364,0.967,0.11
+PWDx,Requests for Street Cleaning,Dorchester,3460,0.992,0.05
+PWDx,Requests for Street Cleaning,Downtown / Financial District,943,0.977,0.09
+PWDx,Requests for Street Cleaning,East Boston,1314,0.986,0.12
+PWDx,Requests for Street Cleaning,Fenway / Kenmore / Audubon Circle / Longwood,351,0.977,0.42
+PWDx,Requests for Street Cleaning,Greater Mattapan,912,0.981,0.05
+PWDx,Requests for Street Cleaning,Hyde Park,712,0.992,0.04
+PWDx,Requests for Street Cleaning,Jamaica Plain,982,0.922,0.19
+PWDx,Requests for Street Cleaning,Mission Hill,214,0.972,0.15
+PWDx,Requests for Street Cleaning,Roslindale,614,0.943,0.12
+PWDx,Requests for Street Cleaning,Roxbury,2315,0.988,0.08
+PWDx,Requests for Street Cleaning,South Boston / South Boston Waterfront,1521,0.981,0.09
+PWDx,Requests for Street Cleaning,South End,2278,0.986,0.14
+PWDx,Requests for Street Cleaning,West Roxbury,413,0.971,0.09
+PWDx,Requests for Traffic Signal Studies or Reviews,Dorchester,1,0.0,63.04
+PWDx,Requests for Traffic Signal Studies or Reviews,West Roxbury,1,0.0,
+PWDx,Roadway Repair,Allston / Brighton,35,1.0,0.75
+PWDx,Roadway Repair,Back Bay,34,1.0,0.11
+PWDx,Roadway Repair,Beacon Hill,6,1.0,1.93
+PWDx,Roadway Repair,Boston,11,1.0,0.0
+PWDx,Roadway Repair,Charlestown,15,1.0,0.74
+PWDx,Roadway Repair,Dorchester,64,1.0,0.05
+PWDx,Roadway Repair,Downtown / Financial District,22,1.0,0.65
+PWDx,Roadway Repair,East Boston,18,1.0,0.67
+PWDx,Roadway Repair,Fenway / Kenmore / Audubon Circle / Longwood,3,1.0,7.89
+PWDx,Roadway Repair,Greater Mattapan,37,1.0,0.83
+PWDx,Roadway Repair,Hyde Park,19,1.0,0.75
+PWDx,Roadway Repair,Jamaica Plain,21,1.0,0.89
+PWDx,Roadway Repair,Mission Hill,4,1.0,
+PWDx,Roadway Repair,Roslindale,20,1.0,0.54
+PWDx,Roadway Repair,Roxbury,60,1.0,0.83
+PWDx,Roadway Repair,South Boston / South Boston Waterfront,14,1.0,12.45
+PWDx,Roadway Repair,South End,16,1.0,1.08
+PWDx,Roadway Repair,West Roxbury,29,1.0,0.58
+PWDx,Rodent Activity,Allston / Brighton,20,1.0,0.86
+PWDx,Rodent Activity,Back Bay,14,1.0,1.56
+PWDx,Rodent Activity,Beacon Hill,6,1.0,1.21
+PWDx,Rodent Activity,Boston,6,1.0,0.73
+PWDx,Rodent Activity,Charlestown,4,1.0,0.52
+PWDx,Rodent Activity,Dorchester,60,1.0,0.86
+PWDx,Rodent Activity,Downtown / Financial District,5,0.6,1.25
+PWDx,Rodent Activity,East Boston,25,0.96,0.87
+PWDx,Rodent Activity,Fenway / Kenmore / Audubon Circle / Longwood,2,1.0,1.26
+PWDx,Rodent Activity,Greater Mattapan,16,0.938,1.37
+PWDx,Rodent Activity,Hyde Park,9,1.0,2.04
+PWDx,Rodent Activity,Jamaica Plain,14,0.929,1.72
+PWDx,Rodent Activity,Mission Hill,3,1.0,1.93
+PWDx,Rodent Activity,Roslindale,5,1.0,0.81
+PWDx,Rodent Activity,Roxbury,13,1.0,0.99
+PWDx,Rodent Activity,South Boston / South Boston Waterfront,17,1.0,0.9
+PWDx,Rodent Activity,South End,12,0.833,1.83
+PWDx,Rodent Activity,West Roxbury,9,1.0,0.89
+PWDx,Schedule a Bulk Item Pickup,Allston / Brighton,719,1.0,0.71
+PWDx,Schedule a Bulk Item Pickup,Back Bay,154,1.0,0.02
+PWDx,Schedule a Bulk Item Pickup,Beacon Hill,89,1.0,0.51
+PWDx,Schedule a Bulk Item Pickup,Boston,96,1.0,0.09
+PWDx,Schedule a Bulk Item Pickup,Charlestown,217,1.0,0.16
+PWDx,Schedule a Bulk Item Pickup,Dorchester,3118,1.0,0.09
+PWDx,Schedule a Bulk Item Pickup,Downtown / Financial District,146,1.0,0.08
+PWDx,Schedule a Bulk Item Pickup,East Boston,444,1.0,0.85
+PWDx,Schedule a Bulk Item Pickup,Fenway / Kenmore / Audubon Circle / Longwood,40,1.0,0.91
+PWDx,Schedule a Bulk Item Pickup,Greater Mattapan,1489,1.0,0.92
+PWDx,Schedule a Bulk Item Pickup,Hyde Park,1048,1.0,0.88
+PWDx,Schedule a Bulk Item Pickup,Jamaica Plain,619,1.0,0.75
+PWDx,Schedule a Bulk Item Pickup,Mission Hill,113,1.0,0.81
+PWDx,Schedule a Bulk Item Pickup,Roslindale,712,1.0,0.97
+PWDx,Schedule a Bulk Item Pickup,Roxbury,1190,1.0,0.21
+PWDx,Schedule a Bulk Item Pickup,South Boston / South Boston Waterfront,586,1.0,0.83
+PWDx,Schedule a Bulk Item Pickup,South End,215,1.0,0.39
+PWDx,Schedule a Bulk Item Pickup,West Roxbury,815,1.0,0.13
+PWDx,Schedule a Bulk Item Pickup SS,Allston / Brighton,779,1.0,3.03
+PWDx,Schedule a Bulk Item Pickup SS,Back Bay,171,1.0,2.28
+PWDx,Schedule a Bulk Item Pickup SS,Beacon Hill,118,1.0,1.57
+PWDx,Schedule a Bulk Item Pickup SS,Boston,63,1.0,
+PWDx,Schedule a Bulk Item Pickup SS,Charlestown,226,1.0,1.82
+PWDx,Schedule a Bulk Item Pickup SS,Dorchester,1413,1.0,3.25
+PWDx,Schedule a Bulk Item Pickup SS,Downtown / Financial District,183,1.0,2.61
+PWDx,Schedule a Bulk Item Pickup SS,East Boston,337,1.0,6.14
+PWDx,Schedule a Bulk Item Pickup SS,Fenway / Kenmore / Audubon Circle / Longwood,56,1.0,0.24
+PWDx,Schedule a Bulk Item Pickup SS,Greater Mattapan,435,1.0,6.91
+PWDx,Schedule a Bulk Item Pickup SS,Hyde Park,585,1.0,3.38
+PWDx,Schedule a Bulk Item Pickup SS,Jamaica Plain,540,1.0,1.67
+PWDx,Schedule a Bulk Item Pickup SS,Mission Hill,117,1.0,1.15
+PWDx,Schedule a Bulk Item Pickup SS,Roslindale,543,1.0,3.28
+PWDx,Schedule a Bulk Item Pickup SS,Roxbury,406,1.0,1.02
+PWDx,Schedule a Bulk Item Pickup SS,South Boston / South Boston Waterfront,409,1.0,1.96
+PWDx,Schedule a Bulk Item Pickup SS,South End,240,1.0,1.41
+PWDx,Schedule a Bulk Item Pickup SS,West Roxbury,788,1.0,3.4
+PWDx,Sidewalk Cover / Manhole,Back Bay,2,1.0,2.35
+PWDx,Sidewalk Cover / Manhole,Downtown / Financial District,2,1.0,1.13
+PWDx,Sidewalk Repair,Roxbury,1,0.0,
+PWDx,Sidewalk Repair,South Boston / South Boston Waterfront,20,0.0,
+PWDx,Sidewalk Repair (Make Safe),Allston / Brighton,368,0.141,2.73
+PWDx,Sidewalk Repair (Make Safe),Back Bay,255,0.129,7.19
+PWDx,Sidewalk Repair (Make Safe),Beacon Hill,322,0.078,157.91
+PWDx,Sidewalk Repair (Make Safe),Boston,210,0.233,1.23
+PWDx,Sidewalk Repair (Make Safe),Charlestown,202,0.277,1.02
+PWDx,Sidewalk Repair (Make Safe),Dorchester,524,0.212,0.81
+PWDx,Sidewalk Repair (Make Safe),Downtown / Financial District,330,0.176,4.76
+PWDx,Sidewalk Repair (Make Safe),East Boston,262,0.332,0.68
+PWDx,Sidewalk Repair (Make Safe),Fenway / Kenmore / Audubon Circle / Longwood,99,0.202,0.62
+PWDx,Sidewalk Repair (Make Safe),Greater Mattapan,188,0.197,0.09
+PWDx,Sidewalk Repair (Make Safe),Hyde Park,146,0.342,2.06
+PWDx,Sidewalk Repair (Make Safe),Jamaica Plain,207,0.184,1.91
+PWDx,Sidewalk Repair (Make Safe),Mission Hill,77,0.403,0.55
+PWDx,Sidewalk Repair (Make Safe),Roslindale,186,0.258,1.82
+PWDx,Sidewalk Repair (Make Safe),Roxbury,339,0.171,0.78
+PWDx,Sidewalk Repair (Make Safe),South Boston / South Boston Waterfront,256,0.336,0.74
+PWDx,Sidewalk Repair (Make Safe),South End,547,0.082,26.08
+PWDx,Sidewalk Repair (Make Safe),West Roxbury,253,0.336,2.28
+PWDx,Sign Repair,Allston / Brighton,9,0.667,4.84
+PWDx,Sign Repair,Back Bay,1,0.0,158.04
+PWDx,Sign Repair,Beacon Hill,2,0.5,116.86
+PWDx,Sign Repair,Boston,5,0.4,27.2
+PWDx,Sign Repair,Charlestown,1,0.0,508.91
+PWDx,Sign Repair,Dorchester,5,0.8,2.09
+PWDx,Sign Repair,Downtown / Financial District,5,0.6,8.95
+PWDx,Sign Repair,East Boston,8,0.375,146.1
+PWDx,Sign Repair,Fenway / Kenmore / Audubon Circle / Longwood,5,0.8,0.64
+PWDx,Sign Repair,Greater Mattapan,2,0.5,1.87
+PWDx,Sign Repair,Hyde Park,3,1.0,5.07
+PWDx,Sign Repair,Jamaica Plain,3,0.667,0.57
+PWDx,Sign Repair,Roslindale,1,1.0,12.62
+PWDx,Sign Repair,Roxbury,4,1.0,2.38
+PWDx,Sign Repair,South Boston / South Boston Waterfront,5,0.6,3.92
+PWDx,Sign Repair,South End,5,0.8,5.02
+PWDx,Sign Repair,West Roxbury,5,0.8,0.72
+PWDx,Snow/Ice Control,Roxbury,1,1.0,0.04
+PWDx,Space Savers,Allston / Brighton,3,1.0,0.83
+PWDx,Space Savers,Back Bay,1,1.0,0.47
+PWDx,Space Savers,Boston,3,1.0,6.75
+PWDx,Space Savers,Charlestown,5,1.0,0.05
+PWDx,Space Savers,Dorchester,43,1.0,0.08
+PWDx,Space Savers,Downtown / Financial District,9,1.0,0.41
+PWDx,Space Savers,East Boston,8,1.0,0.24
+PWDx,Space Savers,Greater Mattapan,15,1.0,0.07
+PWDx,Space Savers,Hyde Park,5,1.0,0.05
+PWDx,Space Savers,Jamaica Plain,6,1.0,0.2
+PWDx,Space Savers,Mission Hill,1,1.0,0.87
+PWDx,Space Savers,Roslindale,10,1.0,0.15
+PWDx,Space Savers,Roxbury,32,1.0,0.12
+PWDx,Space Savers,South Boston / South Boston Waterfront,8,1.0,0.25
+PWDx,Space Savers,South End,1,1.0,2.06
+PWDx,Space Savers,West Roxbury,3,1.0,0.03
+PWDx,Squalid Living Conditions,Back Bay,1,1.0,4.28
+PWDx,Squalid Living Conditions,Jamaica Plain,1,1.0,6.43
+PWDx,Sticker Request,Allston / Brighton,279,0.996,0.7
+PWDx,Sticker Request,Back Bay,12,1.0,0.62
+PWDx,Sticker Request,Beacon Hill,11,1.0,0.1
+PWDx,Sticker Request,Boston,2,1.0,0.32
+PWDx,Sticker Request,Charlestown,39,1.0,0.6
+PWDx,Sticker Request,Dorchester,454,0.996,0.48
+PWDx,Sticker Request,Downtown / Financial District,34,1.0,0.57
+PWDx,Sticker Request,East Boston,93,1.0,0.58
+PWDx,Sticker Request,Fenway / Kenmore / Audubon Circle / Longwood,3,1.0,0.63
+PWDx,Sticker Request,Greater Mattapan,160,0.994,0.4
+PWDx,Sticker Request,Hyde Park,253,0.984,0.29
+PWDx,Sticker Request,Jamaica Plain,270,0.985,0.55
+PWDx,Sticker Request,Mission Hill,28,1.0,0.5
+PWDx,Sticker Request,Roslindale,248,1.0,0.53
+PWDx,Sticker Request,Roxbury,141,0.986,0.61
+PWDx,Sticker Request,South Boston / South Boston Waterfront,104,1.0,0.37
+PWDx,Sticker Request,South End,38,1.0,0.42
+PWDx,Sticker Request,West Roxbury,265,1.0,0.15
+PWDx,Street Light Knock Downs,Allston / Brighton,20,0.9,0.1
+PWDx,Street Light Knock Downs,Back Bay,19,0.947,0.07
+PWDx,Street Light Knock Downs,Beacon Hill,18,0.833,0.06
+PWDx,Street Light Knock Downs,Boston,21,0.905,0.1
+PWDx,Street Light Knock Downs,Charlestown,17,0.882,0.24
+PWDx,Street Light Knock Downs,Dorchester,61,0.902,0.1
+PWDx,Street Light Knock Downs,Downtown / Financial District,21,0.952,0.09
+PWDx,Street Light Knock Downs,East Boston,17,0.941,0.12
+PWDx,Street Light Knock Downs,Fenway / Kenmore / Audubon Circle / Longwood,4,0.75,0.71
+PWDx,Street Light Knock Downs,Greater Mattapan,25,0.84,0.15
+PWDx,Street Light Knock Downs,Hyde Park,19,0.842,0.43
+PWDx,Street Light Knock Downs,Jamaica Plain,24,0.833,0.2
+PWDx,Street Light Knock Downs,Mission Hill,10,1.0,0.05
+PWDx,Street Light Knock Downs,Roslindale,10,1.0,0.07
+PWDx,Street Light Knock Downs,Roxbury,62,0.871,0.15
+PWDx,Street Light Knock Downs,South Boston / South Boston Waterfront,18,1.0,0.1
+PWDx,Street Light Knock Downs,South End,9,0.889,0.08
+PWDx,Street Light Knock Downs,West Roxbury,7,0.857,0.08
+PWDx,Street Light Outages,Allston / Brighton,162,0.272,36.66
+PWDx,Street Light Outages,Back Bay,439,0.531,6.86
+PWDx,Street Light Outages,Beacon Hill,340,0.556,2.73
+PWDx,Street Light Outages,Boston,171,0.456,8.64
+PWDx,Street Light Outages,Charlestown,411,0.523,9.07
+PWDx,Street Light Outages,Dorchester,459,0.545,3.7
+PWDx,Street Light Outages,Downtown / Financial District,271,0.494,5.63
+PWDx,Street Light Outages,East Boston,192,0.37,25.92
+PWDx,Street Light Outages,Fenway / Kenmore / Audubon Circle / Longwood,83,0.398,35.15
+PWDx,Street Light Outages,Greater Mattapan,130,0.654,0.47
+PWDx,Street Light Outages,Hyde Park,65,0.4,22.73
+PWDx,Street Light Outages,Jamaica Plain,105,0.543,10.91
+PWDx,Street Light Outages,Mission Hill,68,0.485,14.53
+PWDx,Street Light Outages,Roslindale,72,0.5,13.67
+PWDx,Street Light Outages,Roxbury,303,0.518,7.65
+PWDx,Street Light Outages,South Boston / South Boston Waterfront,230,0.396,28.34
+PWDx,Street Light Outages,South End,270,0.459,17.03
+PWDx,Street Light Outages,West Roxbury,42,0.429,28.83
+PWDx,StreetLight Pole WO,Allston / Brighton,2,0.0,
+PWDx,StreetLight Pole WO,Back Bay,1,1.0,0.04
+PWDx,StreetLight Pole WO,Boston,1,1.0,0.02
+PWDx,StreetLight Pole WO,Dorchester,12,0.0,226.52
+PWDx,StreetLight Pole WO,Downtown / Financial District,3,1.0,0.01
+PWDx,StreetLight Pole WO,Fenway / Kenmore / Audubon Circle / Longwood,1,0.0,
+PWDx,StreetLight Pole WO,Greater Mattapan,4,0.0,
+PWDx,StreetLight Pole WO,Roslindale,9,0.0,224.6
+PWDx,StreetLight Pole WO,Roxbury,2,0.0,
+PWDx,StreetLight Pole WO,South Boston / South Boston Waterfront,1,1.0,4.0
+PWDx,StreetLight Pole WO,West Roxbury,2,0.5,0.03
+PWDx,Student Move-in Issues,Allston / Brighton,3,1.0,0.26
+PWDx,Student Move-in Issues,Back Bay,14,1.0,0.08
+PWDx,Student Move-in Issues,Beacon Hill,9,1.0,0.1
+PWDx,Student Move-in Issues,Boston,2,1.0,0.11
+PWDx,Student Move-in Issues,Charlestown,1,1.0,0.08
+PWDx,Student Move-in Issues,Dorchester,9,1.0,0.02
+PWDx,Student Move-in Issues,Downtown / Financial District,3,1.0,0.48
+PWDx,Student Move-in Issues,East Boston,3,1.0,0.06
+PWDx,Student Move-in Issues,Fenway / Kenmore / Audubon Circle / Longwood,5,1.0,0.21
+PWDx,Student Move-in Issues,Jamaica Plain,2,1.0,0.39
+PWDx,Student Move-in Issues,Mission Hill,12,1.0,0.08
+PWDx,Student Move-in Issues,Roxbury,7,1.0,0.51
+PWDx,Student Move-in Issues,South Boston / South Boston Waterfront,8,1.0,0.22
+PWDx,Student Move-in Issues,South End,7,1.0,0.18
+PWDx,Traffic Signal Inspection,Allston / Brighton,1,0.0,
+PWDx,Traffic Signal Inspection,Back Bay,5,0.4,1.4
+PWDx,Traffic Signal Inspection,Beacon Hill,2,0.0,223.51
+PWDx,Traffic Signal Inspection,Charlestown,3,0.667,0.99
+PWDx,Traffic Signal Inspection,Dorchester,6,0.667,0.48
+PWDx,Traffic Signal Inspection,Downtown / Financial District,2,0.5,103.41
+PWDx,Traffic Signal Inspection,Roslindale,1,1.0,0.95
+PWDx,Traffic Signal Inspection,Roxbury,1,1.0,0.22
+PWDx,Traffic Signal Inspection,South Boston / South Boston Waterfront,1,1.0,0.59
+PWDx,Traffic Signal Inspection,South End,4,0.25,2.01
+PWDx,Traffic Signal Inspection,West Roxbury,1,0.0,1.25
+PWDx,Traffic Signal Repair,Allston / Brighton,1,1.0,6.44
+PWDx,Traffic Signal Repair,Back Bay,4,1.0,5.28
+PWDx,Traffic Signal Repair,Beacon Hill,1,1.0,8.97
+PWDx,Traffic Signal Repair,Boston,2,1.0,7.96
+PWDx,Traffic Signal Repair,Dorchester,6,1.0,3.92
+PWDx,Traffic Signal Repair,Downtown / Financial District,2,0.5,112.95
+PWDx,Traffic Signal Repair,East Boston,2,1.0,2.34
+PWDx,Traffic Signal Repair,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,3.87
+PWDx,Traffic Signal Repair,Jamaica Plain,8,1.0,3.31
+PWDx,Traffic Signal Repair,Roxbury,1,1.0,3.08
+PWDx,Traffic Signal Repair,South Boston / South Boston Waterfront,2,1.0,10.7
+PWDx,Traffic Signal Repair,South End,7,1.0,5.85
+PWDx,Transportation General Request,Allston / Brighton,2,1.0,159.24
+PWDx,Transportation General Request,Beacon Hill,1,1.0,230.07
+PWDx,Transportation General Request,Boston,1,1.0,124.89
+PWDx,Transportation General Request,Charlestown,1,1.0,
+PWDx,Transportation General Request,Dorchester,6,1.0,132.73
+PWDx,Transportation General Request,Downtown / Financial District,1,1.0,
+PWDx,Transportation General Request,Greater Mattapan,2,1.0,25.01
+PWDx,Transportation General Request,Hyde Park,1,1.0,405.79
+PWDx,Transportation General Request,Jamaica Plain,2,1.0,253.45
+PWDx,Transportation General Request,Mission Hill,1,1.0,
+PWDx,Transportation General Request,Roslindale,1,1.0,
+PWDx,Transportation General Request,Roxbury,2,1.0,245.92
+PWDx,Transportation General Request,South End,2,1.0,328.15
+PWDx,Transportation General Request,West Roxbury,1,1.0,109.27
+PWDx,Trash on Vacant Lot,Allston / Brighton,1,1.0,1.91
+PWDx,Trash on Vacant Lot,Charlestown,1,1.0,1.07
+PWDx,Trash on Vacant Lot,Dorchester,18,1.0,0.98
+PWDx,Trash on Vacant Lot,Downtown / Financial District,4,1.0,1.61
+PWDx,Trash on Vacant Lot,East Boston,5,1.0,1.68
+PWDx,Trash on Vacant Lot,Greater Mattapan,5,1.0,1.08
+PWDx,Trash on Vacant Lot,Hyde Park,3,1.0,1.0
+PWDx,Trash on Vacant Lot,Jamaica Plain,3,1.0,1.05
+PWDx,Trash on Vacant Lot,Roslindale,1,1.0,0.8
+PWDx,Trash on Vacant Lot,Roxbury,5,1.0,0.9
+PWDx,Trash on Vacant Lot,South Boston / South Boston Waterfront,2,1.0,0.83
+PWDx,Trash on Vacant Lot,South End,1,1.0,2.05
+PWDx,Tree Maintenance Requests,Allston / Brighton,46,0.957,0.61
+PWDx,Tree Maintenance Requests,Back Bay,8,1.0,0.32
+PWDx,Tree Maintenance Requests,Boston,1,1.0,132.89
+PWDx,Tree Maintenance Requests,Charlestown,13,0.923,1.06
+PWDx,Tree Maintenance Requests,Dorchester,45,1.0,0.63
+PWDx,Tree Maintenance Requests,Downtown / Financial District,1,1.0,0.26
+PWDx,Tree Maintenance Requests,East Boston,24,0.958,0.76
+PWDx,Tree Maintenance Requests,Fenway / Kenmore / Audubon Circle / Longwood,9,0.889,0.83
+PWDx,Tree Maintenance Requests,Greater Mattapan,9,1.0,0.76
+PWDx,Tree Maintenance Requests,Hyde Park,21,1.0,0.62
+PWDx,Tree Maintenance Requests,Jamaica Plain,19,0.895,0.52
+PWDx,Tree Maintenance Requests,Mission Hill,2,1.0,0.68
+PWDx,Tree Maintenance Requests,Roslindale,19,0.947,0.57
+PWDx,Tree Maintenance Requests,Roxbury,18,1.0,0.61
+PWDx,Tree Maintenance Requests,South Boston / South Boston Waterfront,16,1.0,0.97
+PWDx,Tree Maintenance Requests,South End,3,1.0,3.1
+PWDx,Tree Maintenance Requests,West Roxbury,29,1.0,0.95
+PWDx,Unsafe Dangerous Conditions,Allston / Brighton,2,0.0,2.19
+PWDx,Unsafe Dangerous Conditions,Back Bay,1,0.0,14.93
+PWDx,Unsafe Dangerous Conditions,Boston,1,0.0,
+PWDx,Unsafe Dangerous Conditions,Dorchester,1,1.0,0.81
+PWDx,Unsafe Dangerous Conditions,Downtown / Financial District,2,0.0,1.08
+PWDx,Unsafe Dangerous Conditions,Greater Mattapan,1,0.0,1.07
+PWDx,Unsafe Dangerous Conditions,Hyde Park,2,0.0,4.65
+PWDx,Unsafe Dangerous Conditions,Jamaica Plain,2,0.0,6.99
+PWDx,Unsafe Dangerous Conditions,Roxbury,1,0.0,7.65
+PWDx,Unsafe Dangerous Conditions,South Boston / South Boston Waterfront,1,0.0,232.41
+PWDx,Unsanitary Conditions - Establishment,Back Bay,1,1.0,1.53
+PWDx,Unsanitary Conditions - Establishment,Boston,1,0.0,2.04
+PWDx,Unsanitary Conditions - Establishment,Dorchester,1,1.0,0.04
+PWDx,Unsanitary Conditions - Establishment,Jamaica Plain,1,0.0,2.83
+PWDx,Unsanitary Conditions - Food,Downtown / Financial District,1,1.0,0.33
+PWDx,Unsatisfactory Living Conditions,Allston / Brighton,1,1.0,0.83
+PWDx,Unsatisfactory Living Conditions,Back Bay,1,1.0,0.93
+PWDx,Unsatisfactory Living Conditions,Boston,1,1.0,0.17
+PWDx,Unsatisfactory Living Conditions,Downtown / Financial District,2,1.0,1.07
+PWDx,Unsatisfactory Living Conditions,Fenway / Kenmore / Audubon Circle / Longwood,1,1.0,0.79
+PWDx,Unsatisfactory Living Conditions,Greater Mattapan,2,1.0,6.91
+PWDx,Unsatisfactory Living Conditions,Roxbury,3,1.0,1.24
+PWDx,Unsatisfactory Living Conditions,South Boston / South Boston Waterfront,1,1.0,3.87
+PWDx,Unsatisfactory Living Conditions,South End,3,1.0,4.6
+PWDx,Unshoveled Sidewalk,Allston / Brighton,493,0.901,0.51
+PWDx,Unshoveled Sidewalk,Back Bay,111,0.91,0.63
+PWDx,Unshoveled Sidewalk,Beacon Hill,49,0.918,0.18
+PWDx,Unshoveled Sidewalk,Boston,106,0.849,0.53
+PWDx,Unshoveled Sidewalk,Charlestown,157,0.968,0.52
+PWDx,Unshoveled Sidewalk,Dorchester,455,0.945,0.59
+PWDx,Unshoveled Sidewalk,Downtown / Financial District,99,0.949,0.43
+PWDx,Unshoveled Sidewalk,East Boston,307,0.971,0.52
+PWDx,Unshoveled Sidewalk,Fenway / Kenmore / Audubon Circle / Longwood,52,0.615,1.72
+PWDx,Unshoveled Sidewalk,Greater Mattapan,87,0.724,0.82
+PWDx,Unshoveled Sidewalk,Hyde Park,110,0.782,0.28
+PWDx,Unshoveled Sidewalk,Jamaica Plain,449,0.951,0.71
+PWDx,Unshoveled Sidewalk,Mission Hill,68,0.706,1.66
+PWDx,Unshoveled Sidewalk,Roslindale,139,0.676,1.03
+PWDx,Unshoveled Sidewalk,Roxbury,169,0.817,0.61
+PWDx,Unshoveled Sidewalk,South Boston / South Boston Waterfront,518,0.886,0.61
+PWDx,Unshoveled Sidewalk,South End,141,0.922,0.44
+PWDx,Unshoveled Sidewalk,West Roxbury,193,0.772,0.91
+PWDx,Upgrade Existing Lighting,Back Bay,1,0.0,299.78
+PWDx,Upgrade Existing Lighting,Beacon Hill,3,0.333,53.55
+PWDx,Upgrade Existing Lighting,Boston,1,0.0,80.95
+PWDx,Upgrade Existing Lighting,Charlestown,2,0.5,78.88
+PWDx,Upgrade Existing Lighting,Dorchester,2,0.0,66.32
+PWDx,Upgrade Existing Lighting,East Boston,1,0.0,309.59
+PWDx,Upgrade Existing Lighting,Fenway / Kenmore / Audubon Circle / Longwood,1,0.0,71.57
+PWDx,Upgrade Existing Lighting,Greater Mattapan,1,0.0,148.71
+PWDx,Upgrade Existing Lighting,Hyde Park,2,0.5,0.0
+PWDx,Upgrade Existing Lighting,Roxbury,8,0.375,108.2
+PWDx,Upgrade Existing Lighting,South End,3,0.0,190.14
+PWDx,Utility Call-In,Charlestown,1,1.0,0.0
+PWDx,Utility Casting Repair,Beacon Hill,1,1.0,0.03
+PWDx,Utility Casting Repair,Downtown / Financial District,1,1.0,6.08
+PWDx,Utility Casting Repair,East Boston,3,1.0,1.02
+PWDx,Utility Casting Repair,Hyde Park,2,1.0,0.02
+PWDx,Utility Casting Repair,Jamaica Plain,1,1.0,53.96
+PWDx,Utility Casting Repair,Roslindale,3,1.0,0.77
+PWDx,Utility Casting Repair,South End,2,1.0,0.03
+PWDx,Utility Casting Repair,West Roxbury,20,1.0,0.11
+PWDx,Work Hours-Loud Noise Complaints,Allston / Brighton,11,1.0,0.4
+PWDx,Work Hours-Loud Noise Complaints,Back Bay,7,0.571,0.27
+PWDx,Work Hours-Loud Noise Complaints,Beacon Hill,4,0.75,1.46
+PWDx,Work Hours-Loud Noise Complaints,Boston,18,0.944,0.33
+PWDx,Work Hours-Loud Noise Complaints,Charlestown,9,0.889,0.63
+PWDx,Work Hours-Loud Noise Complaints,Dorchester,9,0.889,0.48
+PWDx,Work Hours-Loud Noise Complaints,Downtown / Financial District,15,0.933,0.48
+PWDx,Work Hours-Loud Noise Complaints,East Boston,1,1.0,1.43
+PWDx,Work Hours-Loud Noise Complaints,Fenway / Kenmore / Audubon Circle / Longwood,5,0.8,0.98
+PWDx,Work Hours-Loud Noise Complaints,Greater Mattapan,7,0.714,0.33
+PWDx,Work Hours-Loud Noise Complaints,Hyde Park,2,0.5,0.05
+PWDx,Work Hours-Loud Noise Complaints,Jamaica Plain,14,0.857,0.53
+PWDx,Work Hours-Loud Noise Complaints,Mission Hill,2,1.0,0.17
+PWDx,Work Hours-Loud Noise Complaints,Roslindale,1,1.0,0.0
+PWDx,Work Hours-Loud Noise Complaints,Roxbury,6,1.0,0.24
+PWDx,Work Hours-Loud Noise Complaints,South Boston / South Boston Waterfront,16,0.938,0.43
+PWDx,Work Hours-Loud Noise Complaints,South End,4,1.0,0.4
+PWDx,Work Hours-Loud Noise Complaints,West Roxbury,6,0.833,0.28
+PWDx,Work w/out Permit,Jamaica Plain,1,1.0,0.15
+PWDx,Working Beyond Hours,South Boston / South Boston Waterfront,1,1.0,1.61
+PWDx,Zoning,Allston / Brighton,1,0.0,20.11
