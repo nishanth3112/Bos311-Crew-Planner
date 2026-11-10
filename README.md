@@ -9,7 +9,7 @@ IE 5374 Hackathon, Northeastern University. Team of 3.
 ## What's in the repo
 
 - `notebooks/boston311_crew_planner.ipynb`: the whole project, run top to bottom
-- `report.md`: a short analysis of our decisions, assumptions and sensitivity results (added in BOS-6)
+- `report.md`: a short analysis of our decisions, assumptions and sensitivity results
 - `data/processed/`: small CSVs the notebook writes and later sections read
   - `request_types.csv`: every 2024 request type with its department and queue
   - `monthly_demand.csv`: requests per department per month, 2023–2024
